@@ -1,0 +1,1 @@
+_SGD, but a small fraction of the deltas from the previous epoch is added to the deltas of the current epoch._ 

@@ -1,0 +1,1 @@
+_Each parameter in the neural net gets it's own learning rate. The learning rate of each parameter is dependant on the history of it's gradients. The weaker the impact of the previous gradients, the higher the learning rate for this iteration._
