@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff687c3b1dbd49d8",
+        "id": "36bd2304d14a5e8c",
         "type": "tabs",
         "children": [
           {
-            "id": "f00621484e1dab32",
+            "id": "41a178b075f7f2f2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,13 +22,338 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/Brain Rot.md",
+                "file": "Coding/Chess Programming/Iterative Deepening.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39667e485b0925f9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Data Compression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b772dcb21bdab396",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Piece Square Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d213a4cab92ebd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Opening Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a279ec7927e3380",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Delta Pruning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67bbacc02f36fc13",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Null Move Pruning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6f3aa4b882344ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Late Move Reduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Late Move Reduction.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Piece Square Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc16821736e7613a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Middle Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80096370ac3e183a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Piece Square Tables",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Piece Square Tables.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "End Game",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"End Game.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4bf3c4d27355810",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ce5b6a5d70002a8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Null Move Pruning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Null Move Pruning.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Data Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Data Compression.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sebastian Lague Chess Challenge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Sebastian Lague Chess Challenge.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":42},\"to\":{\"line\":14,\"ch\":42}}}"
+                },
+                {
+                  "title": "King Safety",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"King Safety.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Data Compression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1be82642157e710",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Delta Pruning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Delta Pruning.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Run Length Encoding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Run Length Encoding.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Data Compression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0eec38ae25a02748",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Data Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Data Compression.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Delta Encoding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Delta Encoding.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -147,7 +472,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/Brain Rot.md",
+                "file": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +498,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/Brain Rot.md",
+                "file": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +539,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/Brain Rot.md"
+                "file": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md"
               }
             }
           },
@@ -239,8 +564,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,35 +577,41 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "f00621484e1dab32",
+  "active": "0eec38ae25a02748",
   "lastOpenFiles": [
+    "Coding/Chess Programming/Data Compression.md",
+    "Delta Encoding.md",
+    "Coding/Chess Programming/Delta Pruning.md",
+    "Run Length Encoding.md",
+    "Coding/Chess Programming/Null Move Pruning.md",
+    "Coding/Chess Programming/Sebastian Lague Chess Challenge.md",
+    "King Safety.md",
     "Untitled.md",
-    "Self",
-    "Self/Brain Rot.md",
+    "Coding/Chess Programming/Piece Square Tables.md",
+    "End Game.md",
+    "Middle Game.md",
+    "Coding/Chess Programming/Late Move Reduction.md",
+    "Coding/Chess Programming/Opening Book.md",
+    "Coding/Chess Programming/Iterative Deepening.md",
+    "Coding/Chess Programming/Move Ordering.md",
+    "Coding/Chess Programming/Node Pruning.md",
+    "Coding/Chess Programming/Quiescent Search.md",
+    "Coding/Chess Programming/Principle Variation.md",
+    "Coding/Chess Programming/Transposition Table.md",
+    "Coding/Chess Programming/Alpha Beta.md",
     "Coding/Machine Learning/Stochastic Gradient Descent Deep Learning Optimizer.md",
+    "Coding/Chess Programming",
+    "Self/Brain Rot.md",
+    "Self",
     "Coding/Machine Learning/RMS Prop Deep Learning Optimizer.md",
     "Coding/Machine Learning/Gradient Descent Deep Learning Optimizer.md",
     "Coding/Machine Learning/Mini Batch Gradient Descent Deep Learning Optimizer.md",
     "Coding/Machine Learning/Deep Learning Optimizers.md",
-    "Coding/Machine Learning/Backpropagation.md",
-    "Coding/Machine Learning/AdaDelta Deep Learning Optimizer.md",
     "Pasted image 20230716151717.png",
     "Pasted image 20230716151700.png",
     "Pasted image 20230716151657.png",
-    "Coding/Machine Learning/Adagrad Deep Learning Optimizer.md",
-    "Coding/Machine Learning/Stochastic Gradient Descent With Momentum Deep Learning Optimizer.md",
-    "Coding/Machine Learning/Adam Optimizer in Deep Learning.md",
-    "Learning/Better Learning.md",
-    "Learning/Higher Order Learning.md",
-    "Learning/Memory Encoding.md",
     "Untitled.canvas",
-    "Learning/Neuroplasticity.md",
-    "Learning/Deep Processing.md",
-    "Learning/Good Memory.md",
-    "Learning/Revised Bloom's Taxonomy.md",
-    "Learning/Understanding.md",
     "Learning",
-    "Maths/Untitled.md",
     "Coding/Machine Learning",
     "Coding",
     "Maths"

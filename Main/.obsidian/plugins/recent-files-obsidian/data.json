@@ -1,12 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Brain Rot",
-      "path": "Self/Brain Rot.md"
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md"
+    },
+    {
+      "basename": "Data Compression",
+      "path": "Coding/Chess Programming/Data Compression.md"
+    },
+    {
+      "basename": "Delta Encoding",
+      "path": "Delta Encoding.md"
+    },
+    {
+      "basename": "Delta Pruning",
+      "path": "Coding/Chess Programming/Delta Pruning.md"
+    },
+    {
+      "basename": "Run Length Encoding",
+      "path": "Run Length Encoding.md"
+    },
+    {
+      "basename": "Null Move Pruning",
+      "path": "Coding/Chess Programming/Null Move Pruning.md"
+    },
+    {
+      "basename": "King Safety",
+      "path": "King Safety.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Piece Square Tables",
+      "path": "Coding/Chess Programming/Piece Square Tables.md"
+    },
+    {
+      "basename": "End Game",
+      "path": "End Game.md"
+    },
+    {
+      "basename": "Middle Game",
+      "path": "Middle Game.md"
+    },
+    {
+      "basename": "Late Move Reduction",
+      "path": "Coding/Chess Programming/Late Move Reduction.md"
+    },
+    {
+      "basename": "Opening Book",
+      "path": "Coding/Chess Programming/Opening Book.md"
+    },
+    {
+      "basename": "Iterative Deepening",
+      "path": "Coding/Chess Programming/Iterative Deepening.md"
+    },
+    {
+      "basename": "Move Ordering",
+      "path": "Coding/Chess Programming/Move Ordering.md"
+    },
+    {
+      "basename": "Node Pruning",
+      "path": "Coding/Chess Programming/Node Pruning.md"
+    },
+    {
+      "basename": "Quiescent Search",
+      "path": "Coding/Chess Programming/Quiescent Search.md"
+    },
+    {
+      "basename": "Principle Variation",
+      "path": "Coding/Chess Programming/Principle Variation.md"
+    },
+    {
+      "basename": "Transposition Table",
+      "path": "Coding/Chess Programming/Transposition Table.md"
+    },
+    {
+      "basename": "Alpha Beta",
+      "path": "Coding/Chess Programming/Alpha Beta.md"
     },
     {
       "basename": "Stochastic Gradient Descent Deep Learning Optimizer",
       "path": "Coding/Machine Learning/Stochastic Gradient Descent Deep Learning Optimizer.md"
+    },
+    {
+      "basename": "Brain Rot",
+      "path": "Self/Brain Rot.md"
     },
     {
       "basename": "RMS Prop Deep Learning Optimizer",

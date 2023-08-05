@@ -1,7 +1,5 @@
 {
   "vimMode": true,
-  "spellcheckLanguages": [
-    "de",
-    "en"
-  ]
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true
 }
