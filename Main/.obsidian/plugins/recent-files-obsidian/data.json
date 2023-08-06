@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md"
-    },
-    {
       "basename": "Data Compression",
       "path": "Coding/Chess Programming/Data Compression.md"
     },
     {
-      "basename": "Delta Encoding",
-      "path": "Delta Encoding.md"
+      "basename": "Delta Compression",
+      "path": "Coding/Chess Programming/Delta Compression.md"
+    },
+    {
+      "basename": "Alpha Beta",
+      "path": "Coding/Chess Programming/Alpha Beta.md"
+    },
+    {
+      "basename": "Futility Pruning",
+      "path": "Coding/Chess Programming/Futility Pruning.md"
+    },
+    {
+      "basename": "Razoring",
+      "path": "Coding/Chess Programming/Razoring.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md"
     },
     {
       "basename": "Delta Pruning",
@@ -18,7 +30,7 @@
     },
     {
       "basename": "Run Length Encoding",
-      "path": "Run Length Encoding.md"
+      "path": "Coding/Chess Programming/Run Length Encoding.md"
     },
     {
       "basename": "Null Move Pruning",
@@ -26,11 +38,7 @@
     },
     {
       "basename": "King Safety",
-      "path": "King Safety.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "path": "Coding/Chess Programming/King Safety.md"
     },
     {
       "basename": "Piece Square Tables",
@@ -38,11 +46,11 @@
     },
     {
       "basename": "End Game",
-      "path": "End Game.md"
+      "path": "Coding/Chess Programming/End Game.md"
     },
     {
       "basename": "Middle Game",
-      "path": "Middle Game.md"
+      "path": "Coding/Chess Programming/Middle Game.md"
     },
     {
       "basename": "Late Move Reduction",
@@ -75,10 +83,6 @@
     {
       "basename": "Transposition Table",
       "path": "Coding/Chess Programming/Transposition Table.md"
-    },
-    {
-      "basename": "Alpha Beta",
-      "path": "Coding/Chess Programming/Alpha Beta.md"
     },
     {
       "basename": "Stochastic Gradient Descent Deep Learning Optimizer",
