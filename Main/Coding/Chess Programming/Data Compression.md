@@ -4,6 +4,7 @@
 - [[Run Length Encoding]]
 - [[Delta Compression]]
 - Using [[Delta Compression]], we can make the numbers smaller, e.g. they will fit into one byte, and we can bundle more numbers in one big number
+- [[Fourier transform]]
 
 
 Guide:

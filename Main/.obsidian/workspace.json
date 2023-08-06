@@ -447,9 +447,114 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a2b477dec96b0d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Data Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Data Compression.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Delta Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Delta Compression.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Data Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Chess Programming/Data Compression.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fourier transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fourier transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fourier transform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e6fba0b6ad167a6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fourier transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fourier transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Discrete Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Fourier Transform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce2b23f690ae67c1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fast Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Fourier Transform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -543,7 +648,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -568,7 +674,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Chess Programming/Data Compression.md",
+                "file": "Discrete Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -594,7 +700,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Chess Programming/Data Compression.md",
+                "file": "Discrete Fourier Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -635,7 +741,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Chess Programming/Data Compression.md"
+                "file": "Discrete Fourier Transform.md"
               }
             }
           },
@@ -660,7 +766,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -673,10 +780,13 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "225b2fd135395e69",
+  "active": "ce2b23f690ae67c1",
   "lastOpenFiles": [
-    "Coding/Chess Programming/Delta Compression.md",
+    "Fast Fourier Transform.md",
+    "Discrete Fourier Transform.md",
+    "Fourier transform.md",
     "Coding/Chess Programming/Data Compression.md",
+    "Coding/Chess Programming/Delta Compression.md",
     "Coding/Chess Programming/Alpha Beta.md",
     "Coding/Chess Programming/Futility Pruning.md",
     "Coding/Chess Programming/Razoring.md",
@@ -700,9 +810,6 @@
     "Coding/Chess Programming",
     "Self/Brain Rot.md",
     "Self",
-    "Coding/Machine Learning/RMS Prop Deep Learning Optimizer.md",
-    "Coding/Machine Learning/Gradient Descent Deep Learning Optimizer.md",
-    "Coding/Machine Learning/Mini Batch Gradient Descent Deep Learning Optimizer.md",
     "Pasted image 20230716151717.png",
     "Pasted image 20230716151700.png",
     "Pasted image 20230716151657.png",
