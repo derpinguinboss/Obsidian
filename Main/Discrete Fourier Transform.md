@@ -3,4 +3,16 @@ Source: [The Discrete Fourier Transform (DFT) - YouTube](https://www.youtube.com
 Implemented via the [[Fast Fourier Transform]].
 Useful if we have discrete data points/ a vector of data.
 
-$$\hat{f}(x)=\sum{f}$$
+##  Formulas
+#### Data to Fourier Coefficients
+$$
+\hat{f_k} = \sum_{j=0}^{n-1}{f_j e^{-i 2 \pi \frac{k}{n}}}
+$$
+
+#### Fourier Coefficients To Data
+$$
+{f_k} = \frac{1}{n} \sum_{j=0}^{n-1}{\hat{f}_je^{i2 \pi \frac{k}{n}}}
+$$
+
+
+ 

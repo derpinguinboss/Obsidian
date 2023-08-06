@@ -1,1 +1,1 @@
-Computation Via: [[Discrete Fourier Transform]]
+Data points computed via: [[Discrete Fourier Transform]]

@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Discrete Fourier Transform",
-      "path": "Discrete Fourier Transform.md"
-    },
-    {
-      "basename": "Fast Fourier Transform",
-      "path": "Fast Fourier Transform.md"
+      "basename": "FFT 2 - Image Compression",
+      "path": "FFT 2 - Image Compression.md"
     },
     {
       "basename": "Fourier transform",
       "path": "Fourier transform.md"
     },
     {
+      "basename": "Wavelet Transform",
+      "path": "Wavelet Transform.md"
+    },
+    {
+      "basename": "Fast Fourier Transform",
+      "path": "Fast Fourier Transform.md"
+    },
+    {
+      "basename": "Discrete Fourier Transform",
+      "path": "Discrete Fourier Transform.md"
+    },
+    {
       "basename": "Data Compression",
       "path": "Coding/Chess Programming/Data Compression.md"
+    },
+    {
+      "basename": "Razoring",
+      "path": "Coding/Chess Programming/Razoring.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md"
+    },
+    {
+      "basename": "Middle Game",
+      "path": "Coding/Chess Programming/Middle Game.md"
+    },
+    {
+      "basename": "Piece Square Tables",
+      "path": "Coding/Chess Programming/Piece Square Tables.md"
+    },
+    {
+      "basename": "Null Move Pruning",
+      "path": "Coding/Chess Programming/Null Move Pruning.md"
+    },
+    {
+      "basename": "Delta Pruning",
+      "path": "Coding/Chess Programming/Delta Pruning.md"
+    },
+    {
+      "basename": "Opening Book",
+      "path": "Coding/Chess Programming/Opening Book.md"
+    },
+    {
+      "basename": "Iterative Deepening",
+      "path": "Coding/Chess Programming/Iterative Deepening.md"
     },
     {
       "basename": "Delta Compression",
@@ -29,52 +69,20 @@
       "path": "Coding/Chess Programming/Futility Pruning.md"
     },
     {
-      "basename": "Razoring",
-      "path": "Coding/Chess Programming/Razoring.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md"
-    },
-    {
-      "basename": "Delta Pruning",
-      "path": "Coding/Chess Programming/Delta Pruning.md"
-    },
-    {
       "basename": "Run Length Encoding",
       "path": "Coding/Chess Programming/Run Length Encoding.md"
-    },
-    {
-      "basename": "Null Move Pruning",
-      "path": "Coding/Chess Programming/Null Move Pruning.md"
     },
     {
       "basename": "King Safety",
       "path": "Coding/Chess Programming/King Safety.md"
     },
     {
-      "basename": "Piece Square Tables",
-      "path": "Coding/Chess Programming/Piece Square Tables.md"
-    },
-    {
       "basename": "End Game",
       "path": "Coding/Chess Programming/End Game.md"
     },
     {
-      "basename": "Middle Game",
-      "path": "Coding/Chess Programming/Middle Game.md"
-    },
-    {
       "basename": "Late Move Reduction",
       "path": "Coding/Chess Programming/Late Move Reduction.md"
-    },
-    {
-      "basename": "Opening Book",
-      "path": "Coding/Chess Programming/Opening Book.md"
-    },
-    {
-      "basename": "Iterative Deepening",
-      "path": "Coding/Chess Programming/Iterative Deepening.md"
     },
     {
       "basename": "Move Ordering",
