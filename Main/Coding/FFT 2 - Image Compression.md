@@ -13,4 +13,4 @@ Algorithm TDLR
 
 Examples
 ---
-- Jpg Image Compression
+- [[Jpg Image Compression]]

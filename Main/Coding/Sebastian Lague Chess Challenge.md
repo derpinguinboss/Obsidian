@@ -6,6 +6,7 @@ Sources
 
 Todo
 ===
+- [ ] Update API version to 1.19
 - [ ] On Initialization (constructor) decode the compressed data and cache in memory. Thus it doesn't have to be decompressed on runtime of the search, wasting computation time
 - [ ] [[Piece Square Tables]]
 	- [ ] Switch from jagged array to a single array

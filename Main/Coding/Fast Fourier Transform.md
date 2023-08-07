@@ -7,14 +7,14 @@ Sources
 Description
 ---
 - Used to compute the [[Discrete Fourier Transform]]
-- [[Wavelet Transform]] is an enhanced FFT for compression.
-- Scaling: $O(nlog_2n)$
+- [[Wavelet Transform]] is an enhanced FFT for [[Image Compression]].
+- Scaling in [[BigO Notation]]: $O(nlog_2n)$
 
 
 Mathematical description
 ---
-F = big DFT matrix
-f = input vector of data points
+F = big DFT [[Matrix]]
+f = input [[Vektor]] of data points
 $$
 \hat{f} = {
 	{F_{1024}f}
