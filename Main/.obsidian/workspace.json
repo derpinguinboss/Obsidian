@@ -18,6 +18,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Discrete Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":2.363425925925926}"
+                },
+                {
+                  "title": "Fast Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "FFT 2 - Image Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/FFT 2 - Image Compression.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sebastian Lague Chess Challenge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Sebastian Lague Chess Challenge.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rotationskörper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Rotationskörper.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":7},\"to\":{\"line\":18,\"ch\":7}}}"
+                },
+                {
                   "title": "Stochastik",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Stochastik.md\",\"mode\":\"source\",\"source\":false}}",
@@ -46,7 +76,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Rotationskörper.md",
+                "file": "Coding/Fast Fourier Transform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "459210461d56a6f5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diagonal Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Rotationskörper.md",
+                "file": "Coding/Fast Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Rotationskörper.md",
+                "file": "Coding/Fast Fourier Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Rotationskörper.md"
+                "file": "Coding/Fast Fourier Transform.md"
               }
             }
           },
@@ -279,6 +330,13 @@
   },
   "active": "d609bdc8862123e5",
   "lastOpenFiles": [
+    "Diagonal Matrix.md",
+    "Coding/Fast Fourier Transform.md",
+    "Identity Matrix.md",
+    "Coding/Discrete Fourier Transform.md",
+    "Coding/FFT 2 - Image Compression.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
+    "Math/Rotationskörper.md",
     "Math/Stochastik.md",
     "Math/Vektor.md",
     "Math/Themen - Schule.md",
@@ -287,25 +345,18 @@
     "Coding/Jpg Image Compression.md",
     "TODO.md",
     "Coding/Image Compression.md",
-    "Coding/FFT 2 - Image Compression.md",
     "2023-08-07.md",
     "Untitled.canvas",
     "Vector.md",
     "Math/Normalverteilung.md",
     "Math/Matrix.md",
-    "Coding/Fast Fourier Transform.md",
     "Math/Intervall.md",
     "Math/Analytische Geometrie.md",
     "Math/Ebene.md",
     "Math/Gerade.md",
-    "Math/Rotationskörper.md",
-    "Coding/BigO Notation.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
+    "Coding/Big O Notation.md",
     "Learning/Better Learning.md",
     "Learning/Good Memory.md",
-    "Learning/Revised Bloom's Taxonomy.md",
-    "Math/Analysis.md",
-    "Learning/Neuroplasticity.md",
     "Calendar/2022",
     "Calendar",
     "TODO",

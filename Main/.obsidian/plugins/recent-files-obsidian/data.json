@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Fast Fourier Transform",
+      "path": "Coding/Fast Fourier Transform.md"
+    },
+    {
+      "basename": "Diagonal Matrix",
+      "path": "Diagonal Matrix.md"
+    },
+    {
+      "basename": "Identity Matrix",
+      "path": "Identity Matrix.md"
+    },
+    {
+      "basename": "Discrete Fourier Transform",
+      "path": "Coding/Discrete Fourier Transform.md"
+    },
+    {
+      "basename": "FFT 2 - Image Compression",
+      "path": "Coding/FFT 2 - Image Compression.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
+    },
+    {
       "basename": "Rotationskörper",
       "path": "Math/Rotationskörper.md"
     },
@@ -33,20 +57,12 @@
       "path": "Coding/Image Compression.md"
     },
     {
-      "basename": "FFT 2 - Image Compression",
-      "path": "Coding/FFT 2 - Image Compression.md"
-    },
-    {
       "basename": "Normalverteilung",
       "path": "Math/Normalverteilung.md"
     },
     {
       "basename": "Matrix",
       "path": "Math/Matrix.md"
-    },
-    {
-      "basename": "Fast Fourier Transform",
-      "path": "Coding/Fast Fourier Transform.md"
     },
     {
       "basename": "Intervall",
@@ -65,12 +81,8 @@
       "path": "Math/Gerade.md"
     },
     {
-      "basename": "BigO Notation",
-      "path": "Coding/BigO Notation.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
+      "basename": "Big O Notation",
+      "path": "Coding/Big O Notation.md"
     },
     {
       "basename": "Better Learning",
@@ -131,10 +143,6 @@
     {
       "basename": "Delta Pruning",
       "path": "Coding/Delta Pruning.md"
-    },
-    {
-      "basename": "Discrete Fourier Transform",
-      "path": "Coding/Discrete Fourier Transform.md"
     },
     {
       "basename": "End Game",

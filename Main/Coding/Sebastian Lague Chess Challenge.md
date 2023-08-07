@@ -1,7 +1,7 @@
 
 Sources
 ===
-[Github Repo](https://github.com/SebLague/Chess-Challenge), [Youtube Introduction](https://www.youtube.com/watch?v=iScy18pVR58)
+[GitHub Repo](https://github.com/SebLague/Chess-Challenge), [YouTube Introduction](https://www.youtube.com/watch?v=iScy18pVR58)
 
 
 Todo
