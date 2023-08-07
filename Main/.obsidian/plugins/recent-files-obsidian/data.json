@@ -1,108 +1,164 @@
 {
   "recentFiles": [
     {
-      "basename": "FFT 2 - Image Compression",
-      "path": "FFT 2 - Image Compression.md"
+      "basename": "TODO",
+      "path": "TODO.md"
     },
     {
-      "basename": "Fourier transform",
-      "path": "Fourier transform.md"
-    },
-    {
-      "basename": "Wavelet Transform",
-      "path": "Wavelet Transform.md"
+      "basename": "2023-08-07",
+      "path": "Calendar/2022/2023-08-07.md"
     },
     {
       "basename": "Fast Fourier Transform",
-      "path": "Fast Fourier Transform.md"
+      "path": "Coding/Chess Programming/Fast Fourier Transform.md"
     },
     {
-      "basename": "Discrete Fourier Transform",
-      "path": "Discrete Fourier Transform.md"
-    },
-    {
-      "basename": "Data Compression",
-      "path": "Coding/Chess Programming/Data Compression.md"
-    },
-    {
-      "basename": "Razoring",
-      "path": "Coding/Chess Programming/Razoring.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md"
-    },
-    {
-      "basename": "Middle Game",
-      "path": "Coding/Chess Programming/Middle Game.md"
-    },
-    {
-      "basename": "Piece Square Tables",
-      "path": "Coding/Chess Programming/Piece Square Tables.md"
-    },
-    {
-      "basename": "Null Move Pruning",
-      "path": "Coding/Chess Programming/Null Move Pruning.md"
-    },
-    {
-      "basename": "Delta Pruning",
-      "path": "Coding/Chess Programming/Delta Pruning.md"
-    },
-    {
-      "basename": "Opening Book",
-      "path": "Coding/Chess Programming/Opening Book.md"
-    },
-    {
-      "basename": "Iterative Deepening",
-      "path": "Coding/Chess Programming/Iterative Deepening.md"
+      "basename": "Alpha Beta Pruning",
+      "path": "Coding/Chess Programming/Alpha Beta Pruning.md"
     },
     {
       "basename": "Delta Compression",
       "path": "Coding/Chess Programming/Delta Compression.md"
     },
     {
-      "basename": "Alpha Beta",
-      "path": "Coding/Chess Programming/Alpha Beta.md"
+      "basename": "Delta Pruning",
+      "path": "Coding/Chess Programming/Delta Pruning.md"
     },
     {
-      "basename": "Futility Pruning",
-      "path": "Coding/Chess Programming/Futility Pruning.md"
-    },
-    {
-      "basename": "Run Length Encoding",
-      "path": "Coding/Chess Programming/Run Length Encoding.md"
-    },
-    {
-      "basename": "King Safety",
-      "path": "Coding/Chess Programming/King Safety.md"
+      "basename": "Discrete Fourier Transform",
+      "path": "Coding/Chess Programming/Discrete Fourier Transform.md"
     },
     {
       "basename": "End Game",
       "path": "Coding/Chess Programming/End Game.md"
     },
     {
+      "basename": "FFT 2 - Image Compression",
+      "path": "Coding/Chess Programming/FFT 2 - Image Compression.md"
+    },
+    {
+      "basename": "Fourier transform",
+      "path": "Coding/Chess Programming/Fourier transform.md"
+    },
+    {
+      "basename": "Futility Pruning",
+      "path": "Coding/Chess Programming/Futility Pruning.md"
+    },
+    {
+      "basename": "Iterative Deepening",
+      "path": "Coding/Chess Programming/Iterative Deepening.md"
+    },
+    {
+      "basename": "King Safety",
+      "path": "Coding/Chess Programming/King Safety.md"
+    },
+    {
       "basename": "Late Move Reduction",
       "path": "Coding/Chess Programming/Late Move Reduction.md"
+    },
+    {
+      "basename": "Middle Game",
+      "path": "Coding/Chess Programming/Middle Game.md"
     },
     {
       "basename": "Move Ordering",
       "path": "Coding/Chess Programming/Move Ordering.md"
     },
     {
+      "basename": "NNUE",
+      "path": "Coding/Chess Programming/NNUE.md"
+    },
+    {
       "basename": "Node Pruning",
       "path": "Coding/Chess Programming/Node Pruning.md"
     },
     {
-      "basename": "Quiescent Search",
-      "path": "Coding/Chess Programming/Quiescent Search.md"
+      "basename": "Null Move Pruning",
+      "path": "Coding/Chess Programming/Null Move Pruning.md"
+    },
+    {
+      "basename": "Opening Book",
+      "path": "Coding/Chess Programming/Opening Book.md"
+    },
+    {
+      "basename": "Piece Square Tables",
+      "path": "Coding/Chess Programming/Piece Square Tables.md"
     },
     {
       "basename": "Principle Variation",
       "path": "Coding/Chess Programming/Principle Variation.md"
     },
     {
+      "basename": "Quiescent Search",
+      "path": "Coding/Chess Programming/Quiescent Search.md"
+    },
+    {
+      "basename": "PSQT Compression",
+      "path": "Coding/Chess Programming/PSQT Compression.md"
+    },
+    {
+      "basename": "Razoring",
+      "path": "Coding/Chess Programming/Razoring.md"
+    },
+    {
+      "basename": "Run Length Encoding",
+      "path": "Coding/Chess Programming/Run Length Encoding.md"
+    },
+    {
+      "basename": "Wavelet Transform",
+      "path": "Coding/Chess Programming/Wavelet Transform.md"
+    },
+    {
       "basename": "Transposition Table",
       "path": "Coding/Chess Programming/Transposition Table.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Chess Programming/Sebastian Lague Chess Challenge.md"
+    },
+    {
+      "basename": "Pieter Brueghel - Der Sturz der Blinden",
+      "path": "Kunst/Pieter Brueghel - Der Sturz der Blinden.md"
+    },
+    {
+      "basename": "Naturalistisch",
+      "path": "Kunst/Naturalistisch.md"
+    },
+    {
+      "basename": "Künstler als Forscher",
+      "path": "Kunst/Künstler als Forscher.md"
+    },
+    {
+      "basename": "Künstler als Politiker",
+      "path": "Kunst/Künstler als Politiker.md"
+    },
+    {
+      "basename": "Uomo Universale",
+      "path": "Kunst/Uomo Universale.md"
+    },
+    {
+      "basename": "Künstler der Renaissance",
+      "path": "Kunst/Künstler der Renaissance.md"
+    },
+    {
+      "basename": "Renaissance",
+      "path": "Kunst/Renaissance.md"
+    },
+    {
+      "basename": "Ars Propettiva",
+      "path": "Kunst/Ars Propettiva.md"
+    },
+    {
+      "basename": "Pieter Brueghel",
+      "path": "Kunst/Pieter Brueghel.md"
+    },
+    {
+      "basename": "Pieter Brueghel - Kinderspiele",
+      "path": "Kunst/Pieter Brueghel - Kinderspiele.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Coding/Machine Learning/Deep Learning.md"
     },
     {
       "basename": "Stochastic Gradient Descent Deep Learning Optimizer",
@@ -139,46 +195,6 @@
     {
       "basename": "Adagrad Deep Learning Optimizer",
       "path": "Coding/Machine Learning/Adagrad Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Stochastic Gradient Descent With Momentum Deep Learning Optimizer",
-      "path": "Coding/Machine Learning/Stochastic Gradient Descent With Momentum Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Adam Optimizer in Deep Learning",
-      "path": "Coding/Machine Learning/Adam Optimizer in Deep Learning.md"
-    },
-    {
-      "basename": "Better Learning",
-      "path": "Learning/Better Learning.md"
-    },
-    {
-      "basename": "Higher Order Learning",
-      "path": "Learning/Higher Order Learning.md"
-    },
-    {
-      "basename": "Memory Encoding",
-      "path": "Learning/Memory Encoding.md"
-    },
-    {
-      "basename": "Neuroplasticity",
-      "path": "Learning/Neuroplasticity.md"
-    },
-    {
-      "basename": "Deep Processing",
-      "path": "Learning/Deep Processing.md"
-    },
-    {
-      "basename": "Good Memory",
-      "path": "Learning/Good Memory.md"
-    },
-    {
-      "basename": "Revised Bloom's Taxonomy",
-      "path": "Learning/Revised Bloom's Taxonomy.md"
-    },
-    {
-      "basename": "Understanding",
-      "path": "Learning/Understanding.md"
     }
   ],
   "omittedPaths": [],

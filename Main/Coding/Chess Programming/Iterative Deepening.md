@@ -1,3 +1,4 @@
+A method of [[Move Ordering]].
 Instead of a fixed depth, we search until we run out of time.
 
 ```csharp
@@ -8,7 +9,7 @@ for (int depth = 1 ; /*Last search took too long*/ ; depth++) {
 ```
 
 
-1. Perform [[Alpha Beta]] search 
+1. Perform [[Alpha Beta Pruning]] search 
 
 2. Sorting the moves after each iteration via [[Principle Variation]] allows for better Alpha Beta performance
 

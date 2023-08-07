@@ -1,3 +1,6 @@
+
+Brain storming
+---
 - Multiple Values stored in one Big Integer.
 	- Maybe even use Int8, not Int16 foreach uInt64
 	- Decimal is a 128 bit number that is allowed to use, can represent more values that uInt64
@@ -7,7 +10,8 @@
 - [[Fourier transform]]
 
 
-Guide:
+Guidance rules
+---
 1. Data Analysis/Simplification
 2. THEN Semantic token reduction
 

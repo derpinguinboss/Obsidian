@@ -1,0 +1,6 @@
+
+Idealvorstellung
+---
+[[Uomo Universale]]
+
+
