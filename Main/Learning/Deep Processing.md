@@ -1,11 +1,12 @@
-[[Neuroplasticity]]
 
-
+Definition
+---
 _Connecting newly gained information to old information_
-Sort of synonimous with [[Higher Order Learning]]
+Sort of synonymous with [[Higher Order Learning]]
 
 
-## Benefits 
+Benefits
+---
 - A better and deeper understanding of knowledge
 - A better encoding of the information as memory
 - Connecting the information to other information, thus being able to apply the information to a wide range of topics
@@ -13,5 +14,6 @@ Sort of synonimous with [[Higher Order Learning]]
 - [[Good Memory]]
 
 
-## Frameworks 
+Frameworks
+---
 - [[Revised Bloom's Taxonomy]]

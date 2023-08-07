@@ -1,16 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Themen - Schule",
+      "path": "Math/Themen - Schule.md"
+    },
+    {
+      "basename": "Analytische Geometrie",
+      "path": "Math/Analytische Geometrie.md"
+    },
+    {
+      "basename": "Stochastik",
+      "path": "Math/Stochastik.md"
+    },
+    {
+      "basename": "Better Learning",
+      "path": "Learning/Better Learning.md"
+    },
+    {
+      "basename": "Good Memory",
+      "path": "Learning/Good Memory.md"
+    },
+    {
+      "basename": "Revised Bloom's Taxonomy",
+      "path": "Learning/Revised Bloom's Taxonomy.md"
+    },
+    {
+      "basename": "Analysis",
+      "path": "Math/Analysis.md"
+    },
+    {
+      "basename": "Normalverteilung",
+      "path": "Math/Normalverteilung.md"
+    },
+    {
+      "basename": "Neuroplasticity",
+      "path": "Learning/Neuroplasticity.md"
+    },
+    {
+      "basename": "Memory Encoding",
+      "path": "Learning/Memory Encoding.md"
+    },
+    {
+      "basename": "Higher Order Learning",
+      "path": "Learning/Higher Order Learning.md"
+    },
+    {
+      "basename": "Deep Processing",
+      "path": "Learning/Deep Processing.md"
+    },
+    {
+      "basename": "Better Understanding",
+      "path": "Learning/Better Understanding.md"
+    },
+    {
+      "basename": "Fast Fourier Transform",
+      "path": "Coding/Chess Programming/Fast Fourier Transform.md"
+    },
+    {
+      "basename": "Futility Pruning",
+      "path": "Coding/Chess Programming/Futility Pruning.md"
+    },
+    {
+      "basename": "King Safety",
+      "path": "Coding/Chess Programming/King Safety.md"
+    },
+    {
+      "basename": "Brain Rot",
+      "path": "Self/Brain Rot.md"
+    },
+    {
       "basename": "TODO",
       "path": "TODO.md"
     },
     {
       "basename": "2023-08-07",
       "path": "Calendar/2022/2023-08-07.md"
-    },
-    {
-      "basename": "Fast Fourier Transform",
-      "path": "Coding/Chess Programming/Fast Fourier Transform.md"
     },
     {
       "basename": "Alpha Beta Pruning",
@@ -41,16 +105,8 @@
       "path": "Coding/Chess Programming/Fourier transform.md"
     },
     {
-      "basename": "Futility Pruning",
-      "path": "Coding/Chess Programming/Futility Pruning.md"
-    },
-    {
       "basename": "Iterative Deepening",
       "path": "Coding/Chess Programming/Iterative Deepening.md"
-    },
-    {
-      "basename": "King Safety",
-      "path": "Coding/Chess Programming/King Safety.md"
     },
     {
       "basename": "Late Move Reduction",
@@ -143,58 +199,6 @@
     {
       "basename": "Renaissance",
       "path": "Kunst/Renaissance.md"
-    },
-    {
-      "basename": "Ars Propettiva",
-      "path": "Kunst/Ars Propettiva.md"
-    },
-    {
-      "basename": "Pieter Brueghel",
-      "path": "Kunst/Pieter Brueghel.md"
-    },
-    {
-      "basename": "Pieter Brueghel - Kinderspiele",
-      "path": "Kunst/Pieter Brueghel - Kinderspiele.md"
-    },
-    {
-      "basename": "Deep Learning",
-      "path": "Coding/Machine Learning/Deep Learning.md"
-    },
-    {
-      "basename": "Stochastic Gradient Descent Deep Learning Optimizer",
-      "path": "Coding/Machine Learning/Stochastic Gradient Descent Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Brain Rot",
-      "path": "Self/Brain Rot.md"
-    },
-    {
-      "basename": "RMS Prop Deep Learning Optimizer",
-      "path": "Coding/Machine Learning/RMS Prop Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Gradient Descent Deep Learning Optimizer",
-      "path": "Coding/Machine Learning/Gradient Descent Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Mini Batch Gradient Descent Deep Learning Optimizer",
-      "path": "Coding/Machine Learning/Mini Batch Gradient Descent Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Deep Learning Optimizers",
-      "path": "Coding/Machine Learning/Deep Learning Optimizers.md"
-    },
-    {
-      "basename": "Backpropagation",
-      "path": "Coding/Machine Learning/Backpropagation.md"
-    },
-    {
-      "basename": "AdaDelta Deep Learning Optimizer",
-      "path": "Coding/Machine Learning/AdaDelta Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Adagrad Deep Learning Optimizer",
-      "path": "Coding/Machine Learning/Adagrad Deep Learning Optimizer.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,6 @@
-[[Neuroplasticity]]
 
-
-## Through
+Through
+---
 - [[Memory Encoding]]
 - [[Deep Processing]]
+
