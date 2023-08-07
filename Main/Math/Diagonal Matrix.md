@@ -7,10 +7,12 @@ Source
 Example
 ---
 $$
+\begin{flalign}
 \begin{bmatrix}
 5 & 0 & 0 & 0 \\
 0 & 1 & 0 & 0 \\
 0 & 0 & -1& 0 \\
 0 & 0 & 0 & 1 \\
-\end{bmatrix}
+\end{bmatrix}&&
+\end{flalign}
 $$

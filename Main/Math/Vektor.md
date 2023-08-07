@@ -8,6 +8,7 @@ Kollinearität
 ---
 Zwei Vektoren sind kollinear, wenn sie vielfache von einander sind. Die zugehörigen Pfeile sind dann parallel zo einander. 
 $$
+\begin{flalign}
 \vec{a} = {
 	\begin{bmatrix}
 		2 \\
@@ -24,5 +25,8 @@ $$
 \mspace{10mm}
 
 2\vec{a} = \vec{b}
+
+&&
+\end{flalign}
 $$
 $\Rightarrow$ $\vec{a}$ und $\vec{b}$ sind kollinear.

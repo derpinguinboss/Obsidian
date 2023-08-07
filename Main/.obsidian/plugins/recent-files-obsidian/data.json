@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Identity Matrix",
+      "path": "Math/Identity Matrix.md"
+    },
+    {
+      "basename": "Analytische Geometrie",
+      "path": "Math/Analytische Geometrie.md"
+    },
+    {
       "basename": "Fast Fourier Transform",
       "path": "Coding/Fast Fourier Transform.md"
     },
     {
-      "basename": "Diagonal Matrix",
-      "path": "Diagonal Matrix.md"
-    },
-    {
-      "basename": "Identity Matrix",
-      "path": "Identity Matrix.md"
-    },
-    {
       "basename": "Discrete Fourier Transform",
       "path": "Coding/Discrete Fourier Transform.md"
+    },
+    {
+      "basename": "Vektor",
+      "path": "Math/Vektor.md"
+    },
+    {
+      "basename": "Diagonal Matrix",
+      "path": "Math/Diagonal Matrix.md"
     },
     {
       "basename": "FFT 2 - Image Compression",
@@ -31,10 +39,6 @@
     {
       "basename": "Stochastik",
       "path": "Math/Stochastik.md"
-    },
-    {
-      "basename": "Vektor",
-      "path": "Math/Vektor.md"
     },
     {
       "basename": "AdaDelta Deep Learning Optimizer",
@@ -67,10 +71,6 @@
     {
       "basename": "Intervall",
       "path": "Math/Intervall.md"
-    },
-    {
-      "basename": "Analytische Geometrie",
-      "path": "Math/Analytische Geometrie.md"
     },
     {
       "basename": "Ebene",
@@ -195,10 +195,6 @@
     {
       "basename": "Quiescent Search",
       "path": "Coding/Quiescent Search.md"
-    },
-    {
-      "basename": "PSQT Compression",
-      "path": "Coding/PSQT Compression.md"
     }
   ],
   "omittedPaths": [],

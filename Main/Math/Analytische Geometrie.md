@@ -1,3 +1,3 @@
-[[Vector]]
+[[Vektor]]
 [[Ebene]]
 [[Gerade]]

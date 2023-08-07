@@ -18,6 +18,66 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Analytische Geometrie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Analytische Geometrie.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":10},\"to\":{\"line\":2,\"ch\":10}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Vector",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vector.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Vector",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vector.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fast Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Discrete Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":74},\"to\":{\"line\":70,\"ch\":74}},\"scroll\":54.45023148148148}"
+                },
+                {
+                  "title": "Fast Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":2},\"to\":{\"line\":21,\"ch\":2}},\"scroll\":14.708912037037036}"
+                },
+                {
+                  "title": "Discrete Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":58},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":6.030623020063358}"
+                },
+                {
+                  "title": "Fast Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":1},\"to\":{\"line\":79,\"ch\":1}},\"scroll\":0.7633587786259542}"
+                },
+                {
                   "title": "Discrete Fourier Transform",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
@@ -76,7 +136,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Fast Fourier Transform.md",
+                "file": "Math/Identity Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diagonal Matrix.md",
+                "file": "Math/Diagonal Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Fast Fourier Transform.md",
+                "file": "Math/Identity Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Fast Fourier Transform.md",
+                "file": "Math/Identity Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Fast Fourier Transform.md"
+                "file": "Math/Identity Matrix.md"
               }
             }
           },
@@ -328,17 +388,19 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "d609bdc8862123e5",
+  "active": "24908edbb09fe0ec",
   "lastOpenFiles": [
-    "Diagonal Matrix.md",
+    "Math/Analytische Geometrie.md",
+    "Vector.md",
     "Coding/Fast Fourier Transform.md",
-    "Identity Matrix.md",
     "Coding/Discrete Fourier Transform.md",
+    "Math/Vektor.md",
+    "Math/Identity Matrix.md",
+    "Math/Diagonal Matrix.md",
     "Coding/FFT 2 - Image Compression.md",
     "Coding/Sebastian Lague Chess Challenge.md",
     "Math/Rotationskörper.md",
     "Math/Stochastik.md",
-    "Math/Vektor.md",
     "Math/Themen - Schule.md",
     "Coding/AdaDelta Deep Learning Optimizer.md",
     "Coding/Alpha Beta Pruning.md",
@@ -347,11 +409,9 @@
     "Coding/Image Compression.md",
     "2023-08-07.md",
     "Untitled.canvas",
-    "Vector.md",
     "Math/Normalverteilung.md",
     "Math/Matrix.md",
     "Math/Intervall.md",
-    "Math/Analytische Geometrie.md",
     "Math/Ebene.md",
     "Math/Gerade.md",
     "Coding/Big O Notation.md",

@@ -6,18 +6,19 @@ Sources
 
 Description
 ---
-- Used to compute the [[Discrete Fourier Transform]] (DFT)
-- [[Wavelet Transform]] is an enhanced FFT for [[Image Compression]].
-- Scaling in [[Big O Notation]]: $O(nlog_2n)$
+- Used to compute the matrix-product $\hat{f}$ of the [[Discrete Fourier Transform]] (DFT) and the input [[Vektor]] $f$ 
+- [[Wavelet Transform]] is an enhanced FFT for certain [[Image Compression]].
+- Scaling in [[Big O Notation]]: $O(n log_2n)$
 
 
 Mathematical description
 ---
-F = big DFT [[Matrix]]
+DFT: [[Discrete Fourier Transform]]
+
+F = DFT [[Matrix]]
 f = input [[Vektor]] of data points
 I = [[Identity Matrix]]
 D = [[Diagonal Matrix]] of $\omega$ 's from the DFT matrix
-
 $$
 \begin{flalign}
 \hat{f} = {
@@ -49,29 +50,7 @@ $$
 Implementation
 ---
 ```csharp
-int[] FFT(int[] f) {
-	// get next smaller step of F size
-	int nextSize = f.Length / 2
-	
-	// Get fEven fOdd Input Vector
-	int[] fEven = extractEven(f)
-	int[] fOdd = extractOdd(f)
-	int[] fEvenOdd = StackVectors(fEven, fOdd)
-	
-	// Get smaller DFT matrix 
-	Matrix Fsmaller = // some recursive call here
-	Matrix zeroPadding = Matrix.ZeroPadded(nextSize, nextSize)
-	Matrix F = CombineDiagonal(Fsmaller, zeroPadding)
-	
-	// Get Identity and Diagonal matrices
-	Matrix identity = Matrix.Identity(nextSize, nextSize)
-	Matrix diagonal = // the [[Discrete Fourier Transform]] matrix
-	Matrix ID = CombineVertical(identity, -diagonal)
-	
-	return ID * F * fEvenOdd
-}
-
-Matrix GetF(Matrix F) {
+Vector FFT(Matrix DFT, Vector f) {
 	
 }
 ```
