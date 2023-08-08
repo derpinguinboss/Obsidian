@@ -1,36 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Identity Matrix",
-      "path": "Math/Identity Matrix.md"
+      "basename": "Discrete Fourier Transform",
+      "path": "Coding/Discrete Fourier Transform.md"
     },
     {
-      "basename": "Analytische Geometrie",
-      "path": "Math/Analytische Geometrie.md"
+      "basename": "Vandermonde Matrix",
+      "path": "Vandermonde Matrix.md"
+    },
+    {
+      "basename": "Unitary Matrix",
+      "path": "Unitary Matrix.md"
     },
     {
       "basename": "Fast Fourier Transform",
       "path": "Coding/Fast Fourier Transform.md"
     },
     {
-      "basename": "Discrete Fourier Transform",
-      "path": "Coding/Discrete Fourier Transform.md"
+      "basename": "Complex Numbers",
+      "path": "Complex Numbers.md"
     },
     {
       "basename": "Vektor",
       "path": "Math/Vektor.md"
     },
     {
-      "basename": "Diagonal Matrix",
-      "path": "Math/Diagonal Matrix.md"
+      "basename": "PeSTO",
+      "path": "PeSTO.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
       "basename": "FFT 2 - Image Compression",
       "path": "Coding/FFT 2 - Image Compression.md"
     },
     {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
+      "basename": "Diagonal Matrix",
+      "path": "Math/Diagonal Matrix.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Identity Matrix",
+      "path": "Math/Identity Matrix.md"
+    },
+    {
+      "basename": "Analytische Geometrie",
+      "path": "Math/Analytische Geometrie.md"
     },
     {
       "basename": "Rotationskörper",
@@ -51,10 +71,6 @@
     {
       "basename": "Jpg Image Compression",
       "path": "Coding/Jpg Image Compression.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "Image Compression",
@@ -183,18 +199,6 @@
     {
       "basename": "Opening Book",
       "path": "Coding/Opening Book.md"
-    },
-    {
-      "basename": "Piece Square Tables",
-      "path": "Coding/Piece Square Tables.md"
-    },
-    {
-      "basename": "Principle Variation",
-      "path": "Coding/Principle Variation.md"
-    },
-    {
-      "basename": "Quiescent Search",
-      "path": "Coding/Quiescent Search.md"
     }
   ],
   "omittedPaths": [],

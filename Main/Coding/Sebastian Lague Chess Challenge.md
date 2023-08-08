@@ -11,7 +11,8 @@ Todo
 - [ ] [[Piece Square Tables]]
 	- [ ] Switch from jagged array to a single array
 	- [ ] Bump up the king value (By some factor, not additive), this might improve the [[King Safety]]  in the [[Middle Game]] as well
-	 - [ ] Better [[PSQT Compression]]
+	- [ ] Better [[PSQT Compression]]
+	- [ ] Use [[PeSTO]]
 - [ ] [[Opening Book]]
 	- [ ] [[PSQT Compression]]: The length of a number does not increase the token count
 - [ ] [[End Game]]: Doesn't know how to win endgames

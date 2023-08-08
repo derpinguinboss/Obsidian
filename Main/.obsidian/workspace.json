@@ -8,86 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d609bdc8862123e5",
+            "id": "459210461d56a6f5",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Vandermonde Matrix",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vandermonde Matrix.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Analytische Geometrie",
+                  "title": "Fast Fourier Transform",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Analytische Geometrie.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":10},\"to\":{\"line\":2,\"ch\":10}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":14},\"to\":{\"line\":50,\"ch\":14}},\"scroll\":0}"
                 },
                 {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Vector",
+                  "title": "PeSTO",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vector.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PeSTO.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":185},\"to\":{\"line\":9,\"ch\":185}}}"
                 },
                 {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Vector",
+                  "title": "Sebastian Lague Chess Challenge",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vector.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Sebastian Lague Chess Challenge.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":22},\"to\":{\"line\":15,\"ch\":22}}}"
                 },
                 {
                   "title": "Fast Fourier Transform",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Discrete Fourier Transform",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":74},\"to\":{\"line\":70,\"ch\":74}},\"scroll\":54.45023148148148}"
-                },
-                {
-                  "title": "Fast Fourier Transform",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":2},\"to\":{\"line\":21,\"ch\":2}},\"scroll\":14.708912037037036}"
-                },
-                {
-                  "title": "Discrete Fourier Transform",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":58},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":6.030623020063358}"
-                },
-                {
-                  "title": "Fast Fourier Transform",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":1},\"to\":{\"line\":79,\"ch\":1}},\"scroll\":0.7633587786259542}"
-                },
-                {
-                  "title": "Discrete Fourier Transform",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":2.363425925925926}"
-                },
-                {
-                  "title": "Fast Fourier Transform",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":11}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "FFT 2 - Image Compression",
@@ -96,39 +54,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Sebastian Lague Chess Challenge",
+                  "title": "Diagonal Matrix",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Sebastian Lague Chess Challenge.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Rotationskörper",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Rotationskörper.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":7},\"to\":{\"line\":18,\"ch\":7}}}"
-                },
-                {
-                  "title": "Stochastik",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Stochastik.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Vektor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Vektor.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "AdaDelta Deep Learning Optimizer",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/AdaDelta Deep Learning Optimizer.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Alpha Beta Pruning",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Alpha Beta Pruning.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Diagonal Matrix.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -136,14 +64,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Identity Matrix.md",
+                "file": "Coding/Discrete Fourier Transform.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "459210461d56a6f5",
+            "id": "57d985a4014dd6c5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -157,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Diagonal Matrix.md",
+                "file": "Coding/Sebastian Lague Chess Challenge.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Image",
+                "query": "Chess",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -282,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Identity Matrix.md",
+                "file": "Coding/Discrete Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Identity Matrix.md",
+                "file": "Coding/Discrete Fourier Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Identity Matrix.md"
+                "file": "Coding/Discrete Fourier Transform.md"
               }
             }
           },
@@ -388,24 +317,28 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "24908edbb09fe0ec",
+  "active": "459210461d56a6f5",
   "lastOpenFiles": [
+    "Vandermonde Matrix.md",
+    "Coding/Discrete Fourier Transform.md",
+    "Unitary Matrix.md",
+    "Coding/Fast Fourier Transform.md",
+    "Complex Numbers.md",
+    "Math/Vektor.md",
+    "PeSTO.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
+    "Coding/FFT 2 - Image Compression.md",
+    "Math/Diagonal Matrix.md",
+    "TODO.md",
+    "Math/Identity Matrix.md",
     "Math/Analytische Geometrie.md",
     "Vector.md",
-    "Coding/Fast Fourier Transform.md",
-    "Coding/Discrete Fourier Transform.md",
-    "Math/Vektor.md",
-    "Math/Identity Matrix.md",
-    "Math/Diagonal Matrix.md",
-    "Coding/FFT 2 - Image Compression.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
     "Math/Rotationskörper.md",
     "Math/Stochastik.md",
     "Math/Themen - Schule.md",
     "Coding/AdaDelta Deep Learning Optimizer.md",
     "Coding/Alpha Beta Pruning.md",
     "Coding/Jpg Image Compression.md",
-    "TODO.md",
     "Coding/Image Compression.md",
     "2023-08-07.md",
     "Untitled.canvas",
@@ -413,10 +346,6 @@
     "Math/Matrix.md",
     "Math/Intervall.md",
     "Math/Ebene.md",
-    "Math/Gerade.md",
-    "Coding/Big O Notation.md",
-    "Learning/Better Learning.md",
-    "Learning/Good Memory.md",
     "Calendar/2022",
     "Calendar",
     "TODO",
