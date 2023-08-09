@@ -11,17 +11,23 @@
             "id": "459210461d56a6f5",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Vandermonde Matrix",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vandermonde Matrix.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Sebastian Lague Chess Challenge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Sebastian Lague Chess Challenge.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":18},\"to\":{\"line\":14,\"ch\":18}}}"
+                },
+                {
+                  "title": "Discrete Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Fast Fourier Transform",
@@ -32,7 +38,7 @@
                 {
                   "title": "PeSTO",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PeSTO.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/PeSTO.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":185},\"to\":{\"line\":9,\"ch\":185}}}"
                 },
                 {
@@ -64,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Discrete Fourier Transform.md",
+                "file": "Coding/PSQT Compression.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,12 +187,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -211,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Discrete Fourier Transform.md",
+                "file": "Coding/PSQT Compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Discrete Fourier Transform.md",
+                "file": "Coding/PSQT Compression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Discrete Fourier Transform.md"
+                "file": "Coding/PSQT Compression.md"
               }
             }
           },
@@ -319,14 +325,14 @@
   },
   "active": "459210461d56a6f5",
   "lastOpenFiles": [
-    "Vandermonde Matrix.md",
-    "Coding/Discrete Fourier Transform.md",
-    "Unitary Matrix.md",
-    "Coding/Fast Fourier Transform.md",
-    "Complex Numbers.md",
-    "Math/Vektor.md",
-    "PeSTO.md",
     "Coding/Sebastian Lague Chess Challenge.md",
+    "Coding/Discrete Fourier Transform.md",
+    "Math/Vandermonde Matrix.md",
+    "Math/Unitary Matrix.md",
+    "Coding/Fast Fourier Transform.md",
+    "Math/Complex Numbers.md",
+    "Math/Vektor.md",
+    "Coding/PeSTO.md",
     "Coding/FFT 2 - Image Compression.md",
     "Math/Diagonal Matrix.md",
     "TODO.md",

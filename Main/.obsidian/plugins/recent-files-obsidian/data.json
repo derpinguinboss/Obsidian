@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "PSQT Compression",
+      "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
+    },
+    {
       "basename": "Discrete Fourier Transform",
       "path": "Coding/Discrete Fourier Transform.md"
     },
     {
       "basename": "Vandermonde Matrix",
-      "path": "Vandermonde Matrix.md"
+      "path": "Math/Vandermonde Matrix.md"
     },
     {
       "basename": "Unitary Matrix",
-      "path": "Unitary Matrix.md"
+      "path": "Math/Unitary Matrix.md"
     },
     {
       "basename": "Fast Fourier Transform",
@@ -18,7 +26,7 @@
     },
     {
       "basename": "Complex Numbers",
-      "path": "Complex Numbers.md"
+      "path": "Math/Complex Numbers.md"
     },
     {
       "basename": "Vektor",
@@ -26,11 +34,7 @@
     },
     {
       "basename": "PeSTO",
-      "path": "PeSTO.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
+      "path": "Coding/PeSTO.md"
     },
     {
       "basename": "FFT 2 - Image Compression",
@@ -195,10 +199,6 @@
     {
       "basename": "Null Move Pruning",
       "path": "Coding/Null Move Pruning.md"
-    },
-    {
-      "basename": "Opening Book",
-      "path": "Coding/Opening Book.md"
     }
   ],
   "omittedPaths": [],

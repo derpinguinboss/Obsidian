@@ -10,6 +10,18 @@ Brain storming
 - [[Fourier transform]]
 
 
+Goals
+---
+- Small Numbers
+- Few Numbers
+- Easy to decompress (few tokens)
+
+
+Todo
+---
+- Test out the compression capabilities of 128Bit floating point number Decimal
+
+
 Guidance rules
 ---
 1. Data Analysis/Simplification
