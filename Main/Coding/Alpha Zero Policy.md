@@ -1,0 +1,12 @@
+I think that the AlphaZero policy head is better than the policy head you would get from Q learning and applying some temperature, and it's not just a matter of speed of learning. The AlphaZero policy has an incentive that is distinctly different and *better* for search than merely maximizing Q value!
+
+Suppose we have moves A and B and C where A always results in a final reward of 5, B always results in a final reward of 4, and C is 50% to give a reward of 6 and 50% to give a reward of -6, but the uncertainty is *epistemic* rather than the environment being random - i.e. in any particular board position, either C always gives a reward of 6, or C always gives a reward of -6, it's just that the model is not able to distinguish when each one is the case (e.g. maybe it's some complex tactic that the model understandably would often mess up on if run with merely 1 playout). Suppose however, that MCTS is usually able to reliably determine which one is the case after searching C with a few dozens of playouts.
+
+Then, AlphaZero training is likely to converge to a policy that puts high mass on A and C, and very little mass on B, despite the fact that B's expected value (4) is much higher than C's (0). This is because the training data will have lots of instances of A being chosen (when C is -6) and C being chosen (when C is 6) and none of B being chosen. This is a bad thing if you plan to use the raw policy as your final bot, because it will play C some of the time when it doesn't work and get the terrible -6 reward. But this is a good thing if you plan to use the policy for searching, because indeed A and C are exactly the moves worth searching in this position. 
+
+Q learning would normally rate C very low because up to the best ability of the raw net to discriminate, its average value is much lower than that of A or B. The AlphaZero policy would rate C moderately high because it's *not* trying to maximize EV directly, instead it's trying to predict which moves are *worth searching*, i.e. which moves MCTS might ultimately pick. And if so if you plan to use MCTS (or some similar search algorithm) at test time as well, what the policy head is learning is much closer to what you want.
+
+I don't have hard data to back this up, this is just my current (moderately strong) intuition from general experience and from thinking about the theory here. 🙂
+
+Source:
+https://discord.com/channels/719576389245993010/986992996157378560/1138258534367236096
