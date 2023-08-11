@@ -4,9 +4,17 @@ Sources
 - [The Discrete Fourier Transform (DFT) - YouTube](https://www.youtube.com/watch?v=nl9TZanwbBk&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC&index=15)
 - [Computing the DFT Matrix - YouTube](https://www.youtube.com/watch?v=Xw4voABxU5c&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC&index=16)
 
+- [The intuition behind Fourier and Laplace transforms I was never taught in school - YouTube](https://youtu.be/3gjJDuCAEQQ)
+
 - [Discrete Fourier Transform | Brilliant Math & Science Wiki](https://brilliant.org/wiki/discrete-fourier-transform/#:~:text=The%20DFT%20formula%20for%20X,%2C%20x%20N%20%E2%88%92%201%20))
 - [How to Calculate Discrete Fourier Transform - Tutorial, Definition, Formula, Example](https://www.easycalculation.com/engineering/mechanical/learn-discrete-fourier-transform.php)
 - [Diskrete Fourier-Transformation – Wikipedia](https://de.wikipedia.org/wiki/Diskrete_Fourier-Transformation#Inverse_Diskrete_Fourier-Transformation_(iDFT))
+
+
+Idea Dump
+===
+If we want to sort the coefficients, we're gonna have to change the inverse function...
+
 
 Description
 ===

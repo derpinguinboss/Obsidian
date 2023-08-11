@@ -5,20 +5,52 @@
       "path": "Coding/Discrete Fourier Transform.md"
     },
     {
-      "basename": "Vandermonde Matrix",
-      "path": "Math/Vandermonde Matrix.md"
+      "basename": "PSQT Compression",
+      "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "Discrete Cosine Transform",
+      "path": "Discrete Cosine Transform.md"
+    },
+    {
+      "basename": "DCT-II",
+      "path": "DCT-II.md"
+    },
+    {
+      "basename": "DCT-IV",
+      "path": "DCT-IV.md"
+    },
+    {
+      "basename": "DCT-III",
+      "path": "DCT-III.md"
+    },
+    {
+      "basename": "DCT-I",
+      "path": "DCT-I.md"
+    },
+    {
+      "basename": "Image Compression",
+      "path": "Coding/Image Compression.md"
+    },
+    {
+      "basename": "Mp3 Compression",
+      "path": "Mp3 Compression.md"
+    },
+    {
+      "basename": "Jpeg Compression",
+      "path": "Jpeg Compression.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
       "basename": "Fourier transform",
       "path": "Coding/Fourier transform.md"
     },
     {
-      "basename": "PSQT Compression",
-      "path": "Coding/PSQT Compression.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
+      "basename": "Vandermonde Matrix",
+      "path": "Math/Vandermonde Matrix.md"
     },
     {
       "basename": "Unitary Matrix",
@@ -79,10 +111,6 @@
     {
       "basename": "Jpg Image Compression",
       "path": "Coding/Jpg Image Compression.md"
-    },
-    {
-      "basename": "Image Compression",
-      "path": "Coding/Image Compression.md"
     },
     {
       "basename": "Normalverteilung",
@@ -171,34 +199,6 @@
     {
       "basename": "End Game",
       "path": "Coding/End Game.md"
-    },
-    {
-      "basename": "Iterative Deepening",
-      "path": "Coding/Iterative Deepening.md"
-    },
-    {
-      "basename": "Late Move Reduction",
-      "path": "Coding/Late Move Reduction.md"
-    },
-    {
-      "basename": "Middle Game",
-      "path": "Coding/Middle Game.md"
-    },
-    {
-      "basename": "Move Ordering",
-      "path": "Coding/Move Ordering.md"
-    },
-    {
-      "basename": "NNUE",
-      "path": "Coding/NNUE.md"
-    },
-    {
-      "basename": "Node Pruning",
-      "path": "Coding/Node Pruning.md"
-    },
-    {
-      "basename": "Null Move Pruning",
-      "path": "Coding/Null Move Pruning.md"
     }
   ],
   "omittedPaths": [],
