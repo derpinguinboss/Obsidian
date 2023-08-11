@@ -14,16 +14,16 @@ Useful if we have discrete data points/ a [[Vektor]] of data.
 
 Mathematical description
 ===
-$n =$ Index in $\vec{f}$
-$k =$ Index in the $\vec{\hat{f}}$
 $\vec{\hat{f}} =$ Coefficient [[Vektor]] of [[Complex Numbers]], each one of which encodes the amplitude and phase of a sinusoidal wave
 $\vec{f} =$ Input [[Vektor]] of [[Complex Numbers]]
-$W =$ DFT [[Matrix]] or Fourier-Matrix, Dimensions: $N * N$
+$n =$ Index in $\vec{f}$
+$k =$ Index in the $\vec{\hat{f}}$
 $N =$ Number of Input elements
+$W =$ "DFT [[Matrix]]" or "Fourier-Matrix", with dimensions of  $N * N$
 $i=\sqrt{-1}$
 $\omega_{knN} = e ^ {- 2 \pi i k n / N}$
 $\not\omega_{knN} = e ^ {2 \pi i k n / N}$
-
+$\omega_N = e^{-2 \pi i / N}$ 
 
 Conversion
 ---
@@ -38,6 +38,7 @@ $$
 Transformation matrix W: 
 ---
 The W matrix is a [[Vandermonde Matrix]] and a [[Unitary Matrix]]
+$\omega_n = e^{-2 \pi i / N}$ 
 $$
 \begin{flalign}
 

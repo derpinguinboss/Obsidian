@@ -11,11 +11,29 @@
             "id": "459210461d56a6f5",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Vandermonde Matrix",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Vandermonde Matrix.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Fourier transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fourier transform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "PSQT Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/PSQT Compression.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
                   "title": "Sebastian Lague Chess Challenge",
@@ -70,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/PSQT Compression.md",
+                "file": "Coding/Discrete Fourier Transform.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,12 +205,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -217,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/PSQT Compression.md",
+                "file": "Coding/Discrete Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/PSQT Compression.md",
+                "file": "Coding/Discrete Fourier Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/PSQT Compression.md"
+                "file": "Coding/Discrete Fourier Transform.md"
               }
             }
           },
@@ -325,9 +343,11 @@
   },
   "active": "459210461d56a6f5",
   "lastOpenFiles": [
-    "Coding/Sebastian Lague Chess Challenge.md",
-    "Coding/Discrete Fourier Transform.md",
     "Math/Vandermonde Matrix.md",
+    "Coding/Discrete Fourier Transform.md",
+    "Coding/Fourier transform.md",
+    "Coding/PSQT Compression.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
     "Math/Unitary Matrix.md",
     "Coding/Fast Fourier Transform.md",
     "Math/Complex Numbers.md",
@@ -350,8 +370,6 @@
     "Untitled.canvas",
     "Math/Normalverteilung.md",
     "Math/Matrix.md",
-    "Math/Intervall.md",
-    "Math/Ebene.md",
     "Calendar/2022",
     "Calendar",
     "TODO",

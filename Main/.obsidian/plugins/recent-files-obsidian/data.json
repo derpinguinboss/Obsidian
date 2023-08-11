@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "PSQT Compression",
-      "path": "Coding/PSQT Compression.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
-    },
-    {
       "basename": "Discrete Fourier Transform",
       "path": "Coding/Discrete Fourier Transform.md"
     },
     {
       "basename": "Vandermonde Matrix",
       "path": "Math/Vandermonde Matrix.md"
+    },
+    {
+      "basename": "Fourier transform",
+      "path": "Coding/Fourier transform.md"
+    },
+    {
+      "basename": "PSQT Compression",
+      "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
       "basename": "Unitary Matrix",
@@ -167,10 +171,6 @@
     {
       "basename": "End Game",
       "path": "Coding/End Game.md"
-    },
-    {
-      "basename": "Fourier transform",
-      "path": "Coding/Fourier transform.md"
     },
     {
       "basename": "Iterative Deepening",

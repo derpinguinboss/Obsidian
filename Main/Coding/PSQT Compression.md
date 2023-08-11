@@ -8,7 +8,7 @@ Brain storming
 - [[Delta Compression]]
 - Using [[Delta Compression]], we can make the numbers smaller, e.g. they will fit into one byte, and we can bundle more numbers in one big number
 - [[Fourier transform]]
-
+- We CANNOT sort the Fourier coefficients directly, but if we could: might allow for other compression  (e.g. [[Delta Compression]]) algorithms to perform better on the Fourier compression
 
 Goals
 ---
