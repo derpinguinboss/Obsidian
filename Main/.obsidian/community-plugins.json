@@ -14,5 +14,10 @@
   "obsidian-text-format",
   "obsidian-wikipedia",
   "workspaces-plus",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "omnisearch",
+  "text-extractor",
+  "background-image",
+  "execute-code",
+  "obsidian-codemirror-options"
 ]

@@ -50,6 +50,7 @@ $$
 
 Implementation
 ---
+Code below is unfinished and probably wrong.
 ```csharp
 Vector FFT(Matrix DFT, Vector f) {
 	

@@ -2,7 +2,7 @@
 Sources
 ---
 - [Data compression - Wikipedia](https://en.wikipedia.org/wiki/Data_compression#Encoding_theory)
-- [How are Images Compressed? [46MB ↘↘ 4.07MB] JPEG In Depth - YouTube](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
+- [How are Images Compressed? JPEG In Depth - YouTube](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
 
 
 Brain storming

@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Discrete Fourier Transform",
-      "path": "Coding/Discrete Fourier Transform.md"
+      "basename": "DCT-III",
+      "path": "DCT-III.md"
     },
     {
       "basename": "PSQT Compression",
       "path": "Coding/PSQT Compression.md"
     },
     {
-      "basename": "Discrete Cosine Transform",
-      "path": "Discrete Cosine Transform.md"
+      "basename": "Discrete Fourier Transform",
+      "path": "Coding/Discrete Fourier Transform.md"
+    },
+    {
+      "basename": "Fast Fourier Transform",
+      "path": "Coding/Fast Fourier Transform.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
+    },
+    {
+      "basename": "DCT-I",
+      "path": "DCT-I.md"
+    },
+    {
+      "basename": "Vektor",
+      "path": "Math/Vektor.md"
+    },
+    {
+      "basename": "Image Compression",
+      "path": "Coding/Image Compression.md"
+    },
+    {
+      "basename": "Matrix",
+      "path": "Math/Matrix.md"
+    },
+    {
+      "basename": "Fourier transform",
+      "path": "Coding/Fourier transform.md"
     },
     {
       "basename": "DCT-II",
@@ -21,16 +49,8 @@
       "path": "DCT-IV.md"
     },
     {
-      "basename": "DCT-III",
-      "path": "DCT-III.md"
-    },
-    {
-      "basename": "DCT-I",
-      "path": "DCT-I.md"
-    },
-    {
-      "basename": "Image Compression",
-      "path": "Coding/Image Compression.md"
+      "basename": "Discrete Cosine Transform",
+      "path": "Discrete Cosine Transform.md"
     },
     {
       "basename": "Mp3 Compression",
@@ -41,14 +61,6 @@
       "path": "Jpeg Compression.md"
     },
     {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
-    },
-    {
-      "basename": "Fourier transform",
-      "path": "Coding/Fourier transform.md"
-    },
-    {
       "basename": "Vandermonde Matrix",
       "path": "Math/Vandermonde Matrix.md"
     },
@@ -57,16 +69,8 @@
       "path": "Math/Unitary Matrix.md"
     },
     {
-      "basename": "Fast Fourier Transform",
-      "path": "Coding/Fast Fourier Transform.md"
-    },
-    {
       "basename": "Complex Numbers",
       "path": "Math/Complex Numbers.md"
-    },
-    {
-      "basename": "Vektor",
-      "path": "Math/Vektor.md"
     },
     {
       "basename": "PeSTO",
@@ -115,10 +119,6 @@
     {
       "basename": "Normalverteilung",
       "path": "Math/Normalverteilung.md"
-    },
-    {
-      "basename": "Matrix",
-      "path": "Math/Matrix.md"
     },
     {
       "basename": "Intervall",
@@ -202,5 +202,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
