@@ -1,4 +1,4 @@
-
+	
 Sources
 ---
 [Diskrete Kosinustransformation – Wikipedia](https://de.wikipedia.org/wiki/Diskrete_Kosinustransformation)

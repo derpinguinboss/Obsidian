@@ -8,3 +8,27 @@ Summary
 
 Mathematical Description
 ---
+$\hat{f}$ = [[Vektor]] of Coefficients, real numbers
+$f$= [[Vektor]] of Input points, real numbers
+$N$= Size of input vector
+
+Forward
+$$\begin{flalign}
+
+\hat{f}_k = {
+	\sum_{n=0}^{N-1} f_n cos 
+	\left[ 	\frac{\pi}{N}\left(n+\frac{1}{2}\right) \left(k+\frac{1}{2}\right) \right]
+}
+
+&&\end{flalign}$$
+
+Inverse
+$$\begin{flalign}
+
+\hat{f}_k = {
+	\frac{2}{N}
+	\sum_{n=0}^{N-1} f_n cos 
+	\left[ 	\frac{\pi}{N}\left(n+\frac{1}{2}\right) \left(k+\frac{1}{2}\right) \right]
+}
+
+&&\end{flalign}$$

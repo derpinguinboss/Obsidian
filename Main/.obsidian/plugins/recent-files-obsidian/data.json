@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "PSQT Compression",
+      "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "Huffman Encoding",
+      "path": "Huffman Encoding.md"
+    },
+    {
+      "basename": "DCT-II",
+      "path": "DCT-II.md"
+    },
+    {
+      "basename": "Discrete Cosine Transform",
+      "path": "Discrete Cosine Transform.md"
+    },
+    {
+      "basename": "Byte Pair Encoding",
+      "path": "Byte Pair Encoding.md"
+    },
+    {
+      "basename": "Run Length Encoding",
+      "path": "Coding/Run Length Encoding.md"
+    },
+    {
       "basename": "DCT-III",
       "path": "DCT-III.md"
     },
     {
-      "basename": "PSQT Compression",
-      "path": "Coding/PSQT Compression.md"
+      "basename": "Fast Cosine Transform",
+      "path": "Fast Cosine Transform.md"
+    },
+    {
+      "basename": "DCT-IV",
+      "path": "DCT-IV.md"
     },
     {
       "basename": "Discrete Fourier Transform",
@@ -39,18 +67,6 @@
     {
       "basename": "Fourier transform",
       "path": "Coding/Fourier transform.md"
-    },
-    {
-      "basename": "DCT-II",
-      "path": "DCT-II.md"
-    },
-    {
-      "basename": "DCT-IV",
-      "path": "DCT-IV.md"
-    },
-    {
-      "basename": "Discrete Cosine Transform",
-      "path": "Discrete Cosine Transform.md"
     },
     {
       "basename": "Mp3 Compression",
@@ -183,22 +199,6 @@
     {
       "basename": "Brain Rot",
       "path": "Self/Brain Rot.md"
-    },
-    {
-      "basename": "2023-08-07",
-      "path": "Calendar/2022/2023-08-07.md"
-    },
-    {
-      "basename": "Delta Compression",
-      "path": "Coding/Delta Compression.md"
-    },
-    {
-      "basename": "Delta Pruning",
-      "path": "Coding/Delta Pruning.md"
-    },
-    {
-      "basename": "End Game",
-      "path": "Coding/End Game.md"
     }
   ],
   "omittedPaths": [],

@@ -20,6 +20,7 @@ $\hat{f}$ = [[Vektor]] of Coefficients, real numbers
 $f$= [[Vektor]] of Input points, real numbers
 $N$= Size of input vector
 
+Forward:
 $$
 \begin{flalign}
 
@@ -30,3 +31,16 @@ $$
 &&
 \end{flalign}
 $$
+
+As Inverse of [[DCT-III]]
+$$
+\begin{flalign}
+
+{f}_k = \frac{2}{N} {
+	\sum_{n=0}^{N-1} \hat{f}_n cos[\frac{\pi}{N}(n+\frac{1}{2})k]
+}
+
+&&
+\end{flalign}
+$$
+

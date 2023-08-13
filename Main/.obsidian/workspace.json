@@ -8,39 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86e293b789ee4ecd",
+            "id": "c2d4647977baa9ff",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "PSQT Compression",
+                  "title": "Huffman Encoding",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/PSQT Compression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9259259259259259}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DCT-III.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e0a455f701526c6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Huffman Encoding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -50,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DCT-III.md",
+                "file": "Coding/PSQT Compression.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +36,7 @@
             }
           },
           {
-            "id": "71fbdfbeb16a8c33",
+            "id": "e73d5222aa3bdbf3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -66,18 +44,17 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Discrete Fourier Transform",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":100,\"ch\":0},\"to\":{\"line\":100,\"ch\":0}},\"scroll\":90.50405092592592}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Huffman Encoding.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -170,12 +147,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -200,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DCT-III.md",
+                "file": "Coding/PSQT Compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DCT-III.md",
+                "file": "Coding/PSQT Compression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DCT-III.md"
+                "file": "Coding/PSQT Compression.md"
               }
             }
           },
@@ -310,15 +287,19 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "86e293b789ee4ecd",
+  "active": "c2d4647977baa9ff",
   "lastOpenFiles": [
+    "Huffman Encoding.md",
     "Coding/PSQT Compression.md",
-    "DCT-III.md",
-    "Coding/Discrete Fourier Transform.md",
-    "Coding/Fourier transform.md",
     "DCT-II.md",
     "Discrete Cosine Transform.md",
+    "Byte Pair Encoding.md",
+    "Coding/Run Length Encoding.md",
+    "DCT-III.md",
+    "Fast Cosine Transform.md",
     "DCT-IV.md",
+    "Coding/Discrete Fourier Transform.md",
+    "Coding/Fourier transform.md",
     "DCT-I.md",
     "Coding/Image Compression.md",
     "Mp3 Compression.md",
@@ -334,10 +315,6 @@
     "Coding/PeSTO.md",
     "Coding/FFT 2 - Image Compression.md",
     "Math/Diagonal Matrix.md",
-    "TODO.md",
-    "Math/Identity Matrix.md",
-    "Math/Analytische Geometrie.md",
-    "Vector.md",
     "Untitled.canvas",
     "Calendar/2022",
     "Calendar",

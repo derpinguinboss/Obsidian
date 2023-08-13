@@ -4,11 +4,14 @@ Sources
 - [Diskrete Kosinustransformation – Wikipedia](https://de.wikipedia.org/wiki/Diskrete_Kosinustransformation)
 - [taramath: Diskrete Kosinustransformation](https://www.taramath.de/tools/cosine)
 - [ChatGPT](https://chat.openai.com/c/588b4409-24b4-40db-8dc0-bf2487ce1927)
+- [Discrete cosine transform - Wikipedia](https://en.wikipedia.org/wiki/Discrete_cosine_transform#Computation)
+- [https://www.uio.no/studier/emner/matnat/math/nedlagte-emner/MAT-INF2360/v12/siglinbok.pdf](https://www.uio.no/studier/emner/matnat/math/nedlagte-emner/MAT-INF2360/v12/siglinbok.pdf)
 
 
 Description
 ===
-A simpler version of the [[Discrete Fourier Transform]]. Good for data compression, as it tends to use fewer coefficients that [[Fourier transform]].
+A simpler version of the [[Discrete Fourier Transform]]. Good for data compression, as it tends to use fewer coefficients that [[Fourier transform]]. 
+The DCT can be implementet by [[Fast Fourier Transform]]: [[Fast Cosine Transform]]
 
 
 Difference: [[Discrete Fourier Transform]]

@@ -19,8 +19,21 @@ Brain storming
 	- Gives real coefficients, better for token storing 
 	- Encoding: [[DCT-III]]
 	- Decoding: [[DCT-II]] with a factor of $\frac{2}{N}$
-- Use [[Huffman Encoding]] to store the coefficients
-- [[Byte Pair Encoding]]?
+- Use [[Huffman Encoding]] to store the coefficients (decoding implementation would take up too much tokens to be worth it)
+- [[Byte Pair Encoding]]? (rather not)
+
+
+Plan
+---
+Forward: 
+1. Delta Compression, for smaller numbers
+2. DCT on all but the first value
+3. Frequency thresholding on the DCT coefficients
+4. TBD: After the thresholding, were gonna have a lot of zeros -> RLE?
+5. … Semantic token reduction
+
+Inverse:
+
 
 
 Goals
