@@ -11,14 +11,86 @@
             "id": "c2d4647977baa9ff",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Huffman Encoding",
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "PeSTO",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Huffman Encoding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/PeSTO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
+                {
+                  "title": "PSQT Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/PSQT Compression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Sebastian Lague Chess Challenge.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16ee85a2bea5bb14",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stock Fish.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34fbbe9dcb97a1c3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draw Randomization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2eea16ff1c09bca",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -57,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/PSQT Compression.md",
+                "file": "Stock Fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/PSQT Compression.md",
+                "file": "Stock Fish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/PSQT Compression.md"
+                "file": "Stock Fish.md"
               }
             }
           },
@@ -287,10 +360,19 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "c2d4647977baa9ff",
+  "active": "16ee85a2bea5bb14",
   "lastOpenFiles": [
-    "Huffman Encoding.md",
+    "Verification Search.md",
+    "Stock Fish.md",
+    "Null Move Search.md",
+    "ProbCut.md",
+    "Tablebases.md",
+    "Draw Randomization.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
+    "Cut Node.md",
     "Coding/PSQT Compression.md",
+    "Coding/PeSTO.md",
+    "Huffman Encoding.md",
     "DCT-II.md",
     "Discrete Cosine Transform.md",
     "Byte Pair Encoding.md",
@@ -304,17 +386,8 @@
     "Coding/Image Compression.md",
     "Mp3 Compression.md",
     "Jpeg Compression.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
     "Coding/Bot Idea.md",
     "Coding/Alpha Zero Policy.md",
-    "Math/Vandermonde Matrix.md",
-    "Math/Unitary Matrix.md",
-    "Coding/Fast Fourier Transform.md",
-    "Math/Complex Numbers.md",
-    "Math/Vektor.md",
-    "Coding/PeSTO.md",
-    "Coding/FFT 2 - Image Compression.md",
-    "Math/Diagonal Matrix.md",
     "Untitled.canvas",
     "Calendar/2022",
     "Calendar",

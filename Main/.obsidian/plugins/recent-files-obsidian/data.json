@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Stock Fish",
+      "path": "Stock Fish.md"
+    },
+    {
+      "basename": "Verification Search",
+      "path": "Verification Search.md"
+    },
+    {
+      "basename": "Null Move Search",
+      "path": "Null Move Search.md"
+    },
+    {
+      "basename": "ProbCut",
+      "path": "ProbCut.md"
+    },
+    {
+      "basename": "Tablebases",
+      "path": "Tablebases.md"
+    },
+    {
+      "basename": "Draw Randomization",
+      "path": "Draw Randomization.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
+    },
+    {
+      "basename": "Cut Node",
+      "path": "Cut Node.md"
+    },
+    {
       "basename": "PSQT Compression",
       "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "PeSTO",
+      "path": "Coding/PeSTO.md"
     },
     {
       "basename": "Huffman Encoding",
@@ -45,10 +81,6 @@
       "path": "Coding/Fast Fourier Transform.md"
     },
     {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
-    },
-    {
       "basename": "DCT-I",
       "path": "DCT-I.md"
     },
@@ -87,10 +119,6 @@
     {
       "basename": "Complex Numbers",
       "path": "Math/Complex Numbers.md"
-    },
-    {
-      "basename": "PeSTO",
-      "path": "Coding/PeSTO.md"
     },
     {
       "basename": "FFT 2 - Image Compression",
@@ -171,34 +199,6 @@
     {
       "basename": "Neuroplasticity",
       "path": "Learning/Neuroplasticity.md"
-    },
-    {
-      "basename": "Memory Encoding",
-      "path": "Learning/Memory Encoding.md"
-    },
-    {
-      "basename": "Higher Order Learning",
-      "path": "Learning/Higher Order Learning.md"
-    },
-    {
-      "basename": "Deep Processing",
-      "path": "Learning/Deep Processing.md"
-    },
-    {
-      "basename": "Better Understanding",
-      "path": "Learning/Better Understanding.md"
-    },
-    {
-      "basename": "Futility Pruning",
-      "path": "Coding/Futility Pruning.md"
-    },
-    {
-      "basename": "King Safety",
-      "path": "Coding/King Safety.md"
-    },
-    {
-      "basename": "Brain Rot",
-      "path": "Self/Brain Rot.md"
     }
   ],
   "omittedPaths": [],
