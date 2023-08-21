@@ -22,5 +22,6 @@
   "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 4,
   "CodeMirror Options@@cm5-minimal-embeds": true,
   "CodeMirror Options@@cm-theme-selection": "cm-theme-dracula",
-  "CodeMirror Options@@cm-background-color@@dark": "#000000"
+  "CodeMirror Options@@cm-background-color@@dark": "#000000",
+  "things-style@@h2-color": "#FFFFFF"
 }

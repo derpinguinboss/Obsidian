@@ -1,0 +1,1 @@
+![[735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf]]

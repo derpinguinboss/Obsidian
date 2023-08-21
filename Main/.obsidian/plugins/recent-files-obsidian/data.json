@@ -1,36 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Tablebases",
+      "path": "Coding/Tablebases.md"
+    },
+    {
+      "basename": "Fast Cosine Transform",
+      "path": "Coding/Fast Cosine Transform.md"
+    },
+    {
+      "basename": "Europäische Union - Friedensnobelpreis",
+      "path": "Sowi/Europäische Union - Friedensnobelpreis.md"
+    },
+    {
       "basename": "Stock Fish",
-      "path": "Stock Fish.md"
+      "path": "Coding/Stock Fish.md"
     },
     {
       "basename": "Verification Search",
-      "path": "Verification Search.md"
+      "path": "Coding/Verification Search.md"
+    },
+    {
+      "basename": "Cut Node",
+      "path": "Coding/Cut Node.md"
+    },
+    {
+      "basename": "Byte Pair Encoding",
+      "path": "Coding/Byte Pair Encoding.md"
+    },
+    {
+      "basename": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
+      "path": "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf"
+    },
+    {
+      "basename": "DCT-IV",
+      "path": "Math/DCT-IV.md"
+    },
+    {
+      "basename": "Sigma Regeln",
+      "path": "Math/Sigma Regeln.md"
+    },
+    {
+      "basename": "Discrete Cosine Transform",
+      "path": "Math/Discrete Cosine Transform.md"
     },
     {
       "basename": "Null Move Search",
-      "path": "Null Move Search.md"
+      "path": "Coding/Null Move Search.md"
     },
     {
       "basename": "ProbCut",
-      "path": "ProbCut.md"
-    },
-    {
-      "basename": "Tablebases",
-      "path": "Tablebases.md"
+      "path": "Coding/ProbCut.md"
     },
     {
       "basename": "Draw Randomization",
-      "path": "Draw Randomization.md"
+      "path": "Coding/Draw Randomization.md"
     },
     {
       "basename": "Sebastian Lague Chess Challenge",
       "path": "Coding/Sebastian Lague Chess Challenge.md"
-    },
-    {
-      "basename": "Cut Node",
-      "path": "Cut Node.md"
     },
     {
       "basename": "PSQT Compression",
@@ -42,19 +70,11 @@
     },
     {
       "basename": "Huffman Encoding",
-      "path": "Huffman Encoding.md"
+      "path": "Coding/Huffman Encoding.md"
     },
     {
       "basename": "DCT-II",
-      "path": "DCT-II.md"
-    },
-    {
-      "basename": "Discrete Cosine Transform",
-      "path": "Discrete Cosine Transform.md"
-    },
-    {
-      "basename": "Byte Pair Encoding",
-      "path": "Byte Pair Encoding.md"
+      "path": "Math/DCT-II.md"
     },
     {
       "basename": "Run Length Encoding",
@@ -62,15 +82,7 @@
     },
     {
       "basename": "DCT-III",
-      "path": "DCT-III.md"
-    },
-    {
-      "basename": "Fast Cosine Transform",
-      "path": "Fast Cosine Transform.md"
-    },
-    {
-      "basename": "DCT-IV",
-      "path": "DCT-IV.md"
+      "path": "Math/DCT-III.md"
     },
     {
       "basename": "Discrete Fourier Transform",
@@ -82,7 +94,7 @@
     },
     {
       "basename": "DCT-I",
-      "path": "DCT-I.md"
+      "path": "Math/DCT-I.md"
     },
     {
       "basename": "Vektor",
@@ -102,11 +114,11 @@
     },
     {
       "basename": "Mp3 Compression",
-      "path": "Mp3 Compression.md"
+      "path": "Coding/Mp3 Compression.md"
     },
     {
       "basename": "Jpeg Compression",
-      "path": "Jpeg Compression.md"
+      "path": "Coding/Jpeg Compression.md"
     },
     {
       "basename": "Vandermonde Matrix",
@@ -187,18 +199,6 @@
     {
       "basename": "Good Memory",
       "path": "Learning/Good Memory.md"
-    },
-    {
-      "basename": "Revised Bloom's Taxonomy",
-      "path": "Learning/Revised Bloom's Taxonomy.md"
-    },
-    {
-      "basename": "Analysis",
-      "path": "Math/Analysis.md"
-    },
-    {
-      "basename": "Neuroplasticity",
-      "path": "Learning/Neuroplasticity.md"
     }
   ],
   "omittedPaths": [],

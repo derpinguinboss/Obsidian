@@ -50,13 +50,107 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Europäische Union - Friedensnobelpreis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union - Friedensnobelpreis.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stock Fish",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Stock Fish.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stock Fish.md",
+                "file": "Math/Discrete Cosine Transform.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "232ccad41156b570",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fast Cosine Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Cosine Transform.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union - Friedensnobelpreis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union - Friedensnobelpreis.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stock Fish",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Stock Fish.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tablebases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Tablebases.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Verification Search",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Verification Search.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cut Node",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Cut Node.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Byte Pair Encoding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Byte Pair Encoding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DCT-IV",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/DCT-IV.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sigma Regeln",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":60},\"to\":{\"line\":0,\"ch\":60}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Tablebases.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,51 +172,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draw Randomization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2eea16ff1c09bca",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/PSQT Compression.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e73d5222aa3bdbf3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Huffman Encoding.md",
+                "file": "Coding/Draw Randomization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,8 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -250,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stock Fish.md",
+                "file": "Coding/Tablebases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stock Fish.md",
+                "file": "Coding/Tablebases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stock Fish.md"
+                "file": "Coding/Tablebases.md"
               }
             }
           },
@@ -360,34 +409,36 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "16ee85a2bea5bb14",
+  "active": "24908edbb09fe0ec",
   "lastOpenFiles": [
-    "Verification Search.md",
-    "Stock Fish.md",
-    "Null Move Search.md",
-    "ProbCut.md",
-    "Tablebases.md",
-    "Draw Randomization.md",
+    "Coding/Fast Cosine Transform.md",
+    "Sowi/Europäische Union - Friedensnobelpreis.md",
+    "Sowi",
+    "Coding/Stock Fish.md",
+    "Coding/Tablebases.md",
+    "Coding/Verification Search.md",
+    "Coding/Cut Node.md",
+    "Coding/Byte Pair Encoding.md",
+    "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
+    "Math/DCT-IV.md",
+    "Math/Sigma Regeln.md",
+    "Math/Discrete Cosine Transform.md",
+    "Europäische Union - Phasen",
+    "Coding/Null Move Search.md",
+    "Coding/ProbCut.md",
+    "Coding/Draw Randomization.md",
     "Coding/Sebastian Lague Chess Challenge.md",
-    "Cut Node.md",
     "Coding/PSQT Compression.md",
     "Coding/PeSTO.md",
-    "Huffman Encoding.md",
-    "DCT-II.md",
-    "Discrete Cosine Transform.md",
-    "Byte Pair Encoding.md",
+    "Coding/Huffman Encoding.md",
+    "Math/DCT-II.md",
     "Coding/Run Length Encoding.md",
-    "DCT-III.md",
-    "Fast Cosine Transform.md",
-    "DCT-IV.md",
+    "Math/DCT-III.md",
     "Coding/Discrete Fourier Transform.md",
     "Coding/Fourier transform.md",
-    "DCT-I.md",
+    "Math/DCT-I.md",
     "Coding/Image Compression.md",
-    "Mp3 Compression.md",
-    "Jpeg Compression.md",
-    "Coding/Bot Idea.md",
-    "Coding/Alpha Zero Policy.md",
+    "Coding/Mp3 Compression.md",
     "Untitled.canvas",
     "Calendar/2022",
     "Calendar",
@@ -400,9 +451,6 @@
     "Pasted image 20230716151717.png",
     "Pasted image 20230716151700.png",
     "Pasted image 20230716151657.png",
-    "Learning",
-    "Coding/Machine Learning",
-    "Coding",
-    "Math"
+    "Learning"
   ]
 }
