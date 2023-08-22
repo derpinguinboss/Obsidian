@@ -1,2 +1,4 @@
 - [ ] Studium Bewerbung
 - [ ] "Goodnight Punpun" manga bestellen
+- [ ] Plotin Referat
+- [ ] HA: Philosophische Probleme mit dem AI race
