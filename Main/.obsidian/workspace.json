@@ -86,6 +86,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Tablebases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Tablebases.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Fast Cosine Transform",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fast Cosine Transform.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -150,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Tablebases.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -299,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Tablebases.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Tablebases.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Tablebases.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -409,13 +415,16 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "24908edbb09fe0ec",
+  "active": "232ccad41156b570",
   "lastOpenFiles": [
+    "Plotin.md",
+    "Europäische Union - Phasen.md",
+    "Coding/Tablebases.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
     "Coding/Fast Cosine Transform.md",
     "Sowi/Europäische Union - Friedensnobelpreis.md",
     "Sowi",
     "Coding/Stock Fish.md",
-    "Coding/Tablebases.md",
     "Coding/Verification Search.md",
     "Coding/Cut Node.md",
     "Coding/Byte Pair Encoding.md",
@@ -427,7 +436,6 @@
     "Coding/Null Move Search.md",
     "Coding/ProbCut.md",
     "Coding/Draw Randomization.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
     "Coding/PSQT Compression.md",
     "Coding/PeSTO.md",
     "Coding/Huffman Encoding.md",
@@ -438,7 +446,6 @@
     "Coding/Fourier transform.md",
     "Math/DCT-I.md",
     "Coding/Image Compression.md",
-    "Coding/Mp3 Compression.md",
     "Untitled.canvas",
     "Calendar/2022",
     "Calendar",

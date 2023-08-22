@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
       "basename": "Tablebases",
       "path": "Coding/Tablebases.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
       "basename": "Fast Cosine Transform",
@@ -55,10 +63,6 @@
     {
       "basename": "Draw Randomization",
       "path": "Coding/Draw Randomization.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
       "basename": "PSQT Compression",
@@ -139,10 +143,6 @@
     {
       "basename": "Diagonal Matrix",
       "path": "Math/Diagonal Matrix.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "Identity Matrix",
