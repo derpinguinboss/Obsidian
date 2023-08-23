@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Head Bowl",
+      "path": "Head Bowl.md"
+    },
+    {
+      "basename": "Machine Learning",
+      "path": "Machine Learning.md"
+    },
+    {
       "basename": "TODO",
       "path": "TODO.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Big O Notation",
       "path": "Coding/Big O Notation.md"
-    },
-    {
-      "basename": "Better Learning",
-      "path": "Learning/Better Learning.md"
-    },
-    {
-      "basename": "Good Memory",
-      "path": "Learning/Good Memory.md"
     }
   ],
   "omittedPaths": [],
