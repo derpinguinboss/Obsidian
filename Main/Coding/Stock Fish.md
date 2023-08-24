@@ -9,6 +9,7 @@ File
 
 Search Function
 ===
+Uses a `SearchStack` struct to keep track of information related to the current state of the search.
 
 Parameters
 ---
@@ -154,8 +155,68 @@ ___
 Endgame solutions
 
 
-7. __Static evaluation and improvement flag__
+7. __[[Static evaluation]] and improvement flag__
 ___
+This step handles different cases, that apply if the node is not in check and which are dependent on the static evaluation of the position. 
+
+
+__Case 1: Node is excluded from (?)__
+Initialize the static evaluation to the one stored in the `Stack`, and provide the hint, that this node's accumulator will be used often brings significant Elo gain. (What ever that means)
+```cpp
+if (excludedMove)
+{
+	// Providing the hint that this node's accumulator will be used often brings significant Elo gain (13 Elo)
+	Eval::NNUE::hint_common_parent_position(pos);
+	eval = ss->staticEval;
+}
+```
+
+__Case 2: Node is stored in the transposition table__
+Initialize the static evaluation of the node and the `Stack` the to the one cached in the TT (or generate a new static evaluation if the cached eval does not exist). 
+If none of these conditions are true and the node is a [[Principle Variation]] node, we provide the hint that this node's accumulator will be used often, like in case 1.
+```cpp
+if (ss->ttHit)
+{
+	// Never assume anything about values stored in TT
+	ss->staticEval = eval = tte->eval();
+	if (eval == VALUE_NONE)
+		ss->staticEval = eval = evaluate(pos);
+	else if (PvNode)
+		Eval::NNUE::hint_common_parent_position(pos);
+
+	// ttValue can be used as a better position evaluation (~7 Elo)
+	if (    ttValue != VALUE_NONE
+		&& (tte->bound() & (ttValue > eval ? BOUND_LOWER : BOUND_UPPER)))
+		eval = ttValue;
+}
+```
+
+__Case 3__
+This will take affect if none of the cases above are valid. 
+Here we just generate a new static evaluation of the position and make an entry in the transposition table.
+```cpp
+ss->staticEval = eval = evaluate(pos);
+// Save static evaluation into the transposition table
+tte->save(posKey, VALUE_NONE, ss->ttPv, BOUND_NONE, DEPTH_NONE, MOVE_NONE, eval);
+```
+
+__Improving flag__
+It also sets up to `improving` flag, which is true if current static evaluation is bigger than the previous static evaluation at our turn (if we were in check at our previous move we look at static evaluation at move prior to it and if we were in check at move prior to it flag is set to true) and is false otherwise. The improving flag is used in various pruning heuristics. 
+```cpp
+bool improving =  (ss-2)->staticEval != VALUE_NONE ? ss->staticEval > (ss-2)->staticEval
+				: (ss-4)->staticEval != VALUE_NONE ? ss->staticEval > (ss-4)->staticEval
+				: true;
+```
+When we are in check, we skip all moves up until step 13 and initialize the `improving` flag to false.
+```cpp
+if (ss->inCheck)
+{
+    // Skip early pruning when in check
+    ss->staticEval = eval = VALUE_NONE;
+    improving = false;
+    goto moves_loop;
+}
+```
 
 
 8. __[[Razoring]]__

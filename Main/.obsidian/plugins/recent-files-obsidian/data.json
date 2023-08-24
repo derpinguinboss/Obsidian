@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Head Bowl",
-      "path": "Head Bowl.md"
+      "basename": "Stock Fish",
+      "path": "Coding/Stock Fish.md"
     },
     {
-      "basename": "Machine Learning",
-      "path": "Machine Learning.md"
+      "basename": "Static evaluation",
+      "path": "Static evaluation.md"
+    },
+    {
+      "basename": "Plotin",
+      "path": "Philo/Plotin.md"
+    },
+    {
+      "basename": "Europäische Union - Phasen",
+      "path": "Sowi/Europäische Union - Phasen.md"
     },
     {
       "basename": "TODO",
       "path": "TODO.md"
+    },
+    {
+      "basename": "Head Bowl",
+      "path": "Coding/Head Bowl.md"
+    },
+    {
+      "basename": "Machine Learning",
+      "path": "Coding/Machine Learning.md"
     },
     {
       "basename": "Tablebases",
@@ -27,10 +43,6 @@
     {
       "basename": "Europäische Union - Friedensnobelpreis",
       "path": "Sowi/Europäische Union - Friedensnobelpreis.md"
-    },
-    {
-      "basename": "Stock Fish",
-      "path": "Coding/Stock Fish.md"
     },
     {
       "basename": "Verification Search",
@@ -187,18 +199,6 @@
     {
       "basename": "Intervall",
       "path": "Math/Intervall.md"
-    },
-    {
-      "basename": "Ebene",
-      "path": "Math/Ebene.md"
-    },
-    {
-      "basename": "Gerade",
-      "path": "Math/Gerade.md"
-    },
-    {
-      "basename": "Big O Notation",
-      "path": "Coding/Big O Notation.md"
     }
   ],
   "omittedPaths": [],

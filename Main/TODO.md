@@ -3,4 +3,4 @@
 - [ ] Plotin Referat
 - [x] HA: Philosophische Probleme mit dem AI race
 - [ ] https://backscattering.de/chess/uci/
-- [ ] informatik schriftlich abwählen
+- [x] informatik schriftlich abwählen

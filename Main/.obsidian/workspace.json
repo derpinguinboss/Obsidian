@@ -86,6 +86,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Plotin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Philo/Plotin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union - Phasen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union - Phasen.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "TODO",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":23},\"to\":{\"line\":0,\"ch\":23}}}"
+                },
+                {
                   "title": "Tablebases",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Tablebases.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -156,29 +174,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c06ba00ec84e25c7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Head Bowl.md",
+                "file": "Coding/Stock Fish.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -208,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -298,11 +294,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -327,7 +325,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Head Bowl.md",
+                "file": "Coding/Stock Fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Head Bowl.md",
+                "file": "Coding/Stock Fish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +392,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Head Bowl.md"
+                "file": "Coding/Stock Fish.md"
               }
             }
           },
@@ -437,19 +435,21 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "c06ba00ec84e25c7",
+  "active": "232ccad41156b570",
   "lastOpenFiles": [
-    "Machine Learning.md",
-    "Head Bowl.md",
+    "Static evaluation.md",
+    "Coding/Stock Fish.md",
+    "Philo/Plotin.md",
+    "Sowi/Europäische Union - Phasen.md",
+    "Philo",
     "TODO.md",
-    "Plotin.md",
-    "Europäische Union - Phasen.md",
+    "Coding/Head Bowl.md",
+    "Coding/Machine Learning.md",
     "Coding/Tablebases.md",
     "Coding/Sebastian Lague Chess Challenge.md",
     "Coding/Fast Cosine Transform.md",
     "Sowi/Europäische Union - Friedensnobelpreis.md",
     "Sowi",
-    "Coding/Stock Fish.md",
     "Coding/Verification Search.md",
     "Coding/Cut Node.md",
     "Coding/Byte Pair Encoding.md",
@@ -467,7 +467,6 @@
     "Math/DCT-II.md",
     "Coding/Run Length Encoding.md",
     "Math/DCT-III.md",
-    "Coding/Discrete Fourier Transform.md",
     "Untitled.canvas",
     "Calendar/2022",
     "Calendar",
@@ -479,7 +478,6 @@
     "Self",
     "Pasted image 20230716151717.png",
     "Pasted image 20230716151700.png",
-    "Pasted image 20230716151657.png",
-    "Learning"
+    "Pasted image 20230716151657.png"
   ]
 }
