@@ -5,6 +5,18 @@
       "path": "Coding/Stock Fish.md"
     },
     {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
+    },
+    {
+      "basename": "ProbCut",
+      "path": "Coding/ProbCut.md"
+    },
+    {
       "basename": "Static evaluation",
       "path": "Static evaluation.md"
     },
@@ -17,10 +29,6 @@
       "path": "Sowi/Europäische Union - Phasen.md"
     },
     {
-      "basename": "TODO",
-      "path": "TODO.md"
-    },
-    {
       "basename": "Head Bowl",
       "path": "Coding/Head Bowl.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Tablebases",
       "path": "Coding/Tablebases.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
       "basename": "Fast Cosine Transform",
@@ -75,10 +79,6 @@
     {
       "basename": "Null Move Search",
       "path": "Coding/Null Move Search.md"
-    },
-    {
-      "basename": "ProbCut",
-      "path": "Coding/ProbCut.md"
     },
     {
       "basename": "Draw Randomization",

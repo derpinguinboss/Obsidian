@@ -4,3 +4,5 @@
 - [x] HA: Philosophische Probleme mit dem AI race
 - [ ] https://backscattering.de/chess/uci/
 - [x] informatik schriftlich abwählen
+- [ ] Entschuldigung hochladen
+
