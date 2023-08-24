@@ -171,7 +171,7 @@ if (excludedMove)
 }
 ```
 
-__Case 2: Node is stored in the transposition table__
+__Else Case 2: Node is stored in the transposition table__
 Initialize the static evaluation of the node and the `Stack` the to the one cached in the TT (or generate a new static evaluation if the cached eval does not exist). 
 If none of these conditions are true and the node is a [[Principle Variation]] node, we provide the hint that this node's accumulator will be used often, like in case 1.
 ```cpp
@@ -191,7 +191,7 @@ if (ss->ttHit)
 }
 ```
 
-__Case 3__
+__Else Case 3__
 This will take affect if none of the cases above are valid. 
 Here we just generate a new static evaluation of the position and make an entry in the transposition table.
 ```cpp
@@ -199,6 +199,26 @@ ss->staticEval = eval = evaluate(pos);
 // Save static evaluation into the transposition table
 tte->save(posKey, VALUE_NONE, ss->ttPv, BOUND_NONE, DEPTH_NONE, MOVE_NONE, eval);
 ```
+
+__Case 4: Improving quiet [[Move Ordering]]__
+If the last move was a check and not a capture, we do this (?)
+```cpp
+if (is_ok((ss-1)->currentMove) && !(ss-1)->inCheck && !priorCapture)
+{
+	int bonus = std::clamp(-18 * int((ss-1)->staticEval + ss->staticEval), -1817, 1817);
+	thisThread->mainHistory[~us][from_to((ss-1)->currentMove)] << bonus;
+}
+
+void operator<<(int bonus) {
+	assert(abs(bonus) <= D); // Ensure range is [-D, D]
+	static_assert(D <= std::numeric_limits<T>::max(), "D overflows T");
+	
+	entry += bonus - entry * abs(bonus) / D;
+	
+	assert(abs(entry) <= D);
+}
+```
+
 
 __Improving flag__
 It also sets up to `improving` flag, which is true if current static evaluation is bigger than the previous static evaluation at our turn (if we were in check at our previous move we look at static evaluation at move prior to it and if we were in check at move prior to it flag is set to true) and is false otherwise. The improving flag is used in various pruning heuristics. 
@@ -218,13 +238,30 @@ if (ss->inCheck)
 }
 ```
 
-
 8. __[[Razoring]]__
 ___
+If eval is really low check with [[Quiescent Search]] if it can exceed alpha, if it can't, return a fail low.
+```cpp
+if (eval < alpha - 456 - 252 * depth * depth)
+{
+	value = qsearch<NonPV>(pos, ss, alpha - 1, alpha);
+	if (value < alpha) return value;
+}
+```
 
 
 9. __[[Futility Pruning]]__
 ___
+The depth condition is important for mate finding.
+> Futility pruning: child node
+```cpp
+if (   !ss->ttPv
+	&&  depth < 9
+	&&  eval - futility_margin(depth, cutNode && !ss->ttHit, improving) - (ss-1)->statScore / 306 >= beta
+	&&  eval >= beta
+	&&  eval < 24923) // larger than VALUE_KNOWN_WIN, but smaller than TB wins
+	return eval;
+```
 
 
 10. __[[Null Move Search]] with [[Verification Search]]__
@@ -234,6 +271,7 @@ ___
 
 11. __Dynamic Depth Adjustment and [[ProbCut]] Preparation__
 ___
+
 
 
 12. __[[ProbCut]]__
