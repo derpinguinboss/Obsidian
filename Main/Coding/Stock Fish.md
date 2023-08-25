@@ -279,8 +279,6 @@ if (   !PvNode
     &&  ss->ply >= thisThread->nmpMinPly
     &&  beta > VALUE_TB_LOSS_IN_MAX_PLY)
 {
-    assert(eval - beta >= 0);
-
     // Null move dynamic reduction based on depth and eval
     Depth R = std::min(int(eval - beta) / 173, 6) + depth / 3 + 4;
 
