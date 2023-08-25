@@ -10,12 +10,14 @@ File
 Search Function
 ===
 Uses a `SearchStack` struct to keep track of information related to the current state of the search.
+An array of `Stack` structs keeps track of the information for each layer in the game tree (Plys).
+
 
 Parameters
 ---
 - A reference to the board object
 - A pointer a stack instance. 
-	>Stack struct keeps track of the information we need to remember from nodes shallower and deeper in the tree during the search. Each search thread has its own array of Stack objects, indexed by the current ply.
+	>`Stack` struct keeps track of the information we need to remember from nodes shallower and deeper in the tree during the search. Each search thread has its own array of `Stack` objects, indexed by the current ply.
 ```cpp
 struct Stack {
   Move* pv;
@@ -266,7 +268,9 @@ if (   !ss->ttPv
 
 10. __[[Null Move Search]] with [[Verification Search]]__
 ___
-[[Null Move Pruning]]?
+[[Null Move Pruning]]
+[[Extended Null Move Reductions]]
+
 ```cpp
 if (   !PvNode
     && (ss-1)->currentMove != MOVE_NULL

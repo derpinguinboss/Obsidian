@@ -5,4 +5,7 @@
 - [ ] https://backscattering.de/chess/uci/
 - [x] informatik schriftlich abwählen
 - [ ] Entschuldigung hochladen
+- [ ] What are `virtal calls`?
+- [ ] [Semi-Localized Matrix LVQ](http://home.nerbonne.org/Thesis/G2MLVQ.2012-02-29.lowres.pdf) 
+- [ ] git gud with `Span<T>`
 

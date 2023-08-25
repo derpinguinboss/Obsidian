@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
       "basename": "Stock Fish",
       "path": "Coding/Stock Fish.md"
     },
     {
-      "basename": "TODO",
-      "path": "TODO.md"
+      "basename": "Extended Null Move Reductions",
+      "path": "Extended Null Move Reductions.md"
+    },
+    {
+      "basename": "Null Move Pruning",
+      "path": "Coding/Null Move Pruning.md"
+    },
+    {
+      "basename": "Verification Search",
+      "path": "Coding/Verification Search.md"
     },
     {
       "basename": "Sebastian Lague Chess Challenge",
@@ -47,10 +59,6 @@
     {
       "basename": "Europäische Union - Friedensnobelpreis",
       "path": "Sowi/Europäische Union - Friedensnobelpreis.md"
-    },
-    {
-      "basename": "Verification Search",
-      "path": "Coding/Verification Search.md"
     },
     {
       "basename": "Cut Node",
@@ -191,14 +199,6 @@
     {
       "basename": "Jpg Image Compression",
       "path": "Coding/Jpg Image Compression.md"
-    },
-    {
-      "basename": "Normalverteilung",
-      "path": "Math/Normalverteilung.md"
-    },
-    {
-      "basename": "Intervall",
-      "path": "Math/Intervall.md"
     }
   ],
   "omittedPaths": [],

@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Stock Fish",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Stock Fish.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Sebastian Lague Chess Challenge",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Sebastian Lague Chess Challenge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -40,7 +46,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Stock Fish.md",
+                "file": "TODO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af4f97d0ffe580d7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extended Null Move Reductions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,13 +165,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -168,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Stock Fish.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Stock Fish.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Stock Fish.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -280,8 +306,11 @@
   },
   "active": "c2d4647977baa9ff",
   "lastOpenFiles": [
-    "TODO.md",
     "Coding/Stock Fish.md",
+    "Extended Null Move Reductions.md",
+    "Coding/Null Move Pruning.md",
+    "Coding/Verification Search.md",
+    "TODO.md",
     "Coding/Sebastian Lague Chess Challenge.md",
     "Coding/ProbCut.md",
     "Static evaluation.md",
@@ -294,7 +323,6 @@
     "Coding/Fast Cosine Transform.md",
     "Sowi/Europäische Union - Friedensnobelpreis.md",
     "Sowi",
-    "Coding/Verification Search.md",
     "Coding/Cut Node.md",
     "Coding/Byte Pair Encoding.md",
     "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
@@ -308,8 +336,6 @@
     "Coding/PeSTO.md",
     "Coding/Huffman Encoding.md",
     "Math/DCT-II.md",
-    "Coding/Run Length Encoding.md",
-    "Math/DCT-III.md",
     "Untitled.canvas",
     "Calendar/2022",
     "Calendar",
