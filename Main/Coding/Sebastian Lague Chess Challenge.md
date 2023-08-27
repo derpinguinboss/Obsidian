@@ -6,11 +6,6 @@ Sources
 
 Todo
 ===
-1. Static Evaluation
-	Requirements:
-	- Static board evaluation
-	- 
-
 - [ ] On Initialization (constructor) decode the compressed data and cache in memory. Thus it doesn't have to be decompressed on runtime of the search, wasting computation time
 - [ ] [[Piece Square Tables]]
 	- [ ] Switch from jagged array to a single array
@@ -28,4 +23,6 @@ Todo
 - [ ] Maybe [[NNUE]]
 - [ ] Analyse [[Stock Fish]] search function
 - [ ] TTEntry as class so it can be accessed by reference easily
+- [ ] `TTEntryPtr` class as a wrapper for the `TTEntry` struct in order to reference as a pointer 
+- [ ] ContinuationHistory
 

@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "TODO",
-      "path": "TODO.md"
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
+    },
+    {
+      "basename": "PeSTO",
+      "path": "Coding/PeSTO.md"
     },
     {
       "basename": "Stock Fish",
@@ -13,16 +17,20 @@
       "path": "Extended Null Move Reductions.md"
     },
     {
+      "basename": "PSQT Compression",
+      "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
       "basename": "Null Move Pruning",
       "path": "Coding/Null Move Pruning.md"
     },
     {
       "basename": "Verification Search",
       "path": "Coding/Verification Search.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
       "basename": "ProbCut",
@@ -91,14 +99,6 @@
     {
       "basename": "Draw Randomization",
       "path": "Coding/Draw Randomization.md"
-    },
-    {
-      "basename": "PSQT Compression",
-      "path": "Coding/PSQT Compression.md"
-    },
-    {
-      "basename": "PeSTO",
-      "path": "Coding/PeSTO.md"
     },
     {
       "basename": "Huffman Encoding",

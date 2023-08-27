@@ -51,6 +51,7 @@ Check if we have an upcoming move that draws by repetition, or if the opponent h
 - [[Draw Randomization]]: [engines - Stockfish draw value randomization and "3-fold blindness" - Chess Stack Exchange](https://chess.stackexchange.com/questions/29530/stockfish-draw-value-randomization-and-3-fold-blindness?newreg=c2bbd48616174497aa9191e57a7a6075)
 - 50 Move rule 
 - 3-fold-repitition
+Use [[Draw Randomization]] to evaluate the draw.
 ```cpp
 if (   !rootNode
 	&& pos.rule50_count() >= 3
@@ -76,16 +77,17 @@ if (depth <= 0)
 3. __Check Time___
 ___
 Return if a time limit has been reached and the current node is not the root.
+If we ran out of time, return a very high value, so the node get's ignored.
 
 
 4. __Immediate Draw Evaluation__
 ___
-If the current node is not the root node and the board is either a drawn position or the maximum number of plies has been reached the node returns the following. 
+If the current node is not the root node and the board is either a drawn position, or the maximum number of plies has been reached, the node returns the following. 
 If the current plies exceeds the maximum number of plies and the stack is not in check, we return a static evaluation of the position. However, if neither one of the two conditions has been met, we evaluate the position as a draw using [[Draw Randomization]]. 
 ```cpp
-if (   !rootNode
-	|| pos.is_draw(ss->ply)
-	|| ss->ply >= MAX_PLY)
+if (!rootNode
+	&& (pos.is_draw(ss->ply)
+		|| ss->ply >= MAX_PLY))
 	return (ss->ply >= MAX_PLY && !ss->inCheck) 
 		? evaluate(pos)
 		: value_draw(pos.this_thread());
@@ -94,7 +96,8 @@ if (   !rootNode
 
 5. __Mate distance pruning__
 ___
-Step 3. Mate distance pruning. Even if we mate at the next move our score would be at best mate_in(ss->ply+1), but if alpha is already bigger because a shorter mate was found upward in the tree then there is no need to search because we will never beat the current alpha. Same logic but with reversed signs apply also in the opposite condition of being mated instead of giving mate. In this case, return a fail-high score.
+At non root nodes.
+Mate distance pruning. Even if we mate at the next move our score would be at best `mate_in(ss->ply+1)`, but if alpha is already bigger because a shorter mate was found upward in the tree then there is no need to search because we will never beat the current alpha. Same logic but with reversed signs apply also in the opposite condition of being mated instead of giving mate. In this case, return a fail-high score.
 ```cpp
 alpha = max(mated_in(ss->ply), alpha);
 beta = min(mate_in(ss->ply+1), beta);
@@ -162,7 +165,7 @@ ___
 This step handles different cases, that apply if the node is not in check and which are dependent on the static evaluation of the position. 
 
 
-__Case 1: Node is excluded from (?)__
+__Case 1: Node is excluded__
 Initialize the static evaluation to the one stored in the `Stack`, and provide the hint, that this node's accumulator will be used often brings significant Elo gain. (What ever that means)
 ```cpp
 if (excludedMove)
@@ -257,12 +260,16 @@ ___
 The depth condition is important for mate finding.
 > Futility pruning: child node
 ```cpp
-if (   !ss->ttPv
+if (  ! ss->ttPv
 	&&  depth < 9
 	&&  eval - futility_margin(depth, cutNode && !ss->ttHit, improving) - (ss-1)->statScore / 306 >= beta
 	&&  eval >= beta
 	&&  eval < 24923) // larger than VALUE_KNOWN_WIN, but smaller than TB wins
 	return eval;
+	
+Value futility_margin(Depth d, bool noTtCutNode, bool improving) {
+	return Value((140 - 40 * noTtCutNode) * (d - improving));
+}
 ```
 
 
@@ -440,6 +447,14 @@ bool likelyFailLow =    PvNode
 ___
   1. `__Pruning at shallow depth__`
 Depth conditions are important for mate finding.
+
+```cpp
+Depth reduction(bool i, Depth d, int mn, Value delta, Value rootDelta) {
+  int r = Reductions[d] * Reductions[mn];
+  return (r + 1372 - int(delta) * 1073 / int(rootDelta)) / 1024 + (!i && r > 936);
+}
+```
+
 ```cpp
 if (  !rootNode
   && pos.non_pawn_material(us)

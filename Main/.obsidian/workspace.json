@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "PeSTO",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/PeSTO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "PSQT Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/PSQT Compression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TODO",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Stock Fish",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Stock Fish.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -46,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Coding/Sebastian Lague Chess Challenge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,18 +75,30 @@
             "id": "af4f97d0ffe580d7",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Sebastian Lague Chess Challenge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Sebastian Lague Chess Challenge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":34},\"to\":{\"line\":12,\"ch\":34}},\"scroll\":3.459490740740741}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Extended Null Move Reductions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extended Null Move Reductions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extended Null Move Reductions.md",
+                "file": "Coding/Stock Fish.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -169,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -194,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Coding/Sebastian Lague Chess Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Coding/Sebastian Lague Chess Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Coding/Sebastian Lague Chess Challenge.md"
               }
             }
           },
@@ -306,12 +337,14 @@
   },
   "active": "c2d4647977baa9ff",
   "lastOpenFiles": [
+    "Coding/PeSTO.md",
     "Coding/Stock Fish.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
     "Extended Null Move Reductions.md",
+    "Coding/PSQT Compression.md",
+    "TODO.md",
     "Coding/Null Move Pruning.md",
     "Coding/Verification Search.md",
-    "TODO.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
     "Coding/ProbCut.md",
     "Static evaluation.md",
     "Philo/Plotin.md",
@@ -332,8 +365,6 @@
     "Europäische Union - Phasen",
     "Coding/Null Move Search.md",
     "Coding/Draw Randomization.md",
-    "Coding/PSQT Compression.md",
-    "Coding/PeSTO.md",
     "Coding/Huffman Encoding.md",
     "Math/DCT-II.md",
     "Untitled.canvas",
