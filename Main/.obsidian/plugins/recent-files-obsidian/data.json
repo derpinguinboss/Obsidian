@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Sigma Regeln",
+      "path": "Math/Sigma Regeln.md"
+    },
+    {
+      "basename": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
+      "path": "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf"
+    },
+    {
+      "basename": "DCT-IV",
+      "path": "Math/DCT-IV.md"
+    },
+    {
+      "basename": "Static evaluation",
+      "path": "Static evaluation.md"
+    },
+    {
       "basename": "Sebastian Lague Chess Challenge",
       "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
-      "basename": "PeSTO",
-      "path": "Coding/PeSTO.md"
+      "basename": "Run Length Encoding",
+      "path": "Coding/Run Length Encoding.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
     },
     {
       "basename": "Stock Fish",
       "path": "Coding/Stock Fish.md"
+    },
+    {
+      "basename": "PeSTO",
+      "path": "Coding/PeSTO.md"
     },
     {
       "basename": "Extended Null Move Reductions",
@@ -19,10 +43,6 @@
     {
       "basename": "PSQT Compression",
       "path": "Coding/PSQT Compression.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "Null Move Pruning",
@@ -35,10 +55,6 @@
     {
       "basename": "ProbCut",
       "path": "Coding/ProbCut.md"
-    },
-    {
-      "basename": "Static evaluation",
-      "path": "Static evaluation.md"
     },
     {
       "basename": "Plotin",
@@ -77,18 +93,6 @@
       "path": "Coding/Byte Pair Encoding.md"
     },
     {
-      "basename": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
-      "path": "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf"
-    },
-    {
-      "basename": "DCT-IV",
-      "path": "Math/DCT-IV.md"
-    },
-    {
-      "basename": "Sigma Regeln",
-      "path": "Math/Sigma Regeln.md"
-    },
-    {
       "basename": "Discrete Cosine Transform",
       "path": "Math/Discrete Cosine Transform.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "DCT-II",
       "path": "Math/DCT-II.md"
-    },
-    {
-      "basename": "Run Length Encoding",
-      "path": "Coding/Run Length Encoding.md"
     },
     {
       "basename": "DCT-III",
