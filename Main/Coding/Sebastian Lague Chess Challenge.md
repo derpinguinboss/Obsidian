@@ -25,4 +25,5 @@ Todo
 - [ ] TTEntry as class so it can be accessed by reference easily
 - [ ] `TTEntryPtr` class as a wrapper for the `TTEntry` struct in order to reference as a pointer 
 - [ ] ContinuationHistory
+- [ ] For the evaluation function use a bitboard(ulong) as a bonus indicator for each piece.
 

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
+    },
+    {
       "basename": "Sigma Regeln",
       "path": "Math/Sigma Regeln.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Static evaluation",
       "path": "Static evaluation.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
       "basename": "Run Length Encoding",

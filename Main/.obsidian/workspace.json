@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Sigma Regeln",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Sigma Regeln.md",
+                "file": "Coding/Sebastian Lague Chess Challenge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -148,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Sigma Regeln.md",
+                "file": "Coding/Sebastian Lague Chess Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Sigma Regeln.md",
+                "file": "Coding/Sebastian Lague Chess Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Sigma Regeln.md"
+                "file": "Coding/Sebastian Lague Chess Challenge.md"
               }
             }
           },
@@ -260,8 +266,8 @@
   },
   "active": "9cb31f88540e448e",
   "lastOpenFiles": [
-    "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
     "Math/Sigma Regeln.md",
+    "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
     "Math/DCT-IV.md",
     "Static evaluation.md",
     "Coding/Sebastian Lague Chess Challenge.md",
