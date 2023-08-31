@@ -4,4 +4,5 @@
 - [ ] https://backscattering.de/chess/uci/
 - [ ] [Semi-Localized Matrix LVQ](http://home.nerbonne.org/Thesis/G2MLVQ.2012-02-29.lowres.pdf) 
 - [ ] git gud with `Span<T>`
+- [ ] Geschichte HA, messenger
 
