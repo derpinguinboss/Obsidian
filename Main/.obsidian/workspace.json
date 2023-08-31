@@ -11,8 +11,14 @@
             "id": "9cb31f88540e448e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf\"}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -266,11 +272,14 @@
   },
   "active": "9cb31f88540e448e",
   "lastOpenFiles": [
-    "Math/Sigma Regeln.md",
+    "1111100000.txt",
+    "1111100000_.txt",
     "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
+    "Coding/Sebastian Lague Chess Challenge.md",
+    "Untitled.txt",
+    "Math/Sigma Regeln.md",
     "Math/DCT-IV.md",
     "Static evaluation.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
     "Coding/Run Length Encoding.md",
     "TODO.md",
     "Coding/Stock Fish.md",
@@ -302,8 +311,6 @@
     "Pasted image 20230807163024.png",
     "Pasted image 20230807163023.png",
     "Kunst",
-    "Coding/Chess Programming",
-    "Self",
     "Pasted image 20230716151717.png",
     "Pasted image 20230716151700.png",
     "Pasted image 20230716151657.png"

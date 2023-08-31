@@ -1,0 +1,26 @@
+
+index: 1, sizeofT: 5
+00000 11111 00000
+11111 10101 01100
+<<
+10101 01100 00000
+>>
+00000 00000 10101
+
+
+index: 1, sizeofT: 5
+00000000_00000000_00000000_00000000_00000000_00000000_00000011_11100000
+00000000_00000000_00000000_00000000_00001000_01101000_10010010_10001000
+<< 64 - index * sizeofT - sizeofT = 54
+10100010_00000000_00000000_00000000_00000000_00000000_00000000_00000000
+>>> 64 - index * sizeofT = 59
+00000000_00000000_00000000_00000000_00000000_00000000_00000000_00010100
+
+
+
+tools:
+http://www.convertalot.com/bitwise_operators.html
+https://www.rapidtables.com/convert/number/binary-to-decimal.html
+
+truthT:
+https://www.google.com/search?sca_esv=561755169&sxsrf=AB5stBhr-SqG4zw8cshdpxeDyM_lWiFOzA:1693521538270&q=bitwise+operators+truth+table+C%23&tbm=isch&source=lnms&sa=X&ved=2ahUKEwil2dSt-4eBAxVqh_0HHTJeAdAQ0pQJegQIChAB&biw=1920&bih=923&dpr=1#imgrc=GscWmxkhria6WM
