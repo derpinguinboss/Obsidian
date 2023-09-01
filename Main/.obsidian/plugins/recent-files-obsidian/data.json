@@ -5,6 +5,14 @@
       "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Todays evening Math",
+      "path": "Todays evening Math.md"
+    },
+    {
       "basename": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
       "path": "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Run Length Encoding",
       "path": "Coding/Run Length Encoding.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "Stock Fish",
@@ -195,10 +199,6 @@
     {
       "basename": "Alpha Beta Pruning",
       "path": "Coding/Alpha Beta Pruning.md"
-    },
-    {
-      "basename": "Jpg Image Compression",
-      "path": "Coding/Jpg Image Compression.md"
     }
   ],
   "omittedPaths": [],
