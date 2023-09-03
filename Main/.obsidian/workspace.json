@@ -11,17 +11,29 @@
             "id": "9cb31f88540e448e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Sigma Regeln",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8771929824561403}"
+                },
+                {
+                  "title": "PSQT Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/PSQT Compression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sebastian Lague Chess Challenge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Sebastian Lague Chess Challenge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":25},\"to\":{\"line\":26,\"ch\":25}},\"scroll\":3.0399305555555554}"
                 },
                 {
                   "title": "Sigma Regeln",
@@ -34,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Sebastian Lague Chess Challenge.md",
+                "file": "Math/Klausur 4.9..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +54,7 @@
             }
           },
           {
-            "id": "4c5efe4e53b6282d",
+            "id": "0efef1eddc28cae3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -52,24 +64,37 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Todays evening Math",
+                  "title": "Sigma Regeln",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Todays evening Math.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.236689814814815}"
+                },
+                {
+                  "title": "Static evaluation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Static evaluation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mathe Abi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Mathe Abi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":108},\"to\":{\"line\":1,\"ch\":108}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Coding/Sebastian Lague Chess Challenge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,23 +323,25 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "9cb31f88540e448e",
+  "active": "0efef1eddc28cae3",
   "lastOpenFiles": [
+    "Math/Sigma Regeln.md",
+    "Math/Klausur 4.9..md",
+    "Static evaluation.md",
+    "Math/Mathe Abi.md",
+    "Coding/PSQT Compression.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
     "TODO.md",
     "Todays evening Math.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
     "1111100000.txt",
     "1111100000_.txt",
     "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
     "Untitled.txt",
-    "Math/Sigma Regeln.md",
     "Math/DCT-IV.md",
-    "Static evaluation.md",
     "Coding/Run Length Encoding.md",
     "Coding/Stock Fish.md",
     "Coding/PeSTO.md",
     "Extended Null Move Reductions.md",
-    "Coding/PSQT Compression.md",
     "Coding/Null Move Pruning.md",
     "Coding/Verification Search.md",
     "Coding/ProbCut.md",
@@ -331,8 +358,6 @@
     "Coding/Byte Pair Encoding.md",
     "Math/Discrete Cosine Transform.md",
     "Europäische Union - Phasen",
-    "Coding/Null Move Search.md",
-    "Coding/Draw Randomization.md",
     "Untitled.canvas",
     "Calendar/2022",
     "Calendar",

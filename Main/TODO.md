@@ -6,3 +6,4 @@
 - [ ] git gud with `Span<T>`
 - [ ] Geschichte HA, messenger
 - [ ] Learn cuda programming
+	- [ ] Learn GPU architecture 

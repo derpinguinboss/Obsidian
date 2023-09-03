@@ -5,28 +5,36 @@
       "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
-      "basename": "TODO",
-      "path": "TODO.md"
+      "basename": "Sigma Regeln",
+      "path": "Math/Sigma Regeln.md"
     },
     {
-      "basename": "Todays evening Math",
-      "path": "Todays evening Math.md"
+      "basename": "Klausur 4.9.",
+      "path": "Math/Klausur 4.9..md"
+    },
+    {
+      "basename": "Static evaluation",
+      "path": "Static evaluation.md"
+    },
+    {
+      "basename": "Mathe Abi",
+      "path": "Math/Mathe Abi.md"
+    },
+    {
+      "basename": "PSQT Compression",
+      "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
     },
     {
       "basename": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
       "path": "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf"
     },
     {
-      "basename": "Sigma Regeln",
-      "path": "Math/Sigma Regeln.md"
-    },
-    {
       "basename": "DCT-IV",
       "path": "Math/DCT-IV.md"
-    },
-    {
-      "basename": "Static evaluation",
-      "path": "Static evaluation.md"
     },
     {
       "basename": "Run Length Encoding",
@@ -43,10 +51,6 @@
     {
       "basename": "Extended Null Move Reductions",
       "path": "Extended Null Move Reductions.md"
-    },
-    {
-      "basename": "PSQT Compression",
-      "path": "Coding/PSQT Compression.md"
     },
     {
       "basename": "Null Move Pruning",
@@ -191,14 +195,6 @@
     {
       "basename": "Stochastik",
       "path": "Math/Stochastik.md"
-    },
-    {
-      "basename": "AdaDelta Deep Learning Optimizer",
-      "path": "Coding/AdaDelta Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Alpha Beta Pruning",
-      "path": "Coding/Alpha Beta Pruning.md"
     }
   ],
   "omittedPaths": [],

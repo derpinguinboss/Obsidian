@@ -26,6 +26,7 @@ Todo
 - [ ] `TTEntryPtr` class as a wrapper for the `TTEntry` struct in order to reference as a pointer 
 - [ ] ContinuationHistory
 - [ ] For the evaluation function use a bitboard(ulong) as a bonus indicator for each piece.
+- [ ] Add UCI support [Discord](https://discord.com/channels/1132289356011405342/1135297519098793984)
 
 
 Sketching
