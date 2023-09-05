@@ -16,7 +16,7 @@ Todo
 	- [ ] [[PSQT Compression]]: The length of a number does not increase the token count
 - [ ] [[End Game]]: Doesn't know how to win endgames
 	- [x] -> [[Transposition Table]]
-	- [ ] -> If this is not enough, start exploring random moves on a decreased velocity/ negative acceleration of the evaluation
+	- [ ] -> start exploring random moves on a decreased velocity/ negative acceleration of the evaluation
 		- [ ] -> cache the last move or something
 - [ ] [[Delta Pruning]]
 - [ ] [[Null Move Pruning]]
@@ -27,6 +27,13 @@ Todo
 - [ ] ContinuationHistory
 - [ ] For the evaluation function use a bitboard(ulong) as a bonus indicator for each piece.
 - [ ] Add UCI support [Discord](https://discord.com/channels/1132289356011405342/1135297519098793984)
+
+Known Issues/Bugs
+===
+- [x] Sometimes, when in check, it returns a null move, even though at least a search of depth 1 has been completed
+- [ ] Just blundering queen in one move sort of stuff :/
+- [ ] Losing almost every endgame
+- [ ] TT worse when static
 
 
 Sketching

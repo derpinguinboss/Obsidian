@@ -1,0 +1,1 @@
+Ein Versuch zur militärischen Integration, scheiterte an der Ablehnung durch die französische Nationalversammlung.

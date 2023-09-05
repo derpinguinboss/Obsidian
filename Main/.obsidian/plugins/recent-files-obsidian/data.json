@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Geschichte der EU",
+      "path": "Geschichte der EU.md"
+    },
+    {
+      "basename": "Europäische Wirtschafts- und Währungsunion",
+      "path": "Europäische Wirtschafts- und Währungsunion.md"
+    },
+    {
+      "basename": "Gemeinsame Außen- und Sicherheitspolitik",
+      "path": "Gemeinsame Außen- und Sicherheitspolitik.md"
+    },
+    {
+      "basename": "Einheitliche Europäische Akte",
+      "path": "Einheitliche Europäische Akte.md"
+    },
+    {
+      "basename": "Europäisches Parlament",
+      "path": "Europäisches Parlament.md"
+    },
+    {
+      "basename": "Europäisches Währungssystem",
+      "path": "Europäisches Währungssystem.md"
+    },
+    {
+      "basename": "Europäische Wirtschaftsgemeinschaft",
+      "path": "Europäische Wirtschaftsgemeinschaft.md"
+    },
+    {
+      "basename": "Europäische Atomgemeinschaft",
+      "path": "Europäische Atomgemeinschaft.md"
+    },
+    {
+      "basename": "Europäische Gemeinschaft",
+      "path": "Europäische Gemeinschaft.md"
+    },
+    {
+      "basename": "Benelux",
+      "path": "Benelux.md"
+    },
+    {
+      "basename": "Europäische Verteidigungsgemeinschaft",
+      "path": "Europäische Verteidigungsgemeinschaft.md"
+    },
+    {
       "basename": "Sebastian Lague Chess Challenge",
       "path": "Coding/Sebastian Lague Chess Challenge.md"
     },
     {
-      "basename": "Sigma Regeln",
-      "path": "Math/Sigma Regeln.md"
+      "basename": "Eintritt des Westbalkans in die EU",
+      "path": "Eintritt des Westbalkans in die EU.md"
     },
     {
       "basename": "Klausur 4.9.",
       "path": "Math/Klausur 4.9..md"
+    },
+    {
+      "basename": "Europäische Gemeinschaft für Kohle und Stahl",
+      "path": "Europäische Gemeinschaft für Kohle und Stahl.md"
+    },
+    {
+      "basename": "Sigma Regeln",
+      "path": "Math/Sigma Regeln.md"
     },
     {
       "basename": "Static evaluation",
@@ -147,54 +199,6 @@
     {
       "basename": "Matrix",
       "path": "Math/Matrix.md"
-    },
-    {
-      "basename": "Fourier transform",
-      "path": "Coding/Fourier transform.md"
-    },
-    {
-      "basename": "Mp3 Compression",
-      "path": "Coding/Mp3 Compression.md"
-    },
-    {
-      "basename": "Jpeg Compression",
-      "path": "Coding/Jpeg Compression.md"
-    },
-    {
-      "basename": "Vandermonde Matrix",
-      "path": "Math/Vandermonde Matrix.md"
-    },
-    {
-      "basename": "Unitary Matrix",
-      "path": "Math/Unitary Matrix.md"
-    },
-    {
-      "basename": "Complex Numbers",
-      "path": "Math/Complex Numbers.md"
-    },
-    {
-      "basename": "FFT 2 - Image Compression",
-      "path": "Coding/FFT 2 - Image Compression.md"
-    },
-    {
-      "basename": "Diagonal Matrix",
-      "path": "Math/Diagonal Matrix.md"
-    },
-    {
-      "basename": "Identity Matrix",
-      "path": "Math/Identity Matrix.md"
-    },
-    {
-      "basename": "Analytische Geometrie",
-      "path": "Math/Analytische Geometrie.md"
-    },
-    {
-      "basename": "Rotationskörper",
-      "path": "Math/Rotationskörper.md"
-    },
-    {
-      "basename": "Stochastik",
-      "path": "Math/Stochastik.md"
     }
   ],
   "omittedPaths": [],

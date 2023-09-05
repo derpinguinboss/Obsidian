@@ -67,7 +67,7 @@
                   "title": "Sigma Regeln",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.236689814814815}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Static evaluation",
@@ -92,9 +92,59 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9215ea4e479ae5fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eintritt des Westbalkans in die EU.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c76be35f6e6e67a9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte der EU.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Sebastian Lague Chess Challenge.md",
+                "file": "Geschichte der EU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Sebastian Lague Chess Challenge.md",
+                "file": "Geschichte der EU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Sebastian Lague Chess Challenge.md"
+                "file": "Geschichte der EU.md"
               }
             }
           },
@@ -323,14 +373,27 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "0efef1eddc28cae3",
+  "active": "c76be35f6e6e67a9",
   "lastOpenFiles": [
-    "Math/Sigma Regeln.md",
+    "Geschichte der EU.md",
+    "Europäische Wirtschafts- und Währungsunion.md",
+    "Gemeinsame Außen- und Sicherheitspolitik.md",
+    "Einheitliche Europäische Akte.md",
+    "Europäisches Parlament.md",
+    "Europäisches Währungssystem.md",
+    "Europäische Wirtschaftsgemeinschaft.md",
+    "Europäische Atomgemeinschaft.md",
+    "Europäische Gemeinschaft.md",
+    "Benelux.md",
+    "Europäische Verteidigungsgemeinschaft.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
+    "Eintritt des Westbalkans in die EU.md",
     "Math/Klausur 4.9..md",
+    "Europäische Gemeinschaft für Kohle und Stahl.md",
+    "Math/Sigma Regeln.md",
     "Static evaluation.md",
     "Math/Mathe Abi.md",
     "Coding/PSQT Compression.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
     "TODO.md",
     "Todays evening Math.md",
     "1111100000.txt",
@@ -342,21 +405,8 @@
     "Coding/Stock Fish.md",
     "Coding/PeSTO.md",
     "Extended Null Move Reductions.md",
-    "Coding/Null Move Pruning.md",
-    "Coding/Verification Search.md",
-    "Coding/ProbCut.md",
-    "Philo/Plotin.md",
-    "Sowi/Europäische Union - Phasen.md",
     "Philo",
-    "Coding/Head Bowl.md",
-    "Coding/Machine Learning.md",
-    "Coding/Tablebases.md",
-    "Coding/Fast Cosine Transform.md",
-    "Sowi/Europäische Union - Friedensnobelpreis.md",
     "Sowi",
-    "Coding/Cut Node.md",
-    "Coding/Byte Pair Encoding.md",
-    "Math/Discrete Cosine Transform.md",
     "Europäische Union - Phasen",
     "Untitled.canvas",
     "Calendar/2022",
