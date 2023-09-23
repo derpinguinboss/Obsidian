@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "BERTScore",
+      "path": "BERTScore.md"
+    },
+    {
+      "basename": "Hallucinations of LLMs",
+      "path": "Hallucinations of LLMs.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
+    },
+    {
+      "basename": "Eintritt des Westbalkans in die EU",
+      "path": "Eintritt des Westbalkans in die EU.md"
+    },
+    {
       "basename": "Geschichte der EU",
       "path": "Geschichte der EU.md"
     },
@@ -43,14 +59,6 @@
     {
       "basename": "Europäische Verteidigungsgemeinschaft",
       "path": "Europäische Verteidigungsgemeinschaft.md"
-    },
-    {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
-    },
-    {
-      "basename": "Eintritt des Westbalkans in die EU",
-      "path": "Eintritt des Westbalkans in die EU.md"
     },
     {
       "basename": "Klausur 4.9.",
@@ -191,14 +199,6 @@
     {
       "basename": "Vektor",
       "path": "Math/Vektor.md"
-    },
-    {
-      "basename": "Image Compression",
-      "path": "Coding/Image Compression.md"
-    },
-    {
-      "basename": "Matrix",
-      "path": "Math/Matrix.md"
     }
   ],
   "omittedPaths": [],

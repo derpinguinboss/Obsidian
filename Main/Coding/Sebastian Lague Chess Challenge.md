@@ -34,6 +34,19 @@ Known Issues/Bugs
 - [ ] Just blundering queen in one move sort of stuff :/
 - [ ] Losing almost every endgame
 - [ ] TT worse when static
+```
+PV  6  'g1f3'(23|12)
+PV  6  'g1f3'(12|12) 7  'g8f6'(-12|-23) 8  'Null'(-22|-22)
+PV  6  'g1f3'(22|12) 7  'g8f6'(-22|-23) 8  'Null'(-11|-22)
+PV  6  'g1f3'(12|12) 7  'g8f6'(-12|-23) 8  'Null'(12|-22) 9  'd7d6'(0|11)
+PV  6  'g1f3'(19|12) 7  'g8f6'(-19|-23) 8  'Null'(16|-22) 9  'e5d4'(26|12) 10  'f1g2'(20|0) 11  'Null'(-22|-22) 12  'h1h4'(980|-5) 13  'Null'(-980|-980) 14  'h1h4'(987|18) 15  'Null'(-987|-987) 16  'Null'(-32|-32)
+PV  6  'g1f3'(12|12) 7  'g8f6'(-12|-23) 8  'Null'(12|-22) 9  'e8e7'(-7|91) 10  'Null'(12|-83) 11  'g8f6'(163|152) 12  'Null'(-15|-87) 13  'f6g4'(-12|-23) 14  'Null'(12|-45) 15  'Null'(-62|-62) 16  'e4d2'(994|28) 17  'Null'(-1028|-1028) 18  'Null'(-289|-289) 19  'Null'(-91|-130) 20  'Null'(-2|-52)
+PV  6  'g1f3'(16|12) 7  'g8f6'(-16|-23) 8  'Null'(16|-22) 9  'e8e7'(-15|91) 10  'Null'(15|-83) 11  'g8f6'(-11|72) 12  'Null'(-43|-136) 13  'f6g4'(-12|-23) 14  'Null'(12|-45) 15  'd8d5'(13|-55) 16  'Null'(-13|-13) 17  'c8f5'(241|-113) 18  'Null'(-241|-293) 19  'h1g1'(26|-197) 20  'Null'(-26|-78)
+PV  6  'e2e4'(13|12) 7  'g8f6'(-12|-23) 8  'Null'(13|-22) 9  'e8e7'(-13|91) 10  'Null'(13|-83) 11  'g8f6'(21|152) 12  'Null'(-16|-136) 13  'f6g4'(111|43) 14  'Null'(-111|-111) 15  'f6g4'(-10|-78) 16  'Null'(10|10) 17  'c8g4'(694|-331) 18  'Null'(-694|-694) 19  'd8d5'(926|-57) 20  'Null'(-926|-926) 21  'Null'(-250|-250) 22  'Null'(-283|-283) 23  'a8c8'(904|-110) 24  'Null'(-904|-904) 25  'Null'(-285|-545) 26  'Null'(-31|-31) 27  'Null'(-325|-325)
+
+D:\Programmmieren\Projects\Chess-Challenge\uci\Chess-Challenge-Uci-uci\Chess-Challenge-Uci-uci\Chess-Challenge\bin\Release\net6.0\Chess-Challenge.exe (process 3500) exited with code 0.
+Press any key to close this window . . .
+```
 
 
 Sketching

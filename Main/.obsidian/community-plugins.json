@@ -19,5 +19,6 @@
   "text-extractor",
   "background-image",
   "execute-code",
-  "obsidian-codemirror-options"
+  "obsidian-codemirror-options",
+  "obsidian-wakatime"
 ]

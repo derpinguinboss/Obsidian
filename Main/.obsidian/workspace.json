@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cb31f88540e448e",
+            "id": "0ad40189b3313ce5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,75 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Sigma Regeln",
+                  "title": "Hallucinations of LLMs",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8771929824561403}"
-                },
-                {
-                  "title": "PSQT Compression",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/PSQT Compression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sebastian Lague Chess Challenge",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Sebastian Lague Chess Challenge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":25},\"to\":{\"line\":26,\"ch\":25}},\"scroll\":3.0399305555555554}"
-                },
-                {
-                  "title": "Sigma Regeln",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hallucinations of LLMs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":117},\"to\":{\"line\":0,\"ch\":117}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Klausur 4.9..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0efef1eddc28cae3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Sigma Regeln",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Static evaluation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Static evaluation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Mathe Abi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Mathe Abi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":108},\"to\":{\"line\":1,\"ch\":108}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Sebastian Lague Chess Challenge.md",
+                "file": "BERTScore.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,37 +56,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c76be35f6e6e67a9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte der EU.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -263,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte der EU.md",
+                "file": "BERTScore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte der EU.md",
+                "file": "BERTScore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte der EU.md"
+                "file": "BERTScore.md"
               }
             }
           },
@@ -349,6 +263,25 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "fd8dc67ba101b189",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -373,8 +306,12 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "c76be35f6e6e67a9",
+  "active": "0ad40189b3313ce5",
   "lastOpenFiles": [
+    "Hallucinations of LLMs.md",
+    "BERTScore.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
+    "Eintritt des Westbalkans in die EU.md",
     "Geschichte der EU.md",
     "Europäische Wirtschafts- und Währungsunion.md",
     "Gemeinsame Außen- und Sicherheitspolitik.md",
@@ -386,8 +323,6 @@
     "Europäische Gemeinschaft.md",
     "Benelux.md",
     "Europäische Verteidigungsgemeinschaft.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
-    "Eintritt des Westbalkans in die EU.md",
     "Math/Klausur 4.9..md",
     "Europäische Gemeinschaft für Kohle und Stahl.md",
     "Math/Sigma Regeln.md",
@@ -403,8 +338,6 @@
     "Math/DCT-IV.md",
     "Coding/Run Length Encoding.md",
     "Coding/Stock Fish.md",
-    "Coding/PeSTO.md",
-    "Extended Null Move Reductions.md",
     "Philo",
     "Sowi",
     "Europäische Union - Phasen",
