@@ -1,2 +1,2 @@
 # Obsidian
-My Obsidian vault uploaded to github. 
+My puplic Obsidian vault uploaded to github. 
