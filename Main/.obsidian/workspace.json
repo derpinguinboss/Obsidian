@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c735e34cd2a66115",
+        "id": "f77b7cad1eb4233a",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad40189b3313ce5",
+            "id": "5ed546e55324d8d7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +18,95 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Hallucinations of LLMs",
+                  "title": "TODO",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hallucinations of LLMs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":117},\"to\":{\"line\":0,\"ch\":117}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":20},\"to\":{\"line\":2,\"ch\":20}},\"scroll\":0}"
+                },
+                {
+                  "title": "DCT-IV",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/DCT-IV.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":7.170717592592593}"
+                },
+                {
+                  "title": "Discrete Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Delta Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Delta Compression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deep Learning Optimizers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Deep Learning Optimizers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Byte Pair Encoding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Byte Pair Encoding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cut Node",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Cut Node.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alpha Zero Policy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Alpha Zero Policy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Renaissance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kunst/Renaissance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Künstler als Politiker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kunst/Künstler als Politiker.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Künstler als Forscher",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kunst/Künstler als Forscher.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kunst im Mittelalter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kunst/Kunst im Mittelalter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Carrara-Marmor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kunst/Carrara-Marmor.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ars Propettiva",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kunst/Ars Propettiva.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BERTScore.md",
+                "file": "Math/Intervall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,11 +114,23 @@
             }
           },
           {
-            "id": "9215ea4e479ae5fb",
+            "id": "679a3471413e4a77",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "Discrete Fourier Transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Discrete Fourier Transform.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":0},\"to\":{\"line\":60,\"ch\":0}},\"scroll\":43.704149933065594}"
+                },
+                {
+                  "title": "Fourier transform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/Fourier transform.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -50,14 +140,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eintritt des Westbalkans in die EU.md",
+                "file": "Convolutional Layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7b7a2f933b7f456",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "FFT 2 - Image Compression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Coding/FFT 2 - Image Compression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Fast Fourier Transform.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +257,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Data Compress",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,8 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -177,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BERTScore.md",
+                "file": "Convolutional Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BERTScore.md",
+                "file": "Convolutional Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BERTScore.md"
+                "file": "Convolutional Layer.md"
               }
             }
           },
@@ -306,38 +424,38 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "0ad40189b3313ce5",
+  "active": "679a3471413e4a77",
   "lastOpenFiles": [
-    "Hallucinations of LLMs.md",
-    "BERTScore.md",
-    "Coding/Sebastian Lague Chess Challenge.md",
-    "Eintritt des Westbalkans in die EU.md",
-    "Geschichte der EU.md",
-    "Europäische Wirtschafts- und Währungsunion.md",
-    "Gemeinsame Außen- und Sicherheitspolitik.md",
-    "Einheitliche Europäische Akte.md",
-    "Europäisches Parlament.md",
-    "Europäisches Währungssystem.md",
-    "Europäische Wirtschaftsgemeinschaft.md",
-    "Europäische Atomgemeinschaft.md",
-    "Europäische Gemeinschaft.md",
-    "Benelux.md",
-    "Europäische Verteidigungsgemeinschaft.md",
-    "Math/Klausur 4.9..md",
-    "Europäische Gemeinschaft für Kohle und Stahl.md",
-    "Math/Sigma Regeln.md",
-    "Static evaluation.md",
-    "Math/Mathe Abi.md",
-    "Coding/PSQT Compression.md",
+    "Coding/Fast Fourier Transform.md",
+    "Convolutional Layer.md",
+    "Coding/FFT 2 - Image Compression.md",
+    "Coding/Fourier transform.md",
+    "Coding/Discrete Fourier Transform.md",
+    "Padding.md",
+    "Zero Padding.md",
+    "Math/Intervall.md",
     "TODO.md",
-    "Todays evening Math.md",
+    "Math/DCT-IV.md",
+    "WatchList.md",
+    "Coding/Delta Compression.md",
+    "Coding/Deep Learning Optimizers.md",
+    "Coding/Byte Pair Encoding.md",
+    "Coding/Cut Node.md",
+    "Coding/Alpha Zero Policy.md",
+    "Kunst/Renaissance.md",
+    "Kunst/Künstler als Politiker.md",
+    "Kunst/Künstler als Forscher.md",
+    "Kunst/Kunst im Mittelalter.md",
+    "Kunst/Carrara-Marmor.md",
+    "Kunst/Ars Propettiva.md",
+    "BERTScore.md",
+    "Eintritt des Westbalkans in die EU.md",
+    "Hallucinations of LLMs.md",
+    "Coding/Sebastian Lague Chess Challenge.md",
     "1111100000.txt",
     "1111100000_.txt",
     "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
     "Untitled.txt",
-    "Math/DCT-IV.md",
-    "Coding/Run Length Encoding.md",
-    "Coding/Stock Fish.md",
     "Philo",
     "Sowi",
     "Europäische Union - Phasen",

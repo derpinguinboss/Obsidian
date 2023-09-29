@@ -1,8 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "Convolutional Layer",
+      "path": "Convolutional Layer.md"
+    },
+    {
+      "basename": "Fast Fourier Transform",
+      "path": "Coding/Fast Fourier Transform.md"
+    },
+    {
+      "basename": "FFT 2 - Image Compression",
+      "path": "Coding/FFT 2 - Image Compression.md"
+    },
+    {
+      "basename": "Fourier transform",
+      "path": "Coding/Fourier transform.md"
+    },
+    {
+      "basename": "Discrete Fourier Transform",
+      "path": "Coding/Discrete Fourier Transform.md"
+    },
+    {
+      "basename": "Padding",
+      "path": "Padding.md"
+    },
+    {
+      "basename": "Zero Padding",
+      "path": "Zero Padding.md"
+    },
+    {
+      "basename": "Intervall",
+      "path": "Math/Intervall.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "DCT-IV",
+      "path": "Math/DCT-IV.md"
+    },
+    {
+      "basename": "Delta Compression",
+      "path": "Coding/Delta Compression.md"
+    },
+    {
+      "basename": "Deep Learning Optimizers",
+      "path": "Coding/Deep Learning Optimizers.md"
+    },
+    {
+      "basename": "Byte Pair Encoding",
+      "path": "Coding/Byte Pair Encoding.md"
+    },
+    {
+      "basename": "Cut Node",
+      "path": "Coding/Cut Node.md"
+    },
+    {
+      "basename": "Alpha Zero Policy",
+      "path": "Coding/Alpha Zero Policy.md"
+    },
+    {
+      "basename": "Renaissance",
+      "path": "Kunst/Renaissance.md"
+    },
+    {
+      "basename": "Künstler als Politiker",
+      "path": "Kunst/Künstler als Politiker.md"
+    },
+    {
+      "basename": "Künstler als Forscher",
+      "path": "Kunst/Künstler als Forscher.md"
+    },
+    {
+      "basename": "Kunst im Mittelalter",
+      "path": "Kunst/Kunst im Mittelalter.md"
+    },
+    {
+      "basename": "Carrara-Marmor",
+      "path": "Kunst/Carrara-Marmor.md"
+    },
+    {
+      "basename": "Ars Propettiva",
+      "path": "Kunst/Ars Propettiva.md"
+    },
+    {
       "basename": "BERTScore",
       "path": "BERTScore.md"
+    },
+    {
+      "basename": "Eintritt des Westbalkans in die EU",
+      "path": "Eintritt des Westbalkans in die EU.md"
     },
     {
       "basename": "Hallucinations of LLMs",
@@ -11,10 +99,6 @@
     {
       "basename": "Sebastian Lague Chess Challenge",
       "path": "Coding/Sebastian Lague Chess Challenge.md"
-    },
-    {
-      "basename": "Eintritt des Westbalkans in die EU",
-      "path": "Eintritt des Westbalkans in die EU.md"
     },
     {
       "basename": "Geschichte der EU",
@@ -85,16 +169,8 @@
       "path": "Coding/PSQT Compression.md"
     },
     {
-      "basename": "TODO",
-      "path": "TODO.md"
-    },
-    {
       "basename": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
       "path": "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf"
-    },
-    {
-      "basename": "DCT-IV",
-      "path": "Math/DCT-IV.md"
     },
     {
       "basename": "Run Length Encoding",
@@ -123,82 +199,6 @@
     {
       "basename": "ProbCut",
       "path": "Coding/ProbCut.md"
-    },
-    {
-      "basename": "Plotin",
-      "path": "Philo/Plotin.md"
-    },
-    {
-      "basename": "Europäische Union - Phasen",
-      "path": "Sowi/Europäische Union - Phasen.md"
-    },
-    {
-      "basename": "Head Bowl",
-      "path": "Coding/Head Bowl.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Coding/Machine Learning.md"
-    },
-    {
-      "basename": "Tablebases",
-      "path": "Coding/Tablebases.md"
-    },
-    {
-      "basename": "Fast Cosine Transform",
-      "path": "Coding/Fast Cosine Transform.md"
-    },
-    {
-      "basename": "Europäische Union - Friedensnobelpreis",
-      "path": "Sowi/Europäische Union - Friedensnobelpreis.md"
-    },
-    {
-      "basename": "Cut Node",
-      "path": "Coding/Cut Node.md"
-    },
-    {
-      "basename": "Byte Pair Encoding",
-      "path": "Coding/Byte Pair Encoding.md"
-    },
-    {
-      "basename": "Discrete Cosine Transform",
-      "path": "Math/Discrete Cosine Transform.md"
-    },
-    {
-      "basename": "Null Move Search",
-      "path": "Coding/Null Move Search.md"
-    },
-    {
-      "basename": "Draw Randomization",
-      "path": "Coding/Draw Randomization.md"
-    },
-    {
-      "basename": "Huffman Encoding",
-      "path": "Coding/Huffman Encoding.md"
-    },
-    {
-      "basename": "DCT-II",
-      "path": "Math/DCT-II.md"
-    },
-    {
-      "basename": "DCT-III",
-      "path": "Math/DCT-III.md"
-    },
-    {
-      "basename": "Discrete Fourier Transform",
-      "path": "Coding/Discrete Fourier Transform.md"
-    },
-    {
-      "basename": "Fast Fourier Transform",
-      "path": "Coding/Fast Fourier Transform.md"
-    },
-    {
-      "basename": "DCT-I",
-      "path": "Math/DCT-I.md"
-    },
-    {
-      "basename": "Vektor",
-      "path": "Math/Vektor.md"
     }
   ],
   "omittedPaths": [],
