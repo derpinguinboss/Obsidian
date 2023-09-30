@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Low Level Optimizations",
+      "path": "Low Level Optimizations.md"
+    },
+    {
       "basename": "Convolutional Layer",
       "path": "Convolutional Layer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Verification Search",
       "path": "Coding/Verification Search.md"
-    },
-    {
-      "basename": "ProbCut",
-      "path": "Coding/ProbCut.md"
     }
   ],
   "omittedPaths": [],
