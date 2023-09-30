@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Low Level Optimizations",
-      "path": "Low Level Optimizations.md"
+      "basename": "Fully Connected Layer",
+      "path": "Fully Connected Layer.md"
     },
     {
       "basename": "Convolutional Layer",
@@ -11,6 +11,10 @@
     {
       "basename": "Fast Fourier Transform",
       "path": "Coding/Fast Fourier Transform.md"
+    },
+    {
+      "basename": "Low Level Optimizations",
+      "path": "Low Level Optimizations.md"
     },
     {
       "basename": "FFT 2 - Image Compression",
@@ -195,10 +199,6 @@
     {
       "basename": "Null Move Pruning",
       "path": "Coding/Null Move Pruning.md"
-    },
-    {
-      "basename": "Verification Search",
-      "path": "Coding/Verification Search.md"
     }
   ],
   "omittedPaths": [],

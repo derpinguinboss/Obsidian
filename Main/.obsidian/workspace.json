@@ -142,6 +142,45 @@
             }
           },
           {
+            "id": "be352453b724d859",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fully Connected Layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a4cebb3e09a67fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "a5535b82cd48f68b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -192,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,7 +350,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Low Level Optimizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +375,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Low Level Optimizations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -377,9 +414,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Low Level Optimizations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -440,8 +475,9 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "a5535b82cd48f68b",
+  "active": "1a4cebb3e09a67fb",
   "lastOpenFiles": [
+    "Fully Connected Layer.md",
     "Convolutional Layer.md",
     "Low Level Optimizations.md",
     "Coding/Fast Fourier Transform.md",
@@ -467,7 +503,6 @@
     "Kunst/Ars Propettiva.md",
     "BERTScore.md",
     "Eintritt des Westbalkans in die EU.md",
-    "Hallucinations of LLMs.md",
     "1111100000.txt",
     "1111100000_.txt",
     "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",

@@ -22,7 +22,7 @@ Misc.
 - $f_M$ : filter span
 - $f_D$ : filter depth
 
-Input layer
+Input 
 ---
 - $I_{ijk}$ with
 	- $_i$ and $_j$ as width and height index 
@@ -48,7 +48,7 @@ Filter
 - $1$ bias
 - One filter for each channel of the input layer
 
-Output layer
+Output 
 ---
 - $O_{ijk}$
 - 3 Dimensional
@@ -74,7 +74,7 @@ O_{ijk} =
 $$
 
 
-Gradient descend
+Gradient Descend
 ===
 TODO
 
