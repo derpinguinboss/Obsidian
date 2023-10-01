@@ -76,7 +76,15 @@ $$
 
 Gradient Descend
 ===
-TODO
 
+Gradient generation
+---
+$$
+\begin{flalign}
+
+
+
+&&\end{flalign}
+$$
 
 

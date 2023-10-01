@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Head Bowl",
+      "path": "Coding/Head Bowl.md"
+    },
+    {
       "basename": "Fully Connected Layer",
       "path": "Fully Connected Layer.md"
     },
     {
+      "basename": "Neural Net Layer Types",
+      "path": "Neural Net Layer Types.md"
+    },
+    {
       "basename": "Convolutional Layer",
       "path": "Convolutional Layer.md"
+    },
+    {
+      "basename": "PSQT Compression",
+      "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "Sebastian Lague Chess Challenge",
+      "path": "Coding/Sebastian Lague Chess Challenge.md"
+    },
+    {
+      "basename": "Pooling Layer",
+      "path": "Pooling Layer.md"
+    },
+    {
+      "basename": "Bot Idea",
+      "path": "Coding/Bot Idea.md"
     },
     {
       "basename": "Fast Fourier Transform",
@@ -105,10 +129,6 @@
       "path": "Hallucinations of LLMs.md"
     },
     {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
-    },
-    {
       "basename": "Geschichte der EU",
       "path": "Geschichte der EU.md"
     },
@@ -173,32 +193,12 @@
       "path": "Math/Mathe Abi.md"
     },
     {
-      "basename": "PSQT Compression",
-      "path": "Coding/PSQT Compression.md"
-    },
-    {
       "basename": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
       "path": "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf"
     },
     {
       "basename": "Run Length Encoding",
       "path": "Coding/Run Length Encoding.md"
-    },
-    {
-      "basename": "Stock Fish",
-      "path": "Coding/Stock Fish.md"
-    },
-    {
-      "basename": "PeSTO",
-      "path": "Coding/PeSTO.md"
-    },
-    {
-      "basename": "Extended Null Move Reductions",
-      "path": "Extended Null Move Reductions.md"
-    },
-    {
-      "basename": "Null Move Pruning",
-      "path": "Coding/Null Move Pruning.md"
     }
   ],
   "omittedPaths": [],

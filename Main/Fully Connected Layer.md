@@ -4,7 +4,7 @@ Sources
 [3b1b backpropagation - YouTube](https://www.youtube.com/results?search_query=3b1b+backpropagation)
 
 
-Misc.
+Misc. and Definitions
 ===
 - Activation function $A(x)$ and it's derivative $A'(x)$
 - $i$ as the input iterator
