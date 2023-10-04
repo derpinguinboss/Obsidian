@@ -21,6 +21,8 @@ Misc.
 	- $p$ : padding amount
 - $f_M$ : filter span
 - $f_D$ : filter depth
+- $\gamma_{jk}$ : gradients for a single filter
+
 
 Input 
 ---
@@ -82,9 +84,33 @@ Gradient generation
 $$
 \begin{flalign}
 
-
+\gamma_{jk} = A'(O_j) * \sum_{k}^{O^{+1}_M} {
+	\gamma^{+1}_k * W^{+1}_{jk}
+}
 
 &&\end{flalign}
 $$
 
+Weight adjustment
+---
+$$
+\begin{flalign}
 
+\delta W_{ij} = {
+	\gamma_{j} * O^{-1}_i * L_j
+}
+
+&&\end{flalign}
+$$
+
+Bias adjustment
+---
+$$
+\begin{flalign}
+
+\delta W_{ij} = {
+	\gamma_{j} * L_j
+}
+
+&&\end{flalign}
+$$

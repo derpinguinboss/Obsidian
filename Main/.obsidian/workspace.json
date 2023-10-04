@@ -117,8 +117,14 @@
             "id": "679a3471413e4a77",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Neural Net Layer Types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Neural Net Layer Types.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -141,6 +147,50 @@
               "type": "markdown",
               "state": {
                 "file": "Convolutional Layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9030c156a7abb2f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "De Bruijn Sequence.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be352453b724d859",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fully Connected Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -209,28 +259,6 @@
               "type": "markdown",
               "state": {
                 "file": "Coding/PSQT Compression.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be352453b724d859",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fully Connected Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -357,7 +385,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Head Bowl.md",
+                "file": "De Bruijn Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -383,7 +411,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Head Bowl.md",
+                "file": "De Bruijn Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -424,7 +452,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Head Bowl.md"
+                "file": "De Bruijn Sequence.md"
               }
             }
           },
@@ -486,11 +514,13 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "bc7b97b0c7a35b83",
+  "active": "f9030c156a7abb2f",
   "lastOpenFiles": [
+    "Convolutional Layer.md",
+    "De Bruijn Sequence.md",
     "Fully Connected Layer.md",
     "Neural Net Layer Types.md",
-    "Convolutional Layer.md",
+    "Coding/Head Bowl.md",
     "Coding/PSQT Compression.md",
     "Coding/Sebastian Lague Chess Challenge.md",
     "Pooling Layer.md",
@@ -512,8 +542,6 @@
     "Coding/Cut Node.md",
     "Coding/Alpha Zero Policy.md",
     "Kunst/Renaissance.md",
-    "Kunst/Künstler als Politiker.md",
-    "Kunst/Künstler als Forscher.md",
     "1111100000.txt",
     "1111100000_.txt",
     "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",

@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Head Bowl",
-      "path": "Coding/Head Bowl.md"
+      "basename": "De Bruijn Sequence",
+      "path": "De Bruijn Sequence.md"
+    },
+    {
+      "basename": "Convolutional Layer",
+      "path": "Convolutional Layer.md"
     },
     {
       "basename": "Fully Connected Layer",
@@ -13,8 +17,8 @@
       "path": "Neural Net Layer Types.md"
     },
     {
-      "basename": "Convolutional Layer",
-      "path": "Convolutional Layer.md"
+      "basename": "Head Bowl",
+      "path": "Coding/Head Bowl.md"
     },
     {
       "basename": "PSQT Compression",
@@ -195,10 +199,6 @@
     {
       "basename": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
       "path": "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf"
-    },
-    {
-      "basename": "Run Length Encoding",
-      "path": "Coding/Run Length Encoding.md"
     }
   ],
   "omittedPaths": [],
