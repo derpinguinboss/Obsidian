@@ -16,7 +16,7 @@
                 {
                   "title": "Lexikologie",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lexikologie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Lexikologie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spracherwerbstheorien.md",
+                "file": "Deutsch/Spracherwerbstheorien.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,22 +39,28 @@
             "id": "00a719651d234807",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Interaktionismus",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interaktionismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Spracherwerbstheorien",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Spracherwerbstheorien.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":22},\"to\":{\"line\":5,\"ch\":22}}}"
+                },
+                {
                   "title": "Linguistik",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 }
               ]
@@ -62,29 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spracherwerbstheorien.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dad8abb84fd225e8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theorie von Steven Pinker.md",
+                "file": "Deutsch/Theorie von Steven Pinker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,6 +86,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Spracherwerbstheorien",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Spracherwerbstheorien.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Linguistik",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Phonetik und Phonologie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Phonetik und Phonologie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":277},\"to\":{\"line\":0,\"ch\":277}}}"
+                },
+                {
                   "title": "Graph view",
                   "icon": "lucide-git-fork",
                   "state": "{\"type\":\"graph\",\"state\":{}}",
@@ -112,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phonetik und Phonologie.md",
+                "file": "Deutsch/Behaviorismus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,19 +140,19 @@
                 {
                   "title": "Fachbegriffe der Linguistik",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fachbegriffe der Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Fachbegriffe der Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":16},\"to\":{\"line\":5,\"ch\":16}}}"
                 },
                 {
                   "title": "Linguistik",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":3}}}"
                 },
                 {
                   "title": "Fachbegriffe der Linguistik",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fachbegriffe der Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Fachbegriffe der Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 }
               ]
@@ -175,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kognitivismus (Konstruktivismus).md",
+                "file": "Deutsch/Kognitivismus (Konstruktivismus).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -197,7 +199,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interaktionismus.md",
+                "file": "Deutsch/Interaktionismus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -219,7 +221,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behaviorismus.md",
+                "file": "Deutsch/Behaviorismus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -251,13 +253,13 @@
                 {
                   "title": "Nativismus (Mentalismus)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nativismus (Mentalismus).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Nativismus (Mentalismus).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
                 },
                 {
                   "title": "Interaktionismus",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interaktionismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Interaktionismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -265,7 +267,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nativismus (Mentalismus).md",
+                "file": "Deutsch/Nativismus (Mentalismus).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -287,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universalgrammatik.md",
+                "file": "Deutsch/Universalgrammatik.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -309,7 +311,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zonen der proximalen Entwicklung.md",
+                "file": "Deutsch/Zonen der proximalen Entwicklung.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -317,7 +319,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -345,7 +347,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -436,7 +438,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theorie von Steven Pinker.md",
+                "file": "Deutsch/Theorie von Steven Pinker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -462,7 +464,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theorie von Steven Pinker.md",
+                "file": "Deutsch/Theorie von Steven Pinker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -503,7 +505,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theorie von Steven Pinker.md"
+                "file": "Deutsch/Theorie von Steven Pinker.md"
               }
             }
           },
@@ -565,35 +567,35 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "dad8abb84fd225e8",
+  "active": "24908edbb09fe0ec",
   "lastOpenFiles": [
-    "Spracherwerbstheorien.md",
-    "Theorie von Steven Pinker.md",
-    "Behaviorismus.md",
-    "Interaktionismus.md",
-    "Nativismus (Mentalismus).md",
-    "Kognitivismus (Konstruktivismus).md",
-    "Linguistik.md",
+    "Deutsch",
+    "Deutsch/Spracherwerbstheorien.md",
+    "Deutsch/Behaviorismus.md",
+    "Deutsch/Linguistik.md",
+    "Deutsch/Fachbegriffe der Linguistik.md",
+    "Deutsch/Phonetik und Phonologie.md",
+    "Deutsch/Theorie von Steven Pinker.md",
+    "Deutsch/Interaktionismus.md",
+    "Deutsch/Nativismus (Mentalismus).md",
+    "Deutsch/Kognitivismus (Konstruktivismus).md",
     "De Bruijn Sequence.md",
-    "Fachbegriffe der Linguistik.md",
-    "Phonetik und Phonologie.md",
-    "Syntax.md",
-    "Semantik.md",
-    "Lexikologie.md",
-    "Morphologie.md",
-    "Pragmatik.md",
+    "Deutsch/Syntax.md",
+    "Deutsch/Semantik.md",
+    "Deutsch/Lexikologie.md",
+    "Deutsch/Morphologie.md",
+    "Deutsch/Pragmatik.md",
     "Phonetik/Phonologie.md",
     "Phonetik",
-    "Zonen der proximalen Entwicklung.md",
+    "Deutsch/Zonen der proximalen Entwicklung.md",
     "Self/Brain Rot.md",
-    "Universalgrammatik.md",
+    "Deutsch/Universalgrammatik.md",
     "Nativismus/Mentalismus 1.md",
     "Nativismus/Nativismus Mentalismus.md",
     "Convolutional Layer.md",
     "Math/Intervall.md",
     "TODO.md",
     "Fully Connected Layer.md",
-    "Coding/Head Bowl.md",
     "Nativismus",
     "1111100000.txt",
     "1111100000_.txt",
