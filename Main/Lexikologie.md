@@ -1,0 +1,1 @@
+Die Lexikologie beschäftigt sich mit dem Wortschatz einer Sprache, den Lexemen, und deren Beziehungen zueinander. Dazu gehören Wortfamilien, Wortfelder, Ober- und Unterbegriffe und Antonyme.

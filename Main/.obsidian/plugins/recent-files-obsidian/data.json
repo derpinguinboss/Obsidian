@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Linguistik",
+      "path": "Linguistik.md"
+    },
+    {
       "basename": "Spracherwerbstheorien",
       "path": "Spracherwerbstheorien.md"
     },
     {
-      "basename": "Interaktionismus",
-      "path": "Interaktionismus.md"
+      "basename": "De Bruijn Sequence",
+      "path": "De Bruijn Sequence.md"
+    },
+    {
+      "basename": "Fachbegriffe der Linguistik",
+      "path": "Fachbegriffe der Linguistik.md"
+    },
+    {
+      "basename": "Phonetik und Phonologie",
+      "path": "Phonetik und Phonologie.md"
+    },
+    {
+      "basename": "Syntax",
+      "path": "Syntax.md"
+    },
+    {
+      "basename": "Semantik",
+      "path": "Semantik.md"
+    },
+    {
+      "basename": "Lexikologie",
+      "path": "Lexikologie.md"
+    },
+    {
+      "basename": "Morphologie",
+      "path": "Morphologie.md"
     },
     {
       "basename": "Kognitivismus (Konstruktivismus)",
       "path": "Kognitivismus (Konstruktivismus).md"
     },
     {
+      "basename": "Pragmatik",
+      "path": "Pragmatik.md"
+    },
+    {
       "basename": "Behaviorismus",
       "path": "Behaviorismus.md"
+    },
+    {
+      "basename": "Interaktionismus",
+      "path": "Interaktionismus.md"
+    },
+    {
+      "basename": "Zonen der proximalen Entwicklung",
+      "path": "Zonen der proximalen Entwicklung.md"
     },
     {
       "basename": "Nativismus (Mentalismus)",
@@ -27,10 +67,6 @@
     {
       "basename": "Universalgrammatik",
       "path": "Universalgrammatik.md"
-    },
-    {
-      "basename": "Zonen der proximalen Entwicklung",
-      "path": "Zonen der proximalen Entwicklung.md"
     },
     {
       "basename": "Convolutional Layer",
@@ -55,10 +91,6 @@
     {
       "basename": "PSQT Compression",
       "path": "Coding/PSQT Compression.md"
-    },
-    {
-      "basename": "De Bruijn Sequence",
-      "path": "De Bruijn Sequence.md"
     },
     {
       "basename": "Neural Net Layer Types",
@@ -167,38 +199,6 @@
     {
       "basename": "Geschichte der EU",
       "path": "Geschichte der EU.md"
-    },
-    {
-      "basename": "Europäische Wirtschafts- und Währungsunion",
-      "path": "Europäische Wirtschafts- und Währungsunion.md"
-    },
-    {
-      "basename": "Gemeinsame Außen- und Sicherheitspolitik",
-      "path": "Gemeinsame Außen- und Sicherheitspolitik.md"
-    },
-    {
-      "basename": "Einheitliche Europäische Akte",
-      "path": "Einheitliche Europäische Akte.md"
-    },
-    {
-      "basename": "Europäisches Parlament",
-      "path": "Europäisches Parlament.md"
-    },
-    {
-      "basename": "Europäisches Währungssystem",
-      "path": "Europäisches Währungssystem.md"
-    },
-    {
-      "basename": "Europäische Wirtschaftsgemeinschaft",
-      "path": "Europäische Wirtschaftsgemeinschaft.md"
-    },
-    {
-      "basename": "Europäische Atomgemeinschaft",
-      "path": "Europäische Atomgemeinschaft.md"
-    },
-    {
-      "basename": "Europäische Gemeinschaft",
-      "path": "Europäische Gemeinschaft.md"
     }
   ],
   "omittedPaths": [],

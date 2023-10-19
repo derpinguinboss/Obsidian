@@ -1,0 +1,1 @@
+Die Morphologie untersucht die kleinsten bedeutungstragenden Einheiten einer Sprache, die Morpheme. Sie teilt Morpheme in freie (selbstständige Wörter) und gebundene (nicht eigenständige) Morpheme ein und analysiert verschiedene Arten, wie sie in Wörtern und Sätzen kombiniert werden.

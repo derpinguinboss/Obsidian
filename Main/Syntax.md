@@ -1,0 +1,1 @@
+Die Syntax analysiert die Struktur von Sätzen und wie Wörter in Sätzen angeordnet werden, um Bedeutung zu erzeugen. Sie ist ein wesentlicher Bestandteil der Grammatik einer Sprache.

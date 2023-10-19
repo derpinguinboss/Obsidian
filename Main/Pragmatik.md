@@ -1,0 +1,1 @@
+Die Pragmatik untersucht, wie sprachliche Zeichen in konkreten Situationen verwendet werden, um Bedeutung zu vermitteln. Sie betrachtet die kommunikativen Absichten und sozialen Aspekte der Sprachverwendung.

@@ -1,0 +1,1 @@
+Die Phonetik beschäftigt sich mit der Produktion, Übertragung und Wahrnehmung von Sprachlauten, während die Phonologie die abstrakten Klänge oder Phoneme untersucht, die in einer Sprache verwendet werden. Sie analysiert, wie Laute die Bedeutung von Wörtern beeinflussen können.
