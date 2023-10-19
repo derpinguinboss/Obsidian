@@ -2,7 +2,7 @@
 - (Not a medical condition)
 - _Unfiltered perceptions_
 
-#### Because
+#### Cause
 - Rusting of the mind, because overstimulation and 
 
 #### Affects:

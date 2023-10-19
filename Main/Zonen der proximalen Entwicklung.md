@@ -1,0 +1,1 @@
+"Die **Zone der proximalen Entwicklung** definiert jene Funktionen, die zwar noch nicht herangereift sind, sich aber im Prozess der Reifung befinden, Funktionen, die morgen heranreifen werden, sich gegenwärtig aber noch in einem embryonalen Stadium befinden.

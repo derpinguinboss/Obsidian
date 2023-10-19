@@ -1,4 +1,5 @@
 - [ ] Studium Bewerbung
+- [ ] look into  **[denormalized floating-point](http://en.wikipedia.org/wiki/Denormal_number)**
 - [ ] "Goodnight Punpun" manga bestellen
 - [ ] Plotin Referat
 - [ ] https://backscattering.de/chess/uci/

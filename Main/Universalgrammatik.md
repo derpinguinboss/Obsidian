@@ -1,0 +1,1 @@
+Alle Menschen haben eine ähnliche angeborene Grammatik

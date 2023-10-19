@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "De Bruijn Sequence",
-      "path": "De Bruijn Sequence.md"
+      "basename": "Spracherwerbstheorien",
+      "path": "Spracherwerbstheorien.md"
+    },
+    {
+      "basename": "Interaktionismus",
+      "path": "Interaktionismus.md"
+    },
+    {
+      "basename": "Kognitivismus (Konstruktivismus)",
+      "path": "Kognitivismus (Konstruktivismus).md"
+    },
+    {
+      "basename": "Behaviorismus",
+      "path": "Behaviorismus.md"
+    },
+    {
+      "basename": "Nativismus (Mentalismus)",
+      "path": "Nativismus (Mentalismus).md"
+    },
+    {
+      "basename": "Brain Rot",
+      "path": "Self/Brain Rot.md"
+    },
+    {
+      "basename": "Universalgrammatik",
+      "path": "Universalgrammatik.md"
+    },
+    {
+      "basename": "Zonen der proximalen Entwicklung",
+      "path": "Zonen der proximalen Entwicklung.md"
     },
     {
       "basename": "Convolutional Layer",
       "path": "Convolutional Layer.md"
     },
     {
-      "basename": "Fully Connected Layer",
-      "path": "Fully Connected Layer.md"
+      "basename": "Intervall",
+      "path": "Math/Intervall.md"
     },
     {
-      "basename": "Neural Net Layer Types",
-      "path": "Neural Net Layer Types.md"
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Fully Connected Layer",
+      "path": "Fully Connected Layer.md"
     },
     {
       "basename": "Head Bowl",
@@ -23,6 +55,14 @@
     {
       "basename": "PSQT Compression",
       "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "De Bruijn Sequence",
+      "path": "De Bruijn Sequence.md"
+    },
+    {
+      "basename": "Neural Net Layer Types",
+      "path": "Neural Net Layer Types.md"
     },
     {
       "basename": "Sebastian Lague Chess Challenge",
@@ -63,14 +103,6 @@
     {
       "basename": "Zero Padding",
       "path": "Zero Padding.md"
-    },
-    {
-      "basename": "Intervall",
-      "path": "Math/Intervall.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "DCT-IV",
@@ -167,38 +199,6 @@
     {
       "basename": "Europäische Gemeinschaft",
       "path": "Europäische Gemeinschaft.md"
-    },
-    {
-      "basename": "Benelux",
-      "path": "Benelux.md"
-    },
-    {
-      "basename": "Europäische Verteidigungsgemeinschaft",
-      "path": "Europäische Verteidigungsgemeinschaft.md"
-    },
-    {
-      "basename": "Klausur 4.9.",
-      "path": "Math/Klausur 4.9..md"
-    },
-    {
-      "basename": "Europäische Gemeinschaft für Kohle und Stahl",
-      "path": "Europäische Gemeinschaft für Kohle und Stahl.md"
-    },
-    {
-      "basename": "Sigma Regeln",
-      "path": "Math/Sigma Regeln.md"
-    },
-    {
-      "basename": "Static evaluation",
-      "path": "Static evaluation.md"
-    },
-    {
-      "basename": "Mathe Abi",
-      "path": "Math/Mathe Abi.md"
-    },
-    {
-      "basename": "735310_Stochastik_Normalverteilung_und_Sigma_Regeln",
-      "path": "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf"
     }
   ],
   "omittedPaths": [],
