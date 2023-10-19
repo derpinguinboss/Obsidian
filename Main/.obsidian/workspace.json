@@ -39,6 +39,40 @@
             "id": "00a719651d234807",
             "type": "leaf",
             "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Interaktionismus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interaktionismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Linguistik",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spracherwerbstheorien.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dad8abb84fd225e8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
@@ -50,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguistik.md",
+                "file": "Theorie von Steven Pinker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -283,7 +317,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -402,7 +436,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguistik.md",
+                "file": "Theorie von Steven Pinker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -428,7 +462,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linguistik.md",
+                "file": "Theorie von Steven Pinker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -469,7 +503,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linguistik.md"
+                "file": "Theorie von Steven Pinker.md"
               }
             }
           },
@@ -531,25 +565,26 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "00a719651d234807",
+  "active": "dad8abb84fd225e8",
   "lastOpenFiles": [
     "Spracherwerbstheorien.md",
+    "Theorie von Steven Pinker.md",
+    "Behaviorismus.md",
+    "Interaktionismus.md",
+    "Nativismus (Mentalismus).md",
+    "Kognitivismus (Konstruktivismus).md",
+    "Linguistik.md",
     "De Bruijn Sequence.md",
     "Fachbegriffe der Linguistik.md",
     "Phonetik und Phonologie.md",
-    "Linguistik.md",
     "Syntax.md",
     "Semantik.md",
     "Lexikologie.md",
     "Morphologie.md",
-    "Kognitivismus (Konstruktivismus).md",
     "Pragmatik.md",
     "Phonetik/Phonologie.md",
     "Phonetik",
-    "Behaviorismus.md",
-    "Interaktionismus.md",
     "Zonen der proximalen Entwicklung.md",
-    "Nativismus (Mentalismus).md",
     "Self/Brain Rot.md",
     "Universalgrammatik.md",
     "Nativismus/Mentalismus 1.md",
@@ -559,7 +594,6 @@
     "TODO.md",
     "Fully Connected Layer.md",
     "Coding/Head Bowl.md",
-    "Coding/PSQT Compression.md",
     "Nativismus",
     "1111100000.txt",
     "1111100000_.txt",

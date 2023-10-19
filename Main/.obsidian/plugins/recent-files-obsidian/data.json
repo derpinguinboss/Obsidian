@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Linguistik",
-      "path": "Linguistik.md"
+      "basename": "Theorie von Steven Pinker",
+      "path": "Theorie von Steven Pinker.md"
     },
     {
       "basename": "Spracherwerbstheorien",
       "path": "Spracherwerbstheorien.md"
+    },
+    {
+      "basename": "Behaviorismus",
+      "path": "Behaviorismus.md"
+    },
+    {
+      "basename": "Interaktionismus",
+      "path": "Interaktionismus.md"
+    },
+    {
+      "basename": "Nativismus (Mentalismus)",
+      "path": "Nativismus (Mentalismus).md"
+    },
+    {
+      "basename": "Kognitivismus (Konstruktivismus)",
+      "path": "Kognitivismus (Konstruktivismus).md"
+    },
+    {
+      "basename": "Linguistik",
+      "path": "Linguistik.md"
     },
     {
       "basename": "De Bruijn Sequence",
@@ -37,28 +57,12 @@
       "path": "Morphologie.md"
     },
     {
-      "basename": "Kognitivismus (Konstruktivismus)",
-      "path": "Kognitivismus (Konstruktivismus).md"
-    },
-    {
       "basename": "Pragmatik",
       "path": "Pragmatik.md"
     },
     {
-      "basename": "Behaviorismus",
-      "path": "Behaviorismus.md"
-    },
-    {
-      "basename": "Interaktionismus",
-      "path": "Interaktionismus.md"
-    },
-    {
       "basename": "Zonen der proximalen Entwicklung",
       "path": "Zonen der proximalen Entwicklung.md"
-    },
-    {
-      "basename": "Nativismus (Mentalismus)",
-      "path": "Nativismus (Mentalismus).md"
     },
     {
       "basename": "Brain Rot",
@@ -195,10 +199,6 @@
     {
       "basename": "Hallucinations of LLMs",
       "path": "Hallucinations of LLMs.md"
-    },
-    {
-      "basename": "Geschichte der EU",
-      "path": "Geschichte der EU.md"
     }
   ],
   "omittedPaths": [],
