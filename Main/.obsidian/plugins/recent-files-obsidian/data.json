@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "WatchList",
+      "path": "WatchList.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "De Bruijn Sequence",
+      "path": "De Bruijn Sequence.md"
+    },
+    {
+      "basename": "Convolutional Layer",
+      "path": "Convolutional Layer.md"
+    },
+    {
+      "basename": "Neural Net Layer Types",
+      "path": "Neural Net Layer Types.md"
+    },
+    {
+      "basename": "Low Level Optimizations",
+      "path": "Low Level Optimizations.md"
+    },
+    {
+      "basename": "Zero Padding",
+      "path": "Zero Padding.md"
+    },
+    {
+      "basename": "Hallucinations of LLMs",
+      "path": "Hallucinations of LLMs.md"
+    },
+    {
+      "basename": "Gemeinsame Außen- und Sicherheitspolitik",
+      "path": "Gemeinsame Außen- und Sicherheitspolitik.md"
+    },
+    {
+      "basename": "Europäisches Währungssystem",
+      "path": "Europäisches Währungssystem.md"
+    },
+    {
+      "basename": "Europäische Wirtschaftsgemeinschaft",
+      "path": "Europäische Wirtschaftsgemeinschaft.md"
+    },
+    {
+      "basename": "Benelux",
+      "path": "Benelux.md"
+    },
+    {
+      "basename": "Europäische Gemeinschaft für Kohle und Stahl",
+      "path": "Europäische Gemeinschaft für Kohle und Stahl.md"
+    },
+    {
+      "basename": "Extended Null Move Reductions",
+      "path": "Extended Null Move Reductions.md"
+    },
+    {
+      "basename": "Static evaluation",
+      "path": "Static evaluation.md"
+    },
+    {
+      "basename": "Fachbegriffe der Linguistik",
+      "path": "Deutsch/Fachbegriffe der Linguistik.md"
+    },
+    {
+      "basename": "Zonen der proximalen Entwicklung",
+      "path": "Deutsch/Zonen der proximalen Entwicklung.md"
+    },
+    {
+      "basename": "Universalgrammatik",
+      "path": "Deutsch/Universalgrammatik.md"
+    },
+    {
+      "basename": "Nativismus (Mentalismus)",
+      "path": "Deutsch/Nativismus (Mentalismus).md"
+    },
+    {
+      "basename": "Behaviorismus",
+      "path": "Deutsch/Behaviorismus.md"
+    },
+    {
+      "basename": "Interaktionismus",
+      "path": "Deutsch/Interaktionismus.md"
+    },
+    {
+      "basename": "Kognitivismus (Konstruktivismus)",
+      "path": "Deutsch/Kognitivismus (Konstruktivismus).md"
+    },
+    {
+      "basename": "Pooling Layer",
+      "path": "Pooling Layer.md"
+    },
+    {
       "basename": "Theorie von Steven Pinker",
       "path": "Deutsch/Theorie von Steven Pinker.md"
     },
@@ -9,36 +101,12 @@
       "path": "Deutsch/Spracherwerbstheorien.md"
     },
     {
-      "basename": "Behaviorismus",
-      "path": "Deutsch/Behaviorismus.md"
-    },
-    {
       "basename": "Linguistik",
       "path": "Deutsch/Linguistik.md"
     },
     {
-      "basename": "Fachbegriffe der Linguistik",
-      "path": "Deutsch/Fachbegriffe der Linguistik.md"
-    },
-    {
       "basename": "Phonetik und Phonologie",
       "path": "Deutsch/Phonetik und Phonologie.md"
-    },
-    {
-      "basename": "Interaktionismus",
-      "path": "Deutsch/Interaktionismus.md"
-    },
-    {
-      "basename": "Nativismus (Mentalismus)",
-      "path": "Deutsch/Nativismus (Mentalismus).md"
-    },
-    {
-      "basename": "Kognitivismus (Konstruktivismus)",
-      "path": "Deutsch/Kognitivismus (Konstruktivismus).md"
-    },
-    {
-      "basename": "De Bruijn Sequence",
-      "path": "De Bruijn Sequence.md"
     },
     {
       "basename": "Syntax",
@@ -61,28 +129,12 @@
       "path": "Deutsch/Pragmatik.md"
     },
     {
-      "basename": "Zonen der proximalen Entwicklung",
-      "path": "Deutsch/Zonen der proximalen Entwicklung.md"
-    },
-    {
       "basename": "Brain Rot",
       "path": "Self/Brain Rot.md"
     },
     {
-      "basename": "Universalgrammatik",
-      "path": "Deutsch/Universalgrammatik.md"
-    },
-    {
-      "basename": "Convolutional Layer",
-      "path": "Convolutional Layer.md"
-    },
-    {
       "basename": "Intervall",
       "path": "Math/Intervall.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "Fully Connected Layer",
@@ -97,16 +149,8 @@
       "path": "Coding/PSQT Compression.md"
     },
     {
-      "basename": "Neural Net Layer Types",
-      "path": "Neural Net Layer Types.md"
-    },
-    {
       "basename": "Sebastian Lague Chess Challenge",
       "path": "Coding/Sebastian Lague Chess Challenge.md"
-    },
-    {
-      "basename": "Pooling Layer",
-      "path": "Pooling Layer.md"
     },
     {
       "basename": "Bot Idea",
@@ -115,10 +159,6 @@
     {
       "basename": "Fast Fourier Transform",
       "path": "Coding/Fast Fourier Transform.md"
-    },
-    {
-      "basename": "Low Level Optimizations",
-      "path": "Low Level Optimizations.md"
     },
     {
       "basename": "FFT 2 - Image Compression",
@@ -135,10 +175,6 @@
     {
       "basename": "Padding",
       "path": "Padding.md"
-    },
-    {
-      "basename": "Zero Padding",
-      "path": "Zero Padding.md"
     },
     {
       "basename": "DCT-IV",
@@ -163,42 +199,6 @@
     {
       "basename": "Alpha Zero Policy",
       "path": "Coding/Alpha Zero Policy.md"
-    },
-    {
-      "basename": "Renaissance",
-      "path": "Kunst/Renaissance.md"
-    },
-    {
-      "basename": "Künstler als Politiker",
-      "path": "Kunst/Künstler als Politiker.md"
-    },
-    {
-      "basename": "Künstler als Forscher",
-      "path": "Kunst/Künstler als Forscher.md"
-    },
-    {
-      "basename": "Kunst im Mittelalter",
-      "path": "Kunst/Kunst im Mittelalter.md"
-    },
-    {
-      "basename": "Carrara-Marmor",
-      "path": "Kunst/Carrara-Marmor.md"
-    },
-    {
-      "basename": "Ars Propettiva",
-      "path": "Kunst/Ars Propettiva.md"
-    },
-    {
-      "basename": "BERTScore",
-      "path": "BERTScore.md"
-    },
-    {
-      "basename": "Eintritt des Westbalkans in die EU",
-      "path": "Eintritt des Westbalkans in die EU.md"
-    },
-    {
-      "basename": "Hallucinations of LLMs",
-      "path": "Hallucinations of LLMs.md"
     }
   ],
   "omittedPaths": [],

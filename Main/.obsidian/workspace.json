@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f77b7cad1eb4233a",
+        "id": "56703a8d878b43e8",
         "type": "tabs",
         "children": [
           {
-            "id": "a46c5ce6f3be4838",
+            "id": "971ce3099f39ccf8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Lexikologie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Lexikologie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -28,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Spracherwerbstheorien.md",
+                "file": "Deutsch/Fachbegriffe der Linguistik.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +30,7 @@
             }
           },
           {
-            "id": "00a719651d234807",
+            "id": "e3a72f82f172409b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -46,87 +40,11 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Spracherwerbstheorien",
+                  "title": "TODO",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Spracherwerbstheorien.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":22},\"to\":{\"line\":5,\"ch\":22}}}"
-                },
-                {
-                  "title": "Linguistik",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Theorie von Steven Pinker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dc08648388d10ed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Spracherwerbstheorien",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Spracherwerbstheorien.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
-                {
-                  "title": "Linguistik",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Phonetik und Phonologie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Phonetik und Phonologie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":277},\"to\":{\"line\":0,\"ch\":277}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Behaviorismus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c00e605ed189c5a8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
                 {
                   "title": "De Bruijn Sequence",
                   "icon": "lucide-file",
@@ -134,132 +52,93 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Fachbegriffe der Linguistik",
+                  "title": "Convolutional Layer",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Fachbegriffe der Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":16},\"to\":{\"line\":5,\"ch\":16}}}"
-                },
-                {
-                  "title": "Linguistik",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":3}}}"
-                },
-                {
-                  "title": "Fachbegriffe der Linguistik",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Fachbegriffe der Linguistik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "aec0660697b197e7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Kognitivismus (Konstruktivismus).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1ca42195440e419",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Interaktionismus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd0e98276e76d787",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Behaviorismus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09567a8ff7ad7a10",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Mentalismus 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nativismus/Mentalismus 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Convolutional Layer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Nativismus Mentalismus",
+                  "title": "Neural Net Layer Types",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nativismus/Nativismus Mentalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Neural Net Layer Types.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Nativismus (Mentalismus)",
+                  "title": "Low Level Optimizations",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Nativismus (Mentalismus).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Low Level Optimizations.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Interaktionismus",
+                  "title": "Zero Padding",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deutsch/Interaktionismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zero Padding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "WatchList",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"WatchList.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hallucinations of LLMs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hallucinations of LLMs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gemeinsame Außen- und Sicherheitspolitik",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gemeinsame Außen- und Sicherheitspolitik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäisches Währungssystem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Europäisches Währungssystem.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Wirtschaftsgemeinschaft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Europäische Wirtschaftsgemeinschaft.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Benelux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Benelux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Gemeinschaft für Kohle und Stahl",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Europäische Gemeinschaft für Kohle und Stahl.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Extended Null Move Reductions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extended Null Move Reductions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Static evaluation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Static evaluation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TODO",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":30},\"to\":{\"line\":7,\"ch\":30}}}"
+                },
+                {
+                  "title": "YouTube Sites",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"YouTube Sites.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -267,51 +146,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Nativismus (Mentalismus).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5caea5e234c99a42",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Universalgrammatik.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b897fbe8031e6579",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Zonen der proximalen Entwicklung.md",
+                "file": "WatchList.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -438,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Theorie von Steven Pinker.md",
+                "file": "WatchList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -464,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Theorie von Steven Pinker.md",
+                "file": "WatchList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -505,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Theorie von Steven Pinker.md"
+                "file": "WatchList.md"
               }
             }
           },
@@ -567,35 +402,36 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "24908edbb09fe0ec",
+  "active": "e3a72f82f172409b",
   "lastOpenFiles": [
-    "Deutsch",
-    "Deutsch/Spracherwerbstheorien.md",
-    "Deutsch/Behaviorismus.md",
-    "Deutsch/Linguistik.md",
-    "Deutsch/Fachbegriffe der Linguistik.md",
-    "Deutsch/Phonetik und Phonologie.md",
-    "Deutsch/Theorie von Steven Pinker.md",
-    "Deutsch/Interaktionismus.md",
-    "Deutsch/Nativismus (Mentalismus).md",
-    "Deutsch/Kognitivismus (Konstruktivismus).md",
-    "De Bruijn Sequence.md",
-    "Deutsch/Syntax.md",
-    "Deutsch/Semantik.md",
-    "Deutsch/Lexikologie.md",
-    "Deutsch/Morphologie.md",
-    "Deutsch/Pragmatik.md",
-    "Phonetik/Phonologie.md",
-    "Phonetik",
-    "Deutsch/Zonen der proximalen Entwicklung.md",
-    "Self/Brain Rot.md",
-    "Deutsch/Universalgrammatik.md",
-    "Nativismus/Mentalismus 1.md",
-    "Nativismus/Nativismus Mentalismus.md",
-    "Convolutional Layer.md",
-    "Math/Intervall.md",
     "TODO.md",
-    "Fully Connected Layer.md",
+    "De Bruijn Sequence.md",
+    "Convolutional Layer.md",
+    "Neural Net Layer Types.md",
+    "Low Level Optimizations.md",
+    "Zero Padding.md",
+    "WatchList.md",
+    "Hallucinations of LLMs.md",
+    "Gemeinsame Außen- und Sicherheitspolitik.md",
+    "Europäisches Währungssystem.md",
+    "Europäische Wirtschaftsgemeinschaft.md",
+    "Benelux.md",
+    "Europäische Gemeinschaft für Kohle und Stahl.md",
+    "Extended Null Move Reductions.md",
+    "Static evaluation.md",
+    "YouTube Sites.md",
+    "Embed Tube.md",
+    "Deutsch/Fachbegriffe der Linguistik.md",
+    "Deutsch/Zonen der proximalen Entwicklung.md",
+    "Deutsch/Universalgrammatik.md",
+    "Deutsch/Nativismus (Mentalismus).md",
+    "Deutsch/Behaviorismus.md",
+    "Deutsch/Interaktionismus.md",
+    "Deutsch/Kognitivismus (Konstruktivismus).md",
+    "Pooling Layer.md",
+    "Deutsch/Theorie von Steven Pinker.md",
+    "Deutsch",
+    "Phonetik",
     "Nativismus",
     "1111100000.txt",
     "1111100000_.txt",
@@ -605,7 +441,6 @@
     "Sowi",
     "Europäische Union - Phasen",
     "Untitled.canvas",
-    "Calendar/2022",
     "Pasted image 20230807163024.png",
     "Pasted image 20230807163023.png",
     "Pasted image 20230716151717.png",
