@@ -7,3 +7,5 @@ _Optimize a Neural Network with respect to training data._
 - [[Stochastic Gradient Descent With Momentum Deep Learning Optimizer]]
 - [[Stochastic Gradient Descent Deep Learning Optimizer]]
 - [[Gradient Descent Deep Learning Optimizer]]
+
+![[807_on_the_convergence_of_adam_and.pdf]]
