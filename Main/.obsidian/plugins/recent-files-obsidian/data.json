@@ -1,144 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "Deep Learning Optimizers",
-      "path": "Coding/Deep Learning Optimizers.md"
+      "basename": "EU-Kommission",
+      "path": "Sowi/EU-Kommission.md"
     },
     {
-      "basename": "Stochastic Gradient Descent With Momentum Deep Learning Optimizer",
-      "path": "Coding/Stochastic Gradient Descent With Momentum Deep Learning Optimizer.md"
+      "basename": "Europäisches Parlament",
+      "path": "Sowi/Europäisches Parlament.md"
     },
     {
-      "basename": "807_on_the_convergence_of_adam_and",
-      "path": "Coding/807_on_the_convergence_of_adam_and.pdf"
-    },
-    {
-      "basename": "Adam Optimizer in Deep Learning",
-      "path": "Coding/Adam Optimizer in Deep Learning.md"
-    },
-    {
-      "basename": "Stochastic Gradient Descent Deep Learning Optimizer",
-      "path": "Coding/Stochastic Gradient Descent Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Adagrad Deep Learning Optimizer",
-      "path": "Coding/Adagrad Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "RMS Prop Deep Learning Optimizer",
-      "path": "Coding/RMS Prop Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "AdaDelta Deep Learning Optimizer",
-      "path": "Coding/AdaDelta Deep Learning Optimizer.md"
-    },
-    {
-      "basename": "Pixel Sorting",
-      "path": "Pixel Sorting.md"
-    },
-    {
-      "basename": "Klausur 4.9.",
-      "path": "Math/Klausur 4.9..md"
-    },
-    {
-      "basename": "Mathe Abi",
-      "path": "Math/Mathe Abi.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
-    },
-    {
-      "basename": "WatchList",
-      "path": "WatchList.md"
-    },
-    {
-      "basename": "De Bruijn Sequence",
-      "path": "De Bruijn Sequence.md"
-    },
-    {
-      "basename": "Convolutional Layer",
-      "path": "Convolutional Layer.md"
-    },
-    {
-      "basename": "Neural Net Layer Types",
-      "path": "Neural Net Layer Types.md"
-    },
-    {
-      "basename": "Low Level Optimizations",
-      "path": "Low Level Optimizations.md"
-    },
-    {
-      "basename": "Zero Padding",
-      "path": "Zero Padding.md"
-    },
-    {
-      "basename": "Hallucinations of LLMs",
-      "path": "Hallucinations of LLMs.md"
-    },
-    {
-      "basename": "Gemeinsame Außen- und Sicherheitspolitik",
-      "path": "Gemeinsame Außen- und Sicherheitspolitik.md"
-    },
-    {
-      "basename": "Europäisches Währungssystem",
-      "path": "Europäisches Währungssystem.md"
-    },
-    {
-      "basename": "Europäische Wirtschaftsgemeinschaft",
-      "path": "Europäische Wirtschaftsgemeinschaft.md"
-    },
-    {
-      "basename": "Benelux",
-      "path": "Benelux.md"
+      "basename": "Europäische Union",
+      "path": "Sowi/Europäische Union.md"
     },
     {
       "basename": "Europäische Gemeinschaft für Kohle und Stahl",
-      "path": "Europäische Gemeinschaft für Kohle und Stahl.md"
+      "path": "Sowi/Europäische Gemeinschaft für Kohle und Stahl.md"
     },
     {
-      "basename": "Extended Null Move Reductions",
-      "path": "Extended Null Move Reductions.md"
+      "basename": "Eintritt des Westbalkans in die EU",
+      "path": "Sowi/Eintritt des Westbalkans in die EU.md"
     },
     {
-      "basename": "Static evaluation",
-      "path": "Static evaluation.md"
+      "basename": "Europäische Union - Phasen",
+      "path": "Sowi/Europäische Union - Phasen.md"
+    },
+    {
+      "basename": "Rat der Europäischen Union (Ministerrat)",
+      "path": "Sowi/Rat der Europäischen Union (Ministerrat).md"
+    },
+    {
+      "basename": "Gerichtshof der Europäischen Union",
+      "path": "Sowi/Gerichtshof der Europäischen Union.md"
+    },
+    {
+      "basename": "Europäischer Rat",
+      "path": "Sowi/Europäischer Rat.md"
+    },
+    {
+      "basename": "Europäische Union - Friedensnobelpreis",
+      "path": "Sowi/Europäische Union - Friedensnobelpreis.md"
+    },
+    {
+      "basename": "Europäische Verteidigungsgemeinschaft",
+      "path": "Sowi/Europäische Verteidigungsgemeinschaft.md"
+    },
+    {
+      "basename": "Europäische Atomgemeinschaft",
+      "path": "Sowi/Europäische Atomgemeinschaft.md"
+    },
+    {
+      "basename": "Europäische Gemeinschaft",
+      "path": "Sowi/Europäische Gemeinschaft.md"
+    },
+    {
+      "basename": "Benelux",
+      "path": "Sowi/Benelux.md"
+    },
+    {
+      "basename": "Europäische Wirtschaftsgemeinschaft",
+      "path": "Sowi/Europäische Wirtschaftsgemeinschaft.md"
+    },
+    {
+      "basename": "Europäisches Währungssystem",
+      "path": "Sowi/Europäisches Währungssystem.md"
+    },
+    {
+      "basename": "Geschichte der EU",
+      "path": "Sowi/Geschichte der EU.md"
+    },
+    {
+      "basename": "Einheitliche Europäische Akte",
+      "path": "Sowi/Einheitliche Europäische Akte.md"
+    },
+    {
+      "basename": "Gemeinsame Außen- und Sicherheitspolitik",
+      "path": "Sowi/Gemeinsame Außen- und Sicherheitspolitik.md"
+    },
+    {
+      "basename": "Europäische Wirtschafts- und Währungsunion",
+      "path": "Sowi/Europäische Wirtschafts- und Währungsunion.md"
     },
     {
       "basename": "Fachbegriffe der Linguistik",
       "path": "Deutsch/Fachbegriffe der Linguistik.md"
     },
     {
-      "basename": "Zonen der proximalen Entwicklung",
-      "path": "Deutsch/Zonen der proximalen Entwicklung.md"
-    },
-    {
-      "basename": "Universalgrammatik",
-      "path": "Deutsch/Universalgrammatik.md"
-    },
-    {
-      "basename": "Nativismus (Mentalismus)",
-      "path": "Deutsch/Nativismus (Mentalismus).md"
-    },
-    {
-      "basename": "Behaviorismus",
-      "path": "Deutsch/Behaviorismus.md"
-    },
-    {
-      "basename": "Interaktionismus",
-      "path": "Deutsch/Interaktionismus.md"
-    },
-    {
-      "basename": "Kognitivismus (Konstruktivismus)",
-      "path": "Deutsch/Kognitivismus (Konstruktivismus).md"
-    },
-    {
-      "basename": "Pooling Layer",
-      "path": "Pooling Layer.md"
-    },
-    {
       "basename": "Theorie von Steven Pinker",
       "path": "Deutsch/Theorie von Steven Pinker.md"
+    },
+    {
+      "basename": "Backpropagation",
+      "path": "Coding/Backpropagation.md"
+    },
+    {
+      "basename": "NNUE",
+      "path": "Coding/NNUE.md"
+    },
+    {
+      "basename": "Fourier transform",
+      "path": "Coding/Fourier transform.md"
+    },
+    {
+      "basename": "Node Pruning",
+      "path": "Coding/Node Pruning.md"
+    },
+    {
+      "basename": "Image Compression",
+      "path": "Coding/Image Compression.md"
+    },
+    {
+      "basename": "Draw Randomization",
+      "path": "Coding/Draw Randomization.md"
+    },
+    {
+      "basename": "Static evaluation",
+      "path": "Coding/Static evaluation.md"
+    },
+    {
+      "basename": "Stock Fish",
+      "path": "Coding/Stock Fish.md"
+    },
+    {
+      "basename": "Hallucinations of LLMs",
+      "path": "Coding/Hallucinations of LLMs.md"
     },
     {
       "basename": "Spracherwerbstheorien",
@@ -149,8 +133,8 @@
       "path": "Deutsch/Linguistik.md"
     },
     {
-      "basename": "Phonetik und Phonologie",
-      "path": "Deutsch/Phonetik und Phonologie.md"
+      "basename": "Pragmatik",
+      "path": "Deutsch/Pragmatik.md"
     },
     {
       "basename": "Syntax",
@@ -165,40 +149,52 @@
       "path": "Deutsch/Lexikologie.md"
     },
     {
+      "basename": "Phonetik und Phonologie",
+      "path": "Deutsch/Phonetik und Phonologie.md"
+    },
+    {
       "basename": "Morphologie",
       "path": "Deutsch/Morphologie.md"
     },
     {
-      "basename": "Pragmatik",
-      "path": "Deutsch/Pragmatik.md"
+      "basename": "Behaviorismus",
+      "path": "Deutsch/Behaviorismus.md"
     },
     {
-      "basename": "Brain Rot",
-      "path": "Self/Brain Rot.md"
+      "basename": "Nativismus (Mentalismus)",
+      "path": "Deutsch/Nativismus (Mentalismus).md"
     },
     {
-      "basename": "Intervall",
-      "path": "Math/Intervall.md"
+      "basename": "Kognitivismus (Konstruktivismus)",
+      "path": "Deutsch/Kognitivismus (Konstruktivismus).md"
     },
     {
-      "basename": "Fully Connected Layer",
-      "path": "Fully Connected Layer.md"
+      "basename": "Interaktionismus",
+      "path": "Deutsch/Interaktionismus.md"
     },
     {
-      "basename": "Head Bowl",
-      "path": "Coding/Head Bowl.md"
+      "basename": "Universalgrammatik",
+      "path": "Deutsch/Universalgrammatik.md"
     },
     {
-      "basename": "PSQT Compression",
-      "path": "Coding/PSQT Compression.md"
+      "basename": "Zonen der proximalen Entwicklung",
+      "path": "Deutsch/Zonen der proximalen Entwicklung.md"
     },
     {
-      "basename": "Sebastian Lague Chess Challenge",
-      "path": "Coding/Sebastian Lague Chess Challenge.md"
+      "basename": "Better Understanding",
+      "path": "Learning/Better Understanding.md"
     },
     {
-      "basename": "Bot Idea",
-      "path": "Coding/Bot Idea.md"
+      "basename": "Neuroplasticity",
+      "path": "Learning/Neuroplasticity.md"
+    },
+    {
+      "basename": "Memory Encoding",
+      "path": "Learning/Memory Encoding.md"
+    },
+    {
+      "basename": "Higher Order Learning",
+      "path": "Learning/Higher Order Learning.md"
     }
   ],
   "omittedPaths": [],

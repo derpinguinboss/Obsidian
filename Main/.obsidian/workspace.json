@@ -8,7 +8,215 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01810fa2ca9a96d9",
+            "id": "d92c63d0fe27e040",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 26,
+              "stack": [
+                {
+                  "title": "Rat der Europäischen Union (Ministerrat)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Rat der Europäischen Union (Ministerrat).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":27},\"to\":{\"line\":31,\"ch\":27}},\"scroll\":5.38673285198556}"
+                },
+                {
+                  "title": "Europäische Union",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7843137254901961}"
+                },
+                {
+                  "title": "Europäische Union - Phasen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union - Phasen.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":7},\"to\":{\"line\":0,\"ch\":7}},\"scroll\":0}"
+                },
+                {
+                  "title": "Eintritt des Westbalkans in die EU",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Eintritt des Westbalkans in die EU.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Gemeinschaft für Kohle und Stahl",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Gemeinschaft für Kohle und Stahl.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union - Phasen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union - Phasen.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union - Friedensnobelpreis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union - Friedensnobelpreis.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union - Phasen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union - Phasen.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Eintritt des Westbalkans in die EU",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Eintritt des Westbalkans in die EU.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Gemeinschaft für Kohle und Stahl",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Gemeinschaft für Kohle und Stahl.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Verteidigungsgemeinschaft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Verteidigungsgemeinschaft.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Atomgemeinschaft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Atomgemeinschaft.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Gemeinschaft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Gemeinschaft.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Benelux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Benelux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Atomgemeinschaft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Atomgemeinschaft.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Wirtschaftsgemeinschaft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Wirtschaftsgemeinschaft.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäisches Währungssystem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäisches Währungssystem.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Geschichte der EU",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Geschichte der EU.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Einheitliche Europäische Akte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Einheitliche Europäische Akte.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gemeinsame Außen- und Sicherheitspolitik",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Gemeinsame Außen- und Sicherheitspolitik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Wirtschafts- und Währungsunion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Wirtschafts- und Währungsunion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäischer Rat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäischer Rat.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäisches Parlament",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäisches Parlament.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäisches Parlament",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäisches Parlament.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gerichtshof der Europäischen Union",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Gerichtshof der Europäischen Union.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Europäisches Parlament",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäisches Parlament.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäischer Rat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäischer Rat.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäisches Parlament",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäisches Parlament.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":1},\"to\":{\"line\":6,\"ch\":1}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowi/Europäische Union.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3207fb642d769c6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,11 +228,39 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sowi/EU-Kommission.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d50356a5da657b7c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowi/Gerichtshof der Europäischen Union.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +354,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 317.5
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -143,6 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sowi/EU-Kommission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sowi/EU-Kommission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +445,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sowi/EU-Kommission.md"
+              }
             }
           },
           {
@@ -268,43 +508,44 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "01810fa2ca9a96d9",
+  "active": "a3207fb642d769c6",
   "lastOpenFiles": [
-    "Coding/Deep Learning Optimizers.md",
-    "Coding/Stochastic Gradient Descent With Momentum Deep Learning Optimizer.md",
+    "Sowi/Europäisches Parlament.md",
+    "Sowi/EU-Kommission.md",
+    "Sowi/Europäische Union.md",
+    "Sowi/Europäische Gemeinschaft für Kohle und Stahl.md",
+    "Sowi/Eintritt des Westbalkans in die EU.md",
+    "Sowi/Europäische Union - Phasen.md",
+    "Sowi/Rat der Europäischen Union (Ministerrat).md",
+    "Sowi/Gerichtshof der Europäischen Union.md",
+    "Sowi/Europäischer Rat.md",
+    "Europäischen Union.md",
+    "Sowi/Europäische Union - Friedensnobelpreis.md",
+    "Sowi/Europäische Verteidigungsgemeinschaft.md",
+    "Sowi/Europäische Atomgemeinschaft.md",
+    "Sowi/Europäische Gemeinschaft.md",
+    "Sowi/Benelux.md",
+    "Sowi/Europäische Wirtschaftsgemeinschaft.md",
+    "Sowi/Europäisches Währungssystem.md",
+    "Sowi/Geschichte der EU.md",
+    "Sowi/Einheitliche Europäische Akte.md",
+    "Sowi/Gemeinsame Außen- und Sicherheitspolitik.md",
+    "Sowi/Europäische Wirtschafts- und Währungsunion.md",
+    "Deutsch/Fachbegriffe der Linguistik.md",
+    "Deutsch/Theorie von Steven Pinker.md",
+    "Coding/Backpropagation.md",
+    "Coding/NNUE.md",
+    "Coding/Fourier transform.md",
+    "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
+    "Misc",
     "Coding/807_on_the_convergence_of_adam_and.pdf",
-    "Coding/Adam Optimizer in Deep Learning.md",
     "Coding/Nicht bestätigt 291095.crdownload",
-    "Coding/Stochastic Gradient Descent Deep Learning Optimizer.md",
-    "Coding/Adagrad Deep Learning Optimizer.md",
-    "Coding/RMS Prop Deep Learning Optimizer.md",
-    "Coding/AdaDelta Deep Learning Optimizer.md",
-    "Pixel Sorting.md",
-    "Math/Klausur 4.9..md",
-    "Math/Mathe Abi.md",
-    "TODO.md",
-    "WatchList.md",
-    "De Bruijn Sequence.md",
-    "Convolutional Layer.md",
-    "Neural Net Layer Types.md",
-    "Low Level Optimizations.md",
-    "Zero Padding.md",
-    "Hallucinations of LLMs.md",
-    "Gemeinsame Außen- und Sicherheitspolitik.md",
-    "Europäisches Währungssystem.md",
-    "Europäische Wirtschaftsgemeinschaft.md",
-    "Benelux.md",
-    "Europäische Gemeinschaft für Kohle und Stahl.md",
-    "Extended Null Move Reductions.md",
-    "Static evaluation.md",
     "Deutsch",
     "Phonetik",
     "Nativismus",
     "1111100000.txt",
     "1111100000_.txt",
-    "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
     "Untitled.txt",
-    "Philo",
     "Untitled.canvas",
     "Pasted image 20230807163024.png",
     "Pasted image 20230807163023.png",

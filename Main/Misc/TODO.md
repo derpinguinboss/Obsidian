@@ -1,10 +1,5 @@
-- [ ] Studium Bewerbung
 - [ ] look into  **[denormalized floating-point](http://en.wikipedia.org/wiki/Denormal_number)**
-- [ ] "Goodnight Punpun" manga bestellen
-- [ ] Plotin Referat
 - [ ] https://backscattering.de/chess/uci/
 - [ ] [Semi-Localized Matrix LVQ](http://home.nerbonne.org/Thesis/G2MLVQ.2012-02-29.lowres.pdf) 
-- [ ] git gud with `Span<T>`
-- [ ] Geschichte HA, messenger
-- [ ] Learn cuda programming
-	- [ ] Learn GPU architecture 
+- [ ] cuda programming
+	- [ ] GPU architecture 
