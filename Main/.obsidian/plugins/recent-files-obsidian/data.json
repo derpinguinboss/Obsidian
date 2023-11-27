@@ -1,16 +1,160 @@
 {
   "recentFiles": [
     {
-      "basename": "EU-Kommission",
-      "path": "Sowi/EU-Kommission.md"
+      "basename": "Europäische Union",
+      "path": "Sowi/Europäische Union.md"
+    },
+    {
+      "basename": "Intergouvernementalismus",
+      "path": "Intergouvernementalismus.md"
+    },
+    {
+      "basename": "Form-follows-function Prinzip",
+      "path": "Form-follows-function Prinzip.md"
+    },
+    {
+      "basename": "Funktionalismus (Neofunktionalismus)",
+      "path": "Funktionalismus (Neofunktionalismus).md"
+    },
+    {
+      "basename": "Rat der Europäischen Union (Ministerrat)",
+      "path": "Sowi/Rat der Europäischen Union (Ministerrat).md"
+    },
+    {
+      "basename": "Europäischer Rat",
+      "path": "Sowi/Europäischer Rat.md"
+    },
+    {
+      "basename": "Föderalismus",
+      "path": "Föderalismus.md"
+    },
+    {
+      "basename": "Europäischer Staatenbund",
+      "path": "Europäischer Staatenbund.md"
     },
     {
       "basename": "Europäisches Parlament",
       "path": "Sowi/Europäisches Parlament.md"
     },
     {
-      "basename": "Europäische Union",
-      "path": "Sowi/Europäische Union.md"
+      "basename": "Spillover Prinzip",
+      "path": "Spillover Prinzip.md"
+    },
+    {
+      "basename": "EU-Kommission",
+      "path": "Sowi/EU-Kommission.md"
+    },
+    {
+      "basename": "PSQT Compression",
+      "path": "Coding/PSQT Compression.md"
+    },
+    {
+      "basename": "Static evaluation",
+      "path": "Coding/Static evaluation.md"
+    },
+    {
+      "basename": "Null Move Search",
+      "path": "Coding/Null Move Search.md"
+    },
+    {
+      "basename": "Draw Randomization",
+      "path": "Coding/Draw Randomization.md"
+    },
+    {
+      "basename": "Mp3 Compression",
+      "path": "Coding/Mp3 Compression.md"
+    },
+    {
+      "basename": "Image Compression",
+      "path": "Coding/Image Compression.md"
+    },
+    {
+      "basename": "FFT 2 - Image Compression",
+      "path": "Coding/FFT 2 - Image Compression.md"
+    },
+    {
+      "basename": "Iterative Deepening",
+      "path": "Coding/Iterative Deepening.md"
+    },
+    {
+      "basename": "NNUE",
+      "path": "Coding/NNUE.md"
+    },
+    {
+      "basename": "Fourier transform",
+      "path": "Coding/Fourier transform.md"
+    },
+    {
+      "basename": "Memory Encoding",
+      "path": "Learning/Memory Encoding.md"
+    },
+    {
+      "basename": "Pixel Sorting",
+      "path": "Coding/Pixel Sorting.md"
+    },
+    {
+      "basename": "Stock Fish",
+      "path": "Coding/Stock Fish.md"
+    },
+    {
+      "basename": "Revised Bloom's Taxonomy",
+      "path": "Learning/Revised Bloom's Taxonomy.md"
+    },
+    {
+      "basename": "Better Understanding",
+      "path": "Learning/Better Understanding.md"
+    },
+    {
+      "basename": "Europäisches Währungssystem",
+      "path": "Sowi/Europäisches Währungssystem.md"
+    },
+    {
+      "basename": "Gemeinsame Außen- und Sicherheitspolitik",
+      "path": "Sowi/Gemeinsame Außen- und Sicherheitspolitik.md"
+    },
+    {
+      "basename": "Gerichtshof der Europäischen Union",
+      "path": "Sowi/Gerichtshof der Europäischen Union.md"
+    },
+    {
+      "basename": "Einheitliche Europäische Akte",
+      "path": "Sowi/Einheitliche Europäische Akte.md"
+    },
+    {
+      "basename": "Europäische Wirtschafts- und Währungsunion",
+      "path": "Sowi/Europäische Wirtschafts- und Währungsunion.md"
+    },
+    {
+      "basename": "Europäische Union - Phasen",
+      "path": "Sowi/Europäische Union - Phasen.md"
+    },
+    {
+      "basename": "Higher Order Learning",
+      "path": "Learning/Higher Order Learning.md"
+    },
+    {
+      "basename": "Fast Fourier Transform",
+      "path": "Coding/Fast Fourier Transform.md"
+    },
+    {
+      "basename": "Cut Node",
+      "path": "Coding/Cut Node.md"
+    },
+    {
+      "basename": "Low Level Optimizations",
+      "path": "Coding/Low Level Optimizations.md"
+    },
+    {
+      "basename": "Plotin",
+      "path": "Philo/Plotin.md"
+    },
+    {
+      "basename": "Geschichte der EU",
+      "path": "Sowi/Geschichte der EU.md"
+    },
+    {
+      "basename": "Benelux",
+      "path": "Sowi/Benelux.md"
     },
     {
       "basename": "Europäische Gemeinschaft für Kohle und Stahl",
@@ -19,22 +163,6 @@
     {
       "basename": "Eintritt des Westbalkans in die EU",
       "path": "Sowi/Eintritt des Westbalkans in die EU.md"
-    },
-    {
-      "basename": "Europäische Union - Phasen",
-      "path": "Sowi/Europäische Union - Phasen.md"
-    },
-    {
-      "basename": "Rat der Europäischen Union (Ministerrat)",
-      "path": "Sowi/Rat der Europäischen Union (Ministerrat).md"
-    },
-    {
-      "basename": "Gerichtshof der Europäischen Union",
-      "path": "Sowi/Gerichtshof der Europäischen Union.md"
-    },
-    {
-      "basename": "Europäischer Rat",
-      "path": "Sowi/Europäischer Rat.md"
     },
     {
       "basename": "Europäische Union - Friedensnobelpreis",
@@ -53,32 +181,8 @@
       "path": "Sowi/Europäische Gemeinschaft.md"
     },
     {
-      "basename": "Benelux",
-      "path": "Sowi/Benelux.md"
-    },
-    {
       "basename": "Europäische Wirtschaftsgemeinschaft",
       "path": "Sowi/Europäische Wirtschaftsgemeinschaft.md"
-    },
-    {
-      "basename": "Europäisches Währungssystem",
-      "path": "Sowi/Europäisches Währungssystem.md"
-    },
-    {
-      "basename": "Geschichte der EU",
-      "path": "Sowi/Geschichte der EU.md"
-    },
-    {
-      "basename": "Einheitliche Europäische Akte",
-      "path": "Sowi/Einheitliche Europäische Akte.md"
-    },
-    {
-      "basename": "Gemeinsame Außen- und Sicherheitspolitik",
-      "path": "Sowi/Gemeinsame Außen- und Sicherheitspolitik.md"
-    },
-    {
-      "basename": "Europäische Wirtschafts- und Währungsunion",
-      "path": "Sowi/Europäische Wirtschafts- und Währungsunion.md"
     },
     {
       "basename": "Fachbegriffe der Linguistik",
@@ -93,108 +197,8 @@
       "path": "Coding/Backpropagation.md"
     },
     {
-      "basename": "NNUE",
-      "path": "Coding/NNUE.md"
-    },
-    {
-      "basename": "Fourier transform",
-      "path": "Coding/Fourier transform.md"
-    },
-    {
       "basename": "Node Pruning",
       "path": "Coding/Node Pruning.md"
-    },
-    {
-      "basename": "Image Compression",
-      "path": "Coding/Image Compression.md"
-    },
-    {
-      "basename": "Draw Randomization",
-      "path": "Coding/Draw Randomization.md"
-    },
-    {
-      "basename": "Static evaluation",
-      "path": "Coding/Static evaluation.md"
-    },
-    {
-      "basename": "Stock Fish",
-      "path": "Coding/Stock Fish.md"
-    },
-    {
-      "basename": "Hallucinations of LLMs",
-      "path": "Coding/Hallucinations of LLMs.md"
-    },
-    {
-      "basename": "Spracherwerbstheorien",
-      "path": "Deutsch/Spracherwerbstheorien.md"
-    },
-    {
-      "basename": "Linguistik",
-      "path": "Deutsch/Linguistik.md"
-    },
-    {
-      "basename": "Pragmatik",
-      "path": "Deutsch/Pragmatik.md"
-    },
-    {
-      "basename": "Syntax",
-      "path": "Deutsch/Syntax.md"
-    },
-    {
-      "basename": "Semantik",
-      "path": "Deutsch/Semantik.md"
-    },
-    {
-      "basename": "Lexikologie",
-      "path": "Deutsch/Lexikologie.md"
-    },
-    {
-      "basename": "Phonetik und Phonologie",
-      "path": "Deutsch/Phonetik und Phonologie.md"
-    },
-    {
-      "basename": "Morphologie",
-      "path": "Deutsch/Morphologie.md"
-    },
-    {
-      "basename": "Behaviorismus",
-      "path": "Deutsch/Behaviorismus.md"
-    },
-    {
-      "basename": "Nativismus (Mentalismus)",
-      "path": "Deutsch/Nativismus (Mentalismus).md"
-    },
-    {
-      "basename": "Kognitivismus (Konstruktivismus)",
-      "path": "Deutsch/Kognitivismus (Konstruktivismus).md"
-    },
-    {
-      "basename": "Interaktionismus",
-      "path": "Deutsch/Interaktionismus.md"
-    },
-    {
-      "basename": "Universalgrammatik",
-      "path": "Deutsch/Universalgrammatik.md"
-    },
-    {
-      "basename": "Zonen der proximalen Entwicklung",
-      "path": "Deutsch/Zonen der proximalen Entwicklung.md"
-    },
-    {
-      "basename": "Better Understanding",
-      "path": "Learning/Better Understanding.md"
-    },
-    {
-      "basename": "Neuroplasticity",
-      "path": "Learning/Neuroplasticity.md"
-    },
-    {
-      "basename": "Memory Encoding",
-      "path": "Learning/Memory Encoding.md"
-    },
-    {
-      "basename": "Higher Order Learning",
-      "path": "Learning/Higher Order Learning.md"
     }
   ],
   "omittedPaths": [],

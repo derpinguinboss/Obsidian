@@ -1,4 +1,30 @@
 
+
+Modelle der europäischen Integration
+===
+- [[Europäischer Bundesstaat]]
+- [[Europäischer Staatenbund]]
+- [[Differenzierte Integration]]
+- [[Europa der Regionen]]
+- [[Festung Europa]]
+
+
+Theorien der europäischen Integration
+===
+Mit einer Integrationstheorie soll das Ziel oder der Weg zur Integration mit einer überschaubaren Zahl von Bedingungen, Akteuren und Handlungsoptionen beschrieben werden, die in einem logischen Zusammenhang stehen.
+- Komplexe Realität abstrahieren
+	- > Erkennung genereller Trends und wiederkehrender Erklärungsmuster
+	- Aktuelle Politik analysieren und Prognosen für die Zukunft treffen
+	- Leitbilder, Orientierungshilfe und Handlungsoptionen
+- Systemen von Begriffen, Annahmen, Kausalmechanismen und Hypothesen aufgebaut sind. 
+	- können konkurrieren oder vereinigt angewandt werden.
+	- Strukturierten Blick auf die Welt
+
+1. [[Föderalismus]]
+2. [[Intergouvernementalismus]]
+3. [[Funktionalismus (Neofunktionalismus)]]
+
+
 Organe und Institutionen
 ===
 Organe erfüllen die Aufgaben des Staatswesens und verfügen über eine aktive und passive Klagebefugnis. Die Organe eines politischen Systems handeln nach Maßgabe und Befugnisse die ihnen die jeweiligen Verfassungen zuweisen. Institutionen helfen Organen, ihre Aufgaben zu erfüllen. Seit dem Vertrag von Lissabon (2009) verfügt die EU über insgesamt sieben Organe: 
@@ -40,4 +66,5 @@ _Eine funktionsfähige Marktwirtschaft mit wettbewerbsfähigen Unternehmen, die 
 - Soziale Marktwirtschaft
 - Keine Binnengrenzen
 - Euro
+
 
