@@ -3,7 +3,7 @@
 Definition
 ---
 - Gegenbild zu den anderen, positiven Integrationsmodellen
-- Verschaerfte Aussengrenzen
+- Verschärfte Außengrenzen
 - Vielleicht Wiedereinführung von Grenzkontrollen innerhalb der EU
 - Restrikte Einwanderungs- und Asylpolitik
 

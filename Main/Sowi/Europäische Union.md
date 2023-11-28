@@ -27,6 +27,7 @@ Mit einer Integrationstheorie soll das Ziel oder der Weg zur Integration mit ein
 
 Organe und Institutionen
 ===
+![[Pasted image 20231128222639.png]]
 Organe erfüllen die Aufgaben des Staatswesens und verfügen über eine aktive und passive Klagebefugnis. Die Organe eines politischen Systems handeln nach Maßgabe und Befugnisse die ihnen die jeweiligen Verfassungen zuweisen. Institutionen helfen Organen, ihre Aufgaben zu erfüllen. Seit dem Vertrag von Lissabon (2009) verfügt die EU über insgesamt sieben Organe: 
 - [[Europäischer Rat]]
 - [[Europäisches Parlament]]
