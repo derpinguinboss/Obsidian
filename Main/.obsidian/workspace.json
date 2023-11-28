@@ -23,8 +23,59 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f40b0c321d8585b0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Europäische Union",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":27},\"to\":{\"line\":11,\"ch\":27}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowi/Europäischer Staatenbund.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a47fb3f2c46e202b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowi/Europäischer Staatenbund.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mentalis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,11 +165,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -143,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sowi/Europäischer Bundesstaat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sowi/Europäischer Bundesstaat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +262,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sowi/Europäischer Bundesstaat.md"
+              }
             }
           },
           {
@@ -250,7 +307,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,15 +326,15 @@
     }
   },
   "floating": {
-    "id": "c851e7ce73910862",
+    "id": "7de29fa49c890201",
     "type": "floating",
     "children": [
       {
-        "id": "bd465a164fe88878",
+        "id": "5d987f84e4cce53d",
         "type": "window",
         "children": [
           {
-            "id": "743e043e0ae708ca",
+            "id": "8ac10a22c130c6e2",
             "type": "tabs",
             "children": [
               {
@@ -286,10 +344,10 @@
                   "pos": 1,
                   "stack": [
                     {
-                      "title": "Rat der Europäischen Union (Ministerrat)",
+                      "title": "Europäischer Bundesstaat",
                       "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Rat der Europäischen Union (Ministerrat).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäischer Bundesstaat.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}}}"
                     },
                     {
                       "state": "{}",
@@ -298,7 +356,7 @@
                     {
                       "title": "Föderalismus",
                       "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Föderalismus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Föderalismus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                       "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                     }
                   ]
@@ -312,32 +370,62 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "d1d0f4c11d150dd3",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sowi/Europäischer Bundesstaat.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 186,
-        "y": -23,
+        "x": 22,
+        "y": 20,
         "width": 1876,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "da63602a87bbf225",
+  "active": "d1d0f4c11d150dd3",
   "lastOpenFiles": [
+    "Sowi/Europäischer Staatenbund.md",
     "Sowi/Europäische Union.md",
-    "Intergouvernementalismus.md",
-    "Form-follows-function Prinzip.md",
-    "Funktionalismus (Neofunktionalismus).md",
-    "Sowi/Rat der Europäischen Union (Ministerrat).md",
+    "Sowi/Europäischer Bundesstaat.md",
+    "Differenzierte Integration.md",
+    "Europa der Regionen.md",
     "Sowi/Europäischer Rat.md",
-    "Föderalismus.md",
-    "Europäischer Staatenbund.md",
+    "Sowi/Föderalismus.md",
+    "Festung Europa.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "Sowi/Intergouvernementalismus.md",
+    "Sowi/Form-follows-function Prinzip.md",
+    "Sowi/Funktionalismus (Neofunktionalismus).md",
+    "Sowi/Rat der Europäischen Union (Ministerrat).md",
     "Sowi/Europäisches Parlament.md",
-    "Spillover Prinzip.md",
+    "Sowi/Spillover Prinzip.md",
     "Sowi/EU-Kommission.md",
     "Coding/PSQT Compression.md",
     "Coding/Static evaluation.md",
@@ -349,11 +437,6 @@
     "Coding/Iterative Deepening.md",
     "Coding/NNUE.md",
     "Coding/Fourier transform.md",
-    "Learning/Memory Encoding.md",
-    "Coding/Pixel Sorting.md",
-    "Coding/Stock Fish.md",
-    "Learning/Revised Bloom's Taxonomy.md",
-    "Learning/Better Understanding.md",
     "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
     "Misc",
     "Coding/807_on_the_convergence_of_adam_and.pdf",
@@ -364,7 +447,6 @@
     "1111100000.txt",
     "1111100000_.txt",
     "Untitled.txt",
-    "Untitled.canvas",
     "Pasted image 20230807163024.png",
     "Pasted image 20230807163023.png",
     "Pasted image 20230716151717.png",

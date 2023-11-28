@@ -5,20 +5,32 @@
       "path": "Sowi/Europäische Union.md"
     },
     {
-      "basename": "Intergouvernementalismus",
-      "path": "Intergouvernementalismus.md"
+      "basename": "Europäischer Bundesstaat",
+      "path": "Sowi/Europäischer Bundesstaat.md"
     },
     {
-      "basename": "Form-follows-function Prinzip",
-      "path": "Form-follows-function Prinzip.md"
+      "basename": "Uomo Universale",
+      "path": "Kunst/Uomo Universale.md"
     },
     {
-      "basename": "Funktionalismus (Neofunktionalismus)",
-      "path": "Funktionalismus (Neofunktionalismus).md"
+      "basename": "Europäischer Staatenbund",
+      "path": "Sowi/Europäischer Staatenbund.md"
     },
     {
       "basename": "Rat der Europäischen Union (Ministerrat)",
       "path": "Sowi/Rat der Europäischen Union (Ministerrat).md"
+    },
+    {
+      "basename": "Europäisches Parlament",
+      "path": "Sowi/Europäisches Parlament.md"
+    },
+    {
+      "basename": "Differenzierte Integration",
+      "path": "Differenzierte Integration.md"
+    },
+    {
+      "basename": "Europa der Regionen",
+      "path": "Europa der Regionen.md"
     },
     {
       "basename": "Europäischer Rat",
@@ -26,19 +38,39 @@
     },
     {
       "basename": "Föderalismus",
-      "path": "Föderalismus.md"
+      "path": "Sowi/Föderalismus.md"
     },
     {
-      "basename": "Europäischer Staatenbund",
-      "path": "Europäischer Staatenbund.md"
+      "basename": "Festung Europa",
+      "path": "Festung Europa.md"
     },
     {
-      "basename": "Europäisches Parlament",
-      "path": "Sowi/Europäisches Parlament.md"
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Intergouvernementalismus",
+      "path": "Sowi/Intergouvernementalismus.md"
+    },
+    {
+      "basename": "Form-follows-function Prinzip",
+      "path": "Sowi/Form-follows-function Prinzip.md"
+    },
+    {
+      "basename": "Funktionalismus (Neofunktionalismus)",
+      "path": "Sowi/Funktionalismus (Neofunktionalismus).md"
     },
     {
       "basename": "Spillover Prinzip",
-      "path": "Spillover Prinzip.md"
+      "path": "Sowi/Spillover Prinzip.md"
     },
     {
       "basename": "EU-Kommission",
@@ -167,38 +199,6 @@
     {
       "basename": "Europäische Union - Friedensnobelpreis",
       "path": "Sowi/Europäische Union - Friedensnobelpreis.md"
-    },
-    {
-      "basename": "Europäische Verteidigungsgemeinschaft",
-      "path": "Sowi/Europäische Verteidigungsgemeinschaft.md"
-    },
-    {
-      "basename": "Europäische Atomgemeinschaft",
-      "path": "Sowi/Europäische Atomgemeinschaft.md"
-    },
-    {
-      "basename": "Europäische Gemeinschaft",
-      "path": "Sowi/Europäische Gemeinschaft.md"
-    },
-    {
-      "basename": "Europäische Wirtschaftsgemeinschaft",
-      "path": "Sowi/Europäische Wirtschaftsgemeinschaft.md"
-    },
-    {
-      "basename": "Fachbegriffe der Linguistik",
-      "path": "Deutsch/Fachbegriffe der Linguistik.md"
-    },
-    {
-      "basename": "Theorie von Steven Pinker",
-      "path": "Deutsch/Theorie von Steven Pinker.md"
-    },
-    {
-      "basename": "Backpropagation",
-      "path": "Coding/Backpropagation.md"
-    },
-    {
-      "basename": "Node Pruning",
-      "path": "Coding/Node Pruning.md"
     }
   ],
   "omittedPaths": [],
