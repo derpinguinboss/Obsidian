@@ -25,6 +25,28 @@
             }
           },
           {
+            "id": "d8d6d81ac2100dc6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Die Staatsform der Zukunft.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f40b0c321d8585b0",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -196,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sowi/Europäischer Bundesstaat.md",
+                "file": "Die Staatsform der Zukunft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sowi/Europäischer Bundesstaat.md",
+                "file": "Die Staatsform der Zukunft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sowi/Europäischer Bundesstaat.md"
+                "file": "Die Staatsform der Zukunft.md"
               }
             }
           },
@@ -325,93 +347,12 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "floating": {
-    "id": "7de29fa49c890201",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5d987f84e4cce53d",
-        "type": "window",
-        "children": [
-          {
-            "id": "8ac10a22c130c6e2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "15e1c5d48cc86f38",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 1,
-                  "stack": [
-                    {
-                      "title": "Europäischer Bundesstaat",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäischer Bundesstaat.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}}}"
-                    },
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Föderalismus",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Föderalismus.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sowi/Europäische Union.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d1d0f4c11d150dd3",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sowi/Europäischer Bundesstaat.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 22,
-        "y": 20,
-        "width": 1876,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d1d0f4c11d150dd3",
+  "active": "d8d6d81ac2100dc6",
   "lastOpenFiles": [
+    "Die Staatsform der Zukunft.md",
+    "Sowi/Europäischer Bundesstaat.md",
     "Sowi/Europäischer Staatenbund.md",
     "Sowi/Europäische Union.md",
-    "Sowi/Europäischer Bundesstaat.md",
     "Differenzierte Integration.md",
     "Europa der Regionen.md",
     "Sowi/Europäischer Rat.md",
@@ -419,7 +360,6 @@
     "Festung Europa.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled.md",
     "Sowi/Intergouvernementalismus.md",
     "Sowi/Form-follows-function Prinzip.md",
     "Sowi/Funktionalismus (Neofunktionalismus).md",
