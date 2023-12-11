@@ -8,138 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da63602a87bbf225",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "DCT-II",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/DCT-II.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Sigma Regeln",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0.8438818565400844}"
-                },
-                {
-                  "title": "Mathe Abi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Mathe Abi.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Klausur 4.9.",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Klausur 4.9..md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sigma Regeln",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Festung Europa",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Festung Europa.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Europäische Union",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}}}"
-                },
-                {
-                  "title": "Europäische Union - Friedensnobelpreis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union - Friedensnobelpreis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Europäische Union",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Benelux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Benelux.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/DCT-III.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8d6d81ac2100dc6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philo/Die Staatsform der Zukunft.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f40b0c321d8585b0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Europäische Union",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":27},\"to\":{\"line\":11,\"ch\":27}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sowi/Europäischer Staatenbund.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a47fb3f2c46e202b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -280,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/DCT-III.md",
+                "file": "Sowi/Europäischer Staatenbund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/DCT-III.md",
+                "file": "Sowi/Europäischer Staatenbund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/DCT-III.md"
+                "file": "Sowi/Europäischer Staatenbund.md"
               }
             }
           },
@@ -396,21 +264,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "omnisearch:Omnisearch": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today's daily note": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "periodic-notes:Open today's daily note": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "da63602a87bbf225",
+  "active": "a47fb3f2c46e202b",
   "lastOpenFiles": [
+    "Sowi/Gerichtshof der Europäischen Union.md",
+    "Math/DCT-III.md",
+    "Philo/Die Staatsform der Zukunft.md",
+    "Sowi/Benelux.md",
     "Math/DCT-II.md",
     "Math/Sigma Regeln.md",
     "Math/Mathe Abi.md",
@@ -420,8 +292,6 @@
     "Sowi/Europäischer Bundesstaat.md",
     "Sowi.zip",
     "Sowi/Europäische Union - Friedensnobelpreis.md",
-    "Sowi/Benelux.md",
-    "Philo/Die Staatsform der Zukunft.md",
     "Sowi/Europäischer Staatenbund.md",
     "Differenzierte Integration.md",
     "Europa der Regionen.md",
@@ -438,8 +308,6 @@
     "Sowi/Spillover Prinzip.md",
     "Sowi/EU-Kommission.md",
     "Coding/PSQT Compression.md",
-    "Coding/Static evaluation.md",
-    "Coding/Null Move Search.md",
     "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
     "Misc",
     "Coding/807_on_the_convergence_of_adam_and.pdf",

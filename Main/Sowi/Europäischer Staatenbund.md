@@ -1,5 +1,4 @@
 
-
 Definition
 ---
 - Beherrschende Stellung der Regierungen der Mitgliedsstaaten
