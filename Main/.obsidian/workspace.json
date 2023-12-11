@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "e8c3a6ad0fe7b0c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3187b80c3937fa19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a47fb3f2c46e202b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sowi/Europäischer Staatenbund.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bf9c073a5d2f73f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7628399c4b2927aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24908edbb09fe0ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "3a0fa27586a89227",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "262bd944cfdad646",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a828ee010dcd078",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "right": {
+    "id": "ace585f8412eb6f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c3cee098077eeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ac8fe17db6cf076",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sowi/Europäischer Staatenbund.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c396f1413cd8b683",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sowi/Europäischer Staatenbund.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08eaafe7cbf8df99",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8847df7c55d6e099",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sowi/Europäischer Staatenbund.md"
+              }
+            }
+          },
+          {
+            "id": "520ad1919bc431dc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd8dc67ba101b189",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today's daily note": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "a47fb3f2c46e202b",
+  "lastOpenFiles": [
+    "Sowi/Gerichtshof der Europäischen Union.md",
+    "Math/DCT-III.md",
+    "Philo/Die Staatsform der Zukunft.md",
+    "Sowi/Benelux.md",
+    "Math/DCT-II.md",
+    "Math/Sigma Regeln.md",
+    "Math/Mathe Abi.md",
+    "Math/Klausur 4.9..md",
+    "Sowi/Festung Europa.md",
+    "Sowi/Europäische Union.md",
+    "Sowi/Europäischer Bundesstaat.md",
+    "Sowi.zip",
+    "Sowi/Europäische Union - Friedensnobelpreis.md",
+    "Sowi/Europäischer Staatenbund.md",
+    "Differenzierte Integration.md",
+    "Europa der Regionen.md",
+    "Sowi/Europäischer Rat.md",
+    "Sowi/Föderalismus.md",
+    "Festung Europa.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Sowi/Intergouvernementalismus.md",
+    "Sowi/Form-follows-function Prinzip.md",
+    "Sowi/Funktionalismus (Neofunktionalismus).md",
+    "Sowi/Rat der Europäischen Union (Ministerrat).md",
+    "Sowi/Europäisches Parlament.md",
+    "Sowi/Spillover Prinzip.md",
+    "Sowi/EU-Kommission.md",
+    "Coding/PSQT Compression.md",
+    "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
+    "Misc",
+    "Coding/807_on_the_convergence_of_adam_and.pdf",
+    "Coding/Nicht bestätigt 291095.crdownload",
+    "Deutsch",
+    "Phonetik",
+    "Nativismus",
+    "1111100000.txt",
+    "1111100000_.txt",
+    "Pasted image 20230807163024.png",
+    "Pasted image 20230807163023.png",
+    "Pasted image 20230716151717.png",
+    "Pasted image 20230716151700.png",
+    "Pasted image 20230716151657.png"
+  ]
+}
