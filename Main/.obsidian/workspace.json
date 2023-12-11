@@ -16,12 +16,77 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "DCT-II",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/DCT-II.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Sigma Regeln",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0.8438818565400844}"
+                },
+                {
+                  "title": "Mathe Abi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Mathe Abi.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Klausur 4.9.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Klausur 4.9..md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sigma Regeln",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Math/Sigma Regeln.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Festung Europa",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Festung Europa.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}}}"
+                },
+                {
+                  "title": "Europäische Union - Friedensnobelpreis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union - Friedensnobelpreis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Europäische Union",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Europäische Union.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Benelux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sowi/Benelux.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math/DCT-III.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -39,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Die Staatsform der Zukunft.md",
+                "file": "Philo/Die Staatsform der Zukunft.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,8 +161,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +251,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "ace585f8412eb6f6",
@@ -218,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Die Staatsform der Zukunft.md",
+                "file": "Math/DCT-III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Die Staatsform der Zukunft.md",
+                "file": "Math/DCT-III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Die Staatsform der Zukunft.md"
+                "file": "Math/DCT-III.md"
               }
             }
           },
@@ -347,12 +409,20 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "d8d6d81ac2100dc6",
+  "active": "da63602a87bbf225",
   "lastOpenFiles": [
-    "Die Staatsform der Zukunft.md",
-    "Sowi/Europäischer Bundesstaat.md",
-    "Sowi/Europäischer Staatenbund.md",
+    "Math/DCT-II.md",
+    "Math/Sigma Regeln.md",
+    "Math/Mathe Abi.md",
+    "Math/Klausur 4.9..md",
+    "Sowi/Festung Europa.md",
     "Sowi/Europäische Union.md",
+    "Sowi/Europäischer Bundesstaat.md",
+    "Sowi.zip",
+    "Sowi/Europäische Union - Friedensnobelpreis.md",
+    "Sowi/Benelux.md",
+    "Philo/Die Staatsform der Zukunft.md",
+    "Sowi/Europäischer Staatenbund.md",
     "Differenzierte Integration.md",
     "Europa der Regionen.md",
     "Sowi/Europäischer Rat.md",
@@ -370,13 +440,6 @@
     "Coding/PSQT Compression.md",
     "Coding/Static evaluation.md",
     "Coding/Null Move Search.md",
-    "Coding/Draw Randomization.md",
-    "Coding/Mp3 Compression.md",
-    "Coding/Image Compression.md",
-    "Coding/FFT 2 - Image Compression.md",
-    "Coding/Iterative Deepening.md",
-    "Coding/NNUE.md",
-    "Coding/Fourier transform.md",
     "Math/735310_Stochastik_Normalverteilung_und_Sigma_Regeln.pdf",
     "Misc",
     "Coding/807_on_the_convergence_of_adam_and.pdf",
@@ -386,7 +449,6 @@
     "Nativismus",
     "1111100000.txt",
     "1111100000_.txt",
-    "Untitled.txt",
     "Pasted image 20230807163024.png",
     "Pasted image 20230807163023.png",
     "Pasted image 20230716151717.png",

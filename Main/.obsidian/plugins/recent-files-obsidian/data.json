@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Die Staatsform der Zukunft",
-      "path": "Die Staatsform der Zukunft.md"
+      "basename": "DCT-III",
+      "path": "Math/DCT-III.md"
+    },
+    {
+      "basename": "DCT-II",
+      "path": "Math/DCT-II.md"
+    },
+    {
+      "basename": "Sigma Regeln",
+      "path": "Math/Sigma Regeln.md"
+    },
+    {
+      "basename": "Mathe Abi",
+      "path": "Math/Mathe Abi.md"
+    },
+    {
+      "basename": "Klausur 4.9.",
+      "path": "Math/Klausur 4.9..md"
+    },
+    {
+      "basename": "Festung Europa",
+      "path": "Sowi/Festung Europa.md"
+    },
+    {
+      "basename": "Europäische Union",
+      "path": "Sowi/Europäische Union.md"
     },
     {
       "basename": "Europäischer Bundesstaat",
       "path": "Sowi/Europäischer Bundesstaat.md"
     },
     {
-      "basename": "Europäische Union",
-      "path": "Sowi/Europäische Union.md"
+      "basename": "Europäische Union - Friedensnobelpreis",
+      "path": "Sowi/Europäische Union - Friedensnobelpreis.md"
+    },
+    {
+      "basename": "Benelux",
+      "path": "Sowi/Benelux.md"
+    },
+    {
+      "basename": "Die Staatsform der Zukunft",
+      "path": "Philo/Die Staatsform der Zukunft.md"
     },
     {
       "basename": "Uomo Universale",
@@ -47,10 +79,6 @@
     {
       "basename": "Differenzierte Integration",
       "path": "Sowi/Differenzierte Integration.md"
-    },
-    {
-      "basename": "Festung Europa",
-      "path": "Sowi/Festung Europa.md"
     },
     {
       "basename": "Europäischer Staatenbund",
@@ -171,26 +199,6 @@
     {
       "basename": "Plotin",
       "path": "Philo/Plotin.md"
-    },
-    {
-      "basename": "Geschichte der EU",
-      "path": "Sowi/Geschichte der EU.md"
-    },
-    {
-      "basename": "Benelux",
-      "path": "Sowi/Benelux.md"
-    },
-    {
-      "basename": "Europäische Gemeinschaft für Kohle und Stahl",
-      "path": "Sowi/Europäische Gemeinschaft für Kohle und Stahl.md"
-    },
-    {
-      "basename": "Eintritt des Westbalkans in die EU",
-      "path": "Sowi/Eintritt des Westbalkans in die EU.md"
-    },
-    {
-      "basename": "Europäische Union - Friedensnobelpreis",
-      "path": "Sowi/Europäische Union - Friedensnobelpreis.md"
     }
   ],
   "omittedPaths": [],

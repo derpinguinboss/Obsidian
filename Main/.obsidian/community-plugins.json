@@ -20,5 +20,6 @@
   "background-image",
   "execute-code",
   "obsidian-codemirror-options",
-  "obsidian-wakatime"
+  "obsidian-wakatime",
+  "obsidian-pandoc"
 ]

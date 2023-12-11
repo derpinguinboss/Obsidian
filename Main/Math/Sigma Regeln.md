@@ -23,3 +23,4 @@ Für eine ${N_{\mu,\sigma}}$-verteilte Zufallsgröße gelten folgende Sigma-Rege
 | ${[\mu-1,64\sigma; \mu+1,64\sigma]}$   | ${0,90}$      |
 | ${[\mu-1,96\sigma; \mu+1,96\sigma]}$ | ${0,95}$      |
 | ${[\mu-2,58\sigma; \mu+2,58\sigma]}$ | ${0,99}$      |
+
