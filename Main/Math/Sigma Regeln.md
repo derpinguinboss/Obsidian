@@ -7,7 +7,7 @@ Source
 Content
 ---
 
-Die Sigma Regeln gelten als anwendbar für ${\sigma \geq 3}$, da somit die Laplace-Bedingung erfüllt ist.
+Die Sigma Regeln gelten als anwendbar für ${\sigma \geq 3}$, da somit die [[Laplace-Bedingung]] erfüllt ist.
 
 Für eine ${N_{\mu,\sigma}}$-verteilte Zufallsgröße gelten folgende Sigma-Regeln:
 
