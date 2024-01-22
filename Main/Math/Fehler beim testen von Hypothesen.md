@@ -26,7 +26,7 @@ Irrtumsw'keit \leq Signifikanzniveau
 $$
 $$
 \begin{flalign}
-\alpha = P(x = VB)
+\alpha = P(x \in VB)
 &&\end{flalign}
 $$
 
@@ -47,6 +47,6 @@ $\Rightarrow$ Kann nicht bestimmt werden, da $p$ unbekannt ist.
 Man kann jedoch für ein in Frage kommendes $p$ eine dazu gehörige W'keit berechnen.
 $$
 \begin{flalign}
-\beta = P(x = AB)
+\beta = P(x \in AB)
 &&\end{flalign}
 $$
