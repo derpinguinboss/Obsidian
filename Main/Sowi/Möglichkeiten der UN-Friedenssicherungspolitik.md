@@ -39,6 +39,7 @@ _1. Generation_
 	- Unparteilichkeit
 	- Nur Selbstverteidigung
 - Konzentration auf aktuelle Zwischenstaatliche Konflikte
+- Trennung der Konfliktpareien, Einsatz nach beendung der Waffenkonflikte
 
 _2. Generation_
 ---
