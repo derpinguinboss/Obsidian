@@ -9,7 +9,7 @@ Kapitel $VI$ und $VII$ der UN-Charta
 - Parteien von Streitigkeiten sollen zu *friedlichen Mittlen* greifen
 	- Soll auch vom Sicherheitsrat gefordert werden
 	- *friedliche Mittel*:
-		1. Gerichtsitzungen
+		1. Gerichtsitzungen, Verhandlungen
 		2. Wirtschaftlich und diplomatische Eingriffe (von teilweisen Unterbrechungen wirtschaftlicher Beziehungen bis zu komplettem Abbruch diplomatischer Beziehungen)
 		3. Waffengewalt eigentlich verboten, doch mit Ausnahmen (Und besonders in späteren Generationen) erlaubt
 - Der Sicherheitsrat:
