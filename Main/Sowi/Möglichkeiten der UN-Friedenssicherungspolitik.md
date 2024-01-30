@@ -9,11 +9,11 @@ Kapitel $VI$ und $VII$ der UN-Charta
 - Parteien von Streitigkeiten sollen zu *friedlichen Mittlen* greifen
 	- Soll auch vom Sicherheitsrat gefordert werden
 	- *friedliche Mittel*:
-		1. Gerichtsitzungen
+		1. Gerichtsitzungen, Verhandlungen
 		2. Wirtschaftlich und diplomatische Eingriffe (von teilweisen Unterbrechungen wirtschaftlicher Beziehungen bis zu komplettem Abbruch diplomatischer Beziehungen)
 		3. Waffengewalt eigentlich verboten, doch mit Ausnahmen (Und besonders in späteren Generationen) erlaubt
 - Der Sicherheitsrat:
-	- Ist verpflichtet Streitigkeiten und ihrem Bedrohungsfaktor nachzugehen
+	- Ist verpflichtet Streitigkeiten und ihrem **Bedrohungsfaktor** nachzugehen
 	- Ist verpflichtet Auf die Gerichtsnormen des International GH's zu achten
 	- Kann Lösungsvorschläge and die Konfliktparteien zu äußern
 - Die UN-Mitglieder sind dazu verpflichtet die Beschlüsse des Sicherheitsrates auszuführen
@@ -39,6 +39,7 @@ _1. Generation_
 	- Unparteilichkeit
 	- Nur Selbstverteidigung
 - Konzentration auf aktuelle Zwischenstaatliche Konflikte
+- Trennung der Konfliktpareien, Einsatz nach beendung der Waffenkonflikte
 
 _2. Generation_
 ---
