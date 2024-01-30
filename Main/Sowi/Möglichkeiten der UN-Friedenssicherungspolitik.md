@@ -13,7 +13,7 @@ Kapitel $VI$ und $VII$ der UN-Charta
 		2. Wirtschaftlich und diplomatische Eingriffe (von teilweisen Unterbrechungen wirtschaftlicher Beziehungen bis zu komplettem Abbruch diplomatischer Beziehungen)
 		3. Waffengewalt eigentlich verboten, doch mit Ausnahmen (Und besonders in späteren Generationen) erlaubt
 - Der Sicherheitsrat:
-	- Ist verpflichtet Streitigkeiten und ihrem Bedrohungsfaktor nachzugehen
+	- Ist verpflichtet Streitigkeiten und ihrem **Bedrohungsfaktor** nachzugehen
 	- Ist verpflichtet Auf die Gerichtsnormen des International GH's zu achten
 	- Kann Lösungsvorschläge and die Konfliktparteien zu äußern
 - Die UN-Mitglieder sind dazu verpflichtet die Beschlüsse des Sicherheitsrates auszuführen
