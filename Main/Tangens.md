@@ -1,4 +1,4 @@
 Derivative
 ---
 $f(x)=tanx$
-$f'(x)=tan^2x$
+$f'(x)=\frac{1}{cos^2x}$
