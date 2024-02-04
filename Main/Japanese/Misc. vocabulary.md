@@ -6,3 +6,6 @@
 | 出る | でる | deru | leave |
 | 入る | はいる | hairu | enter |
 |  |  |  |  |
+| 上る | のぼる | noboru | go up |
+| 上 |  | oue | up |
+| 上げる | あげる | angeru | improve/raise |
