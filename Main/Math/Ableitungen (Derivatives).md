@@ -24,10 +24,10 @@ Spezifikationen
 
 [[Trigonometric derivatives]]
 ---
+![[Pasted image 20240204161434.png]]
 - [[Sine]]
 - [[Cosine]]
 - [[Tangens]]
-
 
 [[Activation functions and derivatives]]
 ---
