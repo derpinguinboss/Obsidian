@@ -9,3 +9,4 @@
 | 上る | のぼる | noboru | go up |
 | 上 |  | oue | up |
 | 上げる | あげる | angeru | improve/raise |
+| あげる | あげる | angeru | give |
