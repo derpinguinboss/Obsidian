@@ -10,3 +10,9 @@
 | 上 |  | oue | up |
 | 上げる | あげる | angeru | improve/raise |
 | あげる | あげる | angeru | give |
+|  |  |  |  |
+| 閉じる | とじる | tojiru | close |
+| 閉める | しめる | shimeru | shut, close |
+| 閉まる | しまる | shimaru | be shut, be closed |
+| 開く | ひらく | kiraku | open |
+| 開ける | あける | akeru | open, unlock |
