@@ -47,4 +47,4 @@ Grund
 
 Entwürfe
 ---
-- Einschränkung des Vetos im Fall von Massengraeueltaten
+- Einschränkung der Vetos in Extremfällen
