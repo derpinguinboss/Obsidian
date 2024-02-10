@@ -4,7 +4,7 @@
 	- Entstehende Potenzial = **EPSP** 
 	- Überschreitet den Schwellwert am Axonhügel 
 	- $=>$ Aktionspotential ausgelöst 
-- Das **IPSP** (=inhibitorisches postsynaptisches Potential)
+-  Das **IPSP** (=inhibitorisches postsynaptisches Potential)
 	- kurze Hyperpolarisation der postsynaptischen Membran $->$ Chlorid-Kanäle ($Cl^-$) öffnen sich 
 	- postsynaptische Zelle wird negativer (Hyperpolarisation) 
 	- $=>$ Aktionspotential wird erschwert 
