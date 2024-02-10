@@ -2,7 +2,7 @@
 Src
 ===
 [72061](https://www.ccbuchner.de/_files_media/livebook/5782/): S. 446, M12
-
+![[S446_M12.png]]
 
 Strukturreformen
 ===
