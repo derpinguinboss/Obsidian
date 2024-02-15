@@ -9,7 +9,7 @@ Akteure
 	- Entscheidungsfindung
 - Staat ist nur ein außenpolitisches Handlungsorgan der Gesellschaft
 - Staaten leben ihren internen Politikstil nach außen aus
-- Frieden durch nichtmilitaerische Ziele der Staaten
+- Frieden durch nichtmilitärische Ziele der Staaten
 - Staaten mit internen regelgeleiteten, kooperativen ($\approx$ demokratischen, [[Multilateralismus|multilateralen]]) Politikstilen interagieren mehr
 	- $\rightarrow$ Mehr Kooperation und Frieden
 	- $\rightarrow$ Differenz zwischen demokratischen und nicht demokratischen Staaten ist wichtig
