@@ -1,0 +1,1 @@
+Vorherrschaft eines Staates gegenüber einem oder mehreren anderen Staaten gemeint
