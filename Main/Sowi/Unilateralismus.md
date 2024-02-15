@@ -1,0 +1,4 @@
+- Einzelne Staaten handeln alleine und gegen andere
+- In der Praxis bei großen Staaten zu beobachten
+- Konzeptionelles Gegenmodell: [[Multilateralismus]]
+- Hebt auf einen anarchistischen Zustand des System ab

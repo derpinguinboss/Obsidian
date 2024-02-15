@@ -1,0 +1,5 @@
+- Koordination nationaler Politiken von drei oder mehr Staaten durch [[Ad-hoc-Vereinbarungen]] oder Institutionen
+- Politikstil, bei dem die zwischenstaatlichen Beziehungen auf einer Basis bestimmter allgemein akzeptierter Verhaltensregeln 
+- "[[Kultur der Reziprozität]]"
+- Gegenseitige Verlässlichkeit
+- Verzicht auf nicht abgestimmtes Verhalten

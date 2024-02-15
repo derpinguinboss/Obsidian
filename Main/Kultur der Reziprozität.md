@@ -1,0 +1,3 @@
+- "Reziprozität":
+	- Grundprinzip menschlichen Handelns
+	- Gegenseitigkeit, Wechselbezüglichkeit
